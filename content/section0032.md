@@ -1,5 +1,5 @@
 ---
-contentType: prose
+contentType: poetry
 ---
 
 ## d) Žerty a posměšky.

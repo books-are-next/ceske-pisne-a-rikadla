@@ -1,5 +1,5 @@
 ---
-contentType: prose
+contentType: poetry
 ---
 
 ## b) Láska nešťastná.

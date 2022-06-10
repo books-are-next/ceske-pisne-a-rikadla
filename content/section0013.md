@@ -1,5 +1,5 @@
 ---
-contentType: prose
+contentType: poetry
 ---
 
 # Písně věku mládeneckého a panenského.

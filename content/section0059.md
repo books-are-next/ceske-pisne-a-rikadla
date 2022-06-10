@@ -1,5 +1,5 @@
 ---
-contentType: prose
+contentType: poetry
 ---
 
 # Písně o stavích, živnostech a jiných stránkách života občanského.
