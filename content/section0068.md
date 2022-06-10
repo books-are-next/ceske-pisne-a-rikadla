@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 ## Písně pohřební.
 
 ### Dětem.
@@ -649,3 +651,5 @@ umíráme:
 z vůle Boha Hospodina
 
 se shledáme.
+
+</section>

@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 ## Cesta pro nevěstu.
 
 Jest-li nevěsta přespolní, jedou pro ni na žebřinovém vose, k němuž čtvero koní zapraženo jest. Někdy ženich a mladý lid před vozem jedou na koních. Hudba braje, muži výskají, střílejí z bandytek a ženy zpívají.
@@ -325,3 +327,5 @@ nebudu se bávat,
 žebych měla spávat sama jediná.
 
 Z Plzeňska. – Srov. Čel. I, 3.
+
+</section>

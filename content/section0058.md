@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 ## b) Smíšené žertovné a satyrické.
 
 ### 79.
@@ -1821,3 +1823,5 @@ Praštil jsem jim o zem
 a utek‘ jsem domů.
 
 Z Klatovska. – Srov. Jič. Zpěv. str. 368. Tyto poslední tři písně s jich nápěvy jsou na posměch písní vážných.
+
+</section>

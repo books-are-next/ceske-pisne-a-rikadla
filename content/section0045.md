@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 ### Kolíbka.
 
 Když se koláče přinesou na stůl, družba tuto řeč k hostům učiní:
@@ -351,3 +353,5 @@ pro potěšení.
 Z Táborska. – Srov. str. 108, č. 49.
 
 Jak mile dozpíváno, musí nevěsta stromkem zatřásli, jenž tak bývá nastrojen, aby jí ns talíř kolébka neb děťátko padlo, pro smích obecný. Ostatně hledí každý, aby z těch pamlsků něco ulovil, které pak mládenci dávají pannám a panny mládencům, a vdané ženy schovávají svým dělem. Když stromek jest obrán, vyhodí jej ven, načež družba homoli rozkrájí a po kousku mezi hosty rozdělí.
+
+</section>

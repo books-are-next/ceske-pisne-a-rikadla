@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 ## Skládání věnců.
 
 Ve čtvrtek ráno skládají se v hospodě věnce. Družičky totiž vezmou družbám (mládencům) klobouky, a zpívajíce ovinou jim je pentlemi na sposob věnců. Při té příležitosti pijí obyčejné jen rosolku Potom vezsse každá svého družbu k tanci a dříve mu klobouku nedá, dokud se dobře nepropolil a neunavil.
@@ -149,3 +151,5 @@ Z Chrudimska.
 Téhož dne, totiž ve čtvrtek, stínají také kohouta, kterýžto však obyčej již nyní po rídku se spatřuje. Družky vyvedou kohouta na pentlích uvázaného na náves neb na jiné místo prostranné, tam jeden mládenec, na spůsob popa vystrojený, má nad nim řeč, vytýkaje mu, co zlého natropil a co dobrého obmeškal, a že proto hoden jest smrti mečem. Kohout musí se zpovídati, dostane rozhřešení, a jiný mládenec, za kata převlečený, hlavu mu setne. Potom kohouta upekou a společně snědí.
 
 V neděli po svatbě sejde se veškeré příbuzenstvo ještě jednou k rodičům nevěstiným na „přátelský oběd“, jinak také na „dobrou vůli“, při čemž obyčejné také věno se vyplácí.
+
+</section>

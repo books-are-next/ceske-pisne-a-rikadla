@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 ## Příchod.
 
 Přijdouce k domu, kde nevěsta přebývá, naleznou dvéře zavřené; družba jde a klepe, aby otevříno bylo. V písni následující zpívají svatebčané, kteří přicházejí s ženichem, venku před domem první slohu, á hosté, kteří jsou ve stavení s nevěstou, odpovídají slohou druhou.
@@ -697,3 +699,5 @@ Mezi tím, co hudci hrají, připne družička ženichovi kytku na klobouk. Poto
 „A vy pane družbo! tu vám dávám ten šáteček a to kytičku; a nemáte-li dost, ještě vám dám sž ns večer sladkou hubičku.“
 
 A pak i také jemu kytku připne. Ostatní hosté, mužští i ženské, jen po malém proutku rozmaríny dostanou.
+
+</section>

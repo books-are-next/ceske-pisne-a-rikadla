@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 ## Hry jarní.
 
 ### 1.
@@ -54,7 +56,9 @@ Místem uchylují se děti od tohoto pořádku hry v tom, že Helička, když po
 
 Z Berounska.
 
-  
+</section>
+
+<section>
 
 II.
 
@@ -70,7 +74,9 @@ Heličko, Heličko!
 
 červená bílá růžičko!
 
-  
+</section>
+
+<section>
 
 Umyla sobě tvářičky
 
@@ -80,7 +86,9 @@ Heličko, Heličko!
 
 červená bílá růžičko!
 
-  
+</section>
+
+<section>
 
 Urovnala si sukničku,
 
@@ -90,7 +98,9 @@ Heličko, Heličko!
 
 červená bílá růžičko!
 
-  
+</section>
+
+<section>
 
 Obula sobě střevíčky
 
@@ -100,7 +110,9 @@ Heličko, Heličko!
 
 červená bílá růžičko!
 
-  
+</section>
+
+<section>
 
 Podepřela si své boky,
 
@@ -124,7 +136,9 @@ Potom v další hře ta vybraná družka bude Heličkou a tato místo ní družk
 
 Z Táborska.
 
-  
+</section>
+
+<section>
 
 ### 2.
 
@@ -132,7 +146,9 @@ Z Táborska.
 
 jinak také „na pannu Marii“, anebo „na paní Růži neb Růžovou“.
 
-  
+</section>
+
+<section>
 
 I.
 
@@ -236,7 +252,9 @@ Potom jde chodačka pro druhé děvče, zaváže mu oči a hra se opětuje. Kdy�
 
 Z Klatovska.
 
-  
+</section>
+
+<section>
 
 II.
 
@@ -306,7 +324,9 @@ Takto učiní se dvě strany: strana „slunečnic“, s paní Růžovou v čele
 
 Z Berounska.
 
-  
+</section>
+
+<section>
 
 III.
 
@@ -366,7 +386,9 @@ Konečně řekne Maria: Poskoč!
 
 Na to děvčátko vyskočí a jde buď do nebe neb do pekla. Konečné následuje boj andělů s čerty.
 
-  
+</section>
+
+<section>
 
 ### 3.
 
@@ -424,7 +446,9 @@ Nyní se rozejde kolo zase na dvě strany, chlapci na jednu a děvčata na druho
 
 Podobná hra provozuje se na Moravě o přástvách.
 
-  
+</section>
+
+<section>
 
 ### 4.
 
@@ -472,7 +496,9 @@ myslí si: „Kýž jsem mladší,
 
 ach, což bych byla radši!“
 
-  
+</section>
+
+<section>
 
 2. 
 
@@ -482,16 +508,22 @@ V Máji z jara, z jara
 
 každá babka stará
 
-  
+</section>
+
+<section>
 
 tlačí se k sluníčku,
 
 zpívá si písničku:
 
-  
+</section>
+
+<section>
 
 „Kdybych byla mladší,
 
 byla bych já radši.“
 
 Z Prachenska.
+
+</section>

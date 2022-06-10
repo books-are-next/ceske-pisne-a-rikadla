@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 ## Čepení nevěsty.
 
 Nyní odvedou ženy nevěstu do komory, a posadíee ji na stolici, věnec jí s hlavy sundají, pentle rozeberou a vlasy rozpletou. Družba přinese na talíři čepec, jenž k tomu jest určen, a postaví na stál; ženy pak jej vezmou, a jedna, která jest nej-starší a nejpřednější, obyčejně rychta řka anebo nevěstina kmotra, posadí jej nevěstě na hlavu. Z ostatních musí se jí každá aspoň dotknouti. Dvakráte shodí nevěsta čepec s hlavy dolů, a teprv po třetí ho na sobě nechá – na znamení, že jí žel stavu svobodného. Čepec nevěstě koupí obyčejně ženy samy, složivše se. Při čepení hudba za dveřmi hraje a ženy zpívají:
@@ -421,3 +423,5 @@ kdo chce s ni promluvit –
 „Poďte sem, mámo!“
 
 Po očepkách darují místem ženy nevěstě do hospodářství kužel naditý lénem, jehož obyčejně mnoho kloubů bývá.
+
+</section>

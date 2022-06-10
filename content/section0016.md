@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 ## Velikonoc.
 
 V pondělí velikonoční chodí chlapci a na to v úterý děvčata dům od domu s pomlázkou. Pomlázka chlapecká bývá obyčejně z osmi vrbových proutků zpletena nebo ztočena, děvčata pak mívají pouhý proutek, stužkami a strakatými klůcky ozdobený. Přijdouce do domu a zpívajíce, točí dle taktu písně přitom pomlázkou.
@@ -36,7 +38,9 @@ nedáte-li červeny,
 
 dejte aspoň bíly atd.
 
-  
+</section>
+
+<section>
 
 Červených vajec!
 
@@ -76,7 +80,9 @@ tu krávu hraběnce,
 
 ona dá za ni na věnce.
 
-  
+</section>
+
+<section>
 
 Paní jde s louky,
 
@@ -248,7 +254,9 @@ jak pak vám ten koledníček
 
 je milý?
 
-  
+</section>
+
+<section>
 
 Nehněvejte vy se na mě,
 
@@ -266,7 +274,9 @@ on vám za ni poděkuje
 
 srdečně.
 
-  
+</section>
+
+<section>
 
 Pán Bůh vám to nadělí
 
@@ -306,7 +316,9 @@ až dostaneme po vajíčku.
 
 Z Táborska
 
-  
+</section>
+
+<section>
 
 Binovačka se čepejří,
 
@@ -338,7 +350,9 @@ jen prosím, ať je kulaty.
 
 Z Hradecka.
 
-  
+</section>
+
+<section>
 
 Ach má zlatá panímámo!
 
@@ -370,7 +384,9 @@ stodola hoří.
 
 Z Klatovska.
 
-  
+</section>
+
+<section>
 
 Houha hou! krávy jdou,
 
@@ -410,7 +426,9 @@ Píte, píle, páni!
 
 a já budu s vámi.
 
-  
+</section>
+
+<section>
 
 Skoč panno do vody
 
@@ -475,3 +493,5 @@ vstrčila ho do kouta;
 a pacholek kozu,
 
 hodil ji do vozu.
+
+</section>

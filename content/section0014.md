@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 ## Písně masopustní.
 
 1. 
@@ -34,7 +36,9 @@ po znovu.
 
 Z Plzeňska.
 
-  
+</section>
+
+<section>
 
 2. 
 
@@ -48,7 +52,9 @@ starý panny tresce,
 
 milovati nechce?
 
-  
+</section>
+
+<section>
 
 3.
 
@@ -82,7 +88,9 @@ kam pak my ty stary panny
 
 prodáme, prodáme?
 
-  
+</section>
+
+<section>
 
 Prodáme je do Hrdliva
 
@@ -92,7 +100,9 @@ aby je měl se židovkou
 
 do zeli, do zelí.
 
-  
+</section>
+
+<section>
 
 Prodáme je Velvarskýmu
 
@@ -108,7 +118,9 @@ Z Rakovnicka.
 
 V úterý masopustní bosi okolo Domažlic chodíce dům od domu s praporcem a s hudbou, zpívají:
 
-  
+</section>
+
+<section>
 
 1.
 
@@ -130,7 +142,9 @@ kerú sem hušlapal
 
 pro Hančičku.“
 
-  
+</section>
+
+<section>
 
 2.
 
@@ -144,7 +158,9 @@ dyž se mně nic nelíbí,
 
 a než ve světě toulání.
 
-  
+</section>
+
+<section>
 
 Mrzíla mě voračka,
 
@@ -168,7 +184,9 @@ a co je dobrého,
 
 všecko s ním.
 
-  
+</section>
+
+<section>
 
 #### 12 Března.
 
@@ -182,7 +200,9 @@ blázen sedlák, kterej nevoře!
 
 Z Bydžovska.
 
-  
+</section>
+
+<section>
 
 Na svatýho Řehoře led
 
@@ -194,7 +214,9 @@ plove do moře,
 
 (Nápěv 682.)
 
-  
+</section>
+
+<section>
 
 Učitele velkého,
 
@@ -204,7 +226,9 @@ dnešního dne slavnost máme;
 
 radujme se z toho.
 
-  
+</section>
+
+<section>
 
 Kdo své dítky miluje,
 
@@ -214,7 +238,9 @@ a své syny dej do školy,
 
 ať se učí tomu:
 
-  
+</section>
+
+<section>
 
 Nejprve Boha znali,
 
@@ -224,7 +250,9 @@ v víře je vyučovali
 
 Krista, syna jeho.
 
-  
+</section>
+
+<section>
 
 Pakli žáčka nemáte,
 
@@ -234,7 +262,9 @@ pro jeden groš, pro dva, pro tři
 
 jistě neschudnete.
 
-  
+</section>
+
+<section>
 
 Budete míl odplatu
 
@@ -244,7 +274,9 @@ kde svatý Řehoř přebývá,
 
 pána Boha chválí.
 
-  
+</section>
+
+<section>
 
 Pakli nám nic nedáte,
 
@@ -260,11 +292,15 @@ co na peci máte.
 
 Ze staršího rukopisu.
 
-  
+</section>
+
+<section>
 
 Tuto píseň zpívávali žáci, chodíce s učitelem dům od domu a dárky sbírajíce, až do zřízení německých škol za císaře Josefa II., načež chozeni toto přestalo. Přitom často také hrávali „na mistra“ a „na vojáky“, odříkávajíce spůsobem recitativním následující a jiné podobné veršíky:
 
-  
+</section>
+
+<section>
 
 #### Mistr.
 
@@ -280,7 +316,9 @@ pověz mi, co jest to: Jeden? –
 
 který na nebi přebýváš.“
 
-  
+</section>
+
+<section>
 
 Mistře, mistře vyučený,
 
@@ -294,7 +332,9 @@ jeden pán Bůh náš,
 
 který nad námi přebýváš.“
 
-  
+</section>
+
+<section>
 
 Mistře, mistře vyučený,
 
@@ -306,7 +346,9 @@ pověz mi, co jest to: Tři? –
 
 dvě tabule Mojžíšovy“ atd.
 
-  
+</section>
+
+<section>
 
 Mistře, mistře vyučený,
 
@@ -318,7 +360,9 @@ pověz mi, co jest to: Čtyry? –
 
 tři patriarchové“ atd.
 
-  
+</section>
+
+<section>
 
 Mistře, mistře vyučený,
 
@@ -330,7 +374,9 @@ pověz mi, co jest to: Pět? –
 
 čtyři evangelistově“ atd.
 
-  
+</section>
+
+<section>
 
 Mistře, mistře vyučený,
 
@@ -344,7 +390,9 @@ vínem naplněných,
 
 pět ran Ježíšových“ atd.
 
-  
+</section>
+
+<section>
 
 Mistře, mistře vyučený,
 
@@ -356,7 +404,9 @@ pověz mi, co jest to: Sedům? –
 
 šest štoudví kamenných“ atd.
 
-  
+</section>
+
+<section>
 
 Mistře, mistře vyučený,
 
@@ -368,7 +418,9 @@ pověz mi, co jest to: Osum? –
 
 sedům darů Ducha svatého“ atd.
 
-  
+</section>
+
+<section>
 
 Mistře, mistře vyučený,
 
@@ -380,7 +432,9 @@ pověz mi, co jest to: Devět? –
 
 osmero blahoslavenství“ atd.
 
-  
+</section>
+
+<section>
 
 Mistře, mistře vyučený,
 
@@ -392,7 +446,9 @@ pověz mi, co jest to: Deset? –
 
 devět kůrů andělských“ atd.
 
-  
+</section>
+
+<section>
 
 Mistře, mistře vyučený,
 
@@ -406,7 +462,9 @@ na Rejně v Kolíně pochovaných,
 
 desatero božích přikázaní“ atd.
 
-  
+</section>
+
+<section>
 
 Mistře, mistře vyučený,
 
@@ -476,7 +534,9 @@ a ta naše šenkýřečka
 
 bude nalejvat.“
 
-  
+</section>
+
+<section>
 
 Mistře nad mistry vyučený,
 
@@ -502,7 +562,9 @@ a ta švarná šenkýřečka
 
 bude nalejvat.“
 
-  
+</section>
+
+<section>
 
 Mistře nad mistry vyučený,
 
@@ -518,7 +580,9 @@ dvě telátka a kravička,
 
 pásla je tam Andulička“ atd.
 
-  
+</section>
+
+<section>
 
 Mistře nad mistry vyučený,
 
@@ -534,7 +598,9 @@ a koňové tři,
 
 dvě telátka a kravička“ atd.
 
-  
+</section>
+
+<section>
 
 Mistře nad mistry vyučený,
 
@@ -550,7 +616,9 @@ Pět? –
 
 a koňové tři“ atd.
 
-  
+</section>
+
+<section>
 
 Mistře nad mistry vyučený,
 
@@ -566,7 +634,9 @@ pět hřebců,
 
 čtyry laně šly“ atd.
 
-  
+</section>
+
+<section>
 
 Mistře nad mistry vyučený,
 
@@ -582,7 +652,9 @@ Sedum? –
 
 pět hřebců“ atd.
 
-  
+</section>
+
+<section>
 
 Mistře nad mistry vyučený,
 
@@ -598,7 +670,9 @@ sedům skřivanů pečených,
 
 šest ševců“ atd.
 
-  
+</section>
+
+<section>
 
 Mistře nad mistry vyučený,
 
@@ -614,7 +688,9 @@ to nádherné stavěných;
 
 osum panen nevěrných“ atd.
 
-  
+</section>
+
+<section>
 
 Mistře nad mistry vyučený,
 
@@ -630,7 +706,9 @@ ty do peci musí;
 
 devět klášterů slaměných“ atd.
 
-  
+</section>
+
+<section>
 
 Mistře nad mistry vyučený,
 
@@ -646,7 +724,9 @@ ty nám budou po chuti;
 
 desatero husí“ atd.
 
-  
+</section>
+
+<section>
 
 Mistře nad mistry vyučený,
 
@@ -750,7 +830,9 @@ rád do kostela chodívám,
 
 pánu Bohu se modlívám.
 
-  
+</section>
+
+<section>
 
 Já mám ptáčka v dubu,
 
@@ -760,7 +842,9 @@ Kuba má špičatou hubo,
 
 on mi ho vyklobá z dubu.
 
-  
+</section>
+
+<section>
 
 Když jsem šel přes Pražskej most,
 
@@ -772,7 +856,9 @@ napil jsem se,
 
 měl jsem všeho dost.
 
-  
+</section>
+
+<section>
 
 Já jsem chlapík jurista,
 
@@ -782,7 +868,9 @@ pověsím ho na kolik,
 
 on nestojí za troník.
 
-  
+</section>
+
+<section>
 
 Já kadet, stojím piket:
 
@@ -790,7 +878,9 @@ přijde na mě kulička,
 
 padnu jako hnilička.
 
-  
+</section>
+
+<section>
 
 Já mám ptáčka v lese,
 
@@ -800,7 +890,9 @@ dá-li pán Bůh zdraví,
 
 vyberu si mladý.
 
-  
+</section>
+
+<section>
 
 Rada, rada, rada naše –
 
@@ -866,7 +958,9 @@ Zvěstování prý jaro zvěstuje:
 
 ale zima přec neulevuje.
 
-  
+</section>
+
+<section>
 
 Zvěstování
 
@@ -878,7 +972,9 @@ Laštovičky letí,
 
 zvěstují podletí.
 
-  
+</section>
+
+<section>
 
 Na jaře konev deště,
 
@@ -888,25 +984,33 @@ na podzim lžíce deště,
 
 konev bláta.
 
-  
+</section>
+
+<section>
 
 Na jaře zamaž,
 
 na podzim zapraž.
 
-  
+</section>
+
+<section>
 
 Kam se první bouřka honí,
 
 všecky ostatní táhnou po ní.
 
-  
+</section>
+
+<section>
 
 Když záhy trn rozkvétá,
 
 záhy se žito vymetá.
 
-  
+</section>
+
+<section>
 
 Jest-li zjara mnoho žluté trávy,
 
@@ -916,13 +1020,17 @@ jest-li z jara mnoho bílé trávy,
 
 bude suchý rok.
 
-  
+</section>
+
+<section>
 
 Jest-li z jara mnoho bodláčí,
 
 bude pěkný podzimek.
 
-  
+</section>
+
+<section>
 
 Bujný květ,
 
@@ -943,3 +1051,5 @@ ale mne očička bolejí:
 však ony se do rána zhojejí.
 
 Sr. Suš. 735. Na Moravě slově tato bylina prostonárodně sisí, sisíčko a k témuž účelu jí se užívá.
+
+</section>

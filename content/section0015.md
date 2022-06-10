@@ -2,11 +2,15 @@
 contentType: poetry
 ---
 
+<section>
+
 ## Otloukaní píšťalek.
 
 Z jara, když stromoví pouští mízu, dělají sobě chlapci nejraději z vrbové ‚ neb olšové kůry, řidčeji z březové a liskové, píšťalky a prskačky. Uříznou si totiž čerstvou, hladkou a rovnou hůlku anebo proutek, tenčí konec rovně sříznou, a jak píštalka nebo prskačka dlouhá býti má, při tlustším konci kůru kolem oříznou. Potom kůru na koleně nožem otloukají a plochou nožovou potírají, aby se snáze s dřeva svlekla. Při otloukání říkají tyto rýmy:
 
-  
+</section>
+
+<section>
 
 1. 
 
@@ -18,7 +22,9 @@ až ta vrána vzlítne,
 
 píšťalka se svlíkne.
 
-  
+</section>
+
+<section>
 
 2. 
 
@@ -44,7 +50,9 @@ a ty Janku,
 
 svlíkej plantu!
 
-  
+</section>
+
+<section>
 
 3. 
 
@@ -88,7 +96,9 @@ Dost, dědku, dost!
 
 už je holá kost.
 
-  
+</section>
+
+<section>
 
 4. 
 
@@ -112,7 +122,9 @@ sežerou tě ještě dnes.
 
 Z Klatovska.
 
-  
+</section>
+
+<section>
 
 5. 
 
@@ -144,7 +156,9 @@ přitloukala paličkou,
 
 ťuk, ťuk, ťuk, ťuk, ťuk!
 
-  
+</section>
+
+<section>
 
 6.
 
@@ -194,7 +208,9 @@ Já nechci Němce atd.
 
 Srov. dětská počítadla, str. 29, č. 19 a 20.
 
-  
+</section>
+
+<section>
 
 7.
 
@@ -220,7 +236,9 @@ v čtvrtým syrovátka.
 
 Patka, patka až do pátka.
 
-  
+</section>
+
+<section>
 
 8. 
 
@@ -240,7 +258,9 @@ v pytli dřiví štípají.
 
 Groš, groš a groš!
 
-  
+</section>
+
+<section>
 
 9. 
 
@@ -256,7 +276,9 @@ co namele, to schová,
 
 co ukradne, to prodá.
 
-  
+</section>
+
+<section>
 
 10. 
 
@@ -268,7 +290,9 @@ svině křičí: Ninini!
 
 netrhej mně štětiny.
 
-  
+</section>
+
+<section>
 
 11. 
 
@@ -294,7 +318,9 @@ Dost, dědku, dost!
 
 už je holá kost.
 
-  
+</section>
+
+<section>
 
 12. 
 
@@ -310,7 +336,9 @@ já do třetí,
 
 ona panna krásná.
 
-  
+</section>
+
+<section>
 
 13.
 
@@ -326,7 +354,9 @@ O radost! o radost!
 
 už bude píšťala dost.
 
-  
+</section>
+
+<section>
 
 14. 
 
@@ -350,7 +380,9 @@ vrazím do tě kudličku,
 
 vyrazím ti dušičku.
 
-  
+</section>
+
+<section>
 
 15. 
 
@@ -388,7 +420,9 @@ na basičku rarara!
 
 Ať se naše panímáma nestará.
 
-  
+</section>
+
+<section>
 
 16. 
 
@@ -420,7 +454,9 @@ Marš, marš, marš!
 
 dokud mám kuráž.
 
-  
+</section>
+
+<section>
 
 17.
 
@@ -432,7 +468,9 @@ slruny mi se přetrbaly,
 
 smyčec mi se zlámal.
 
-  
+</section>
+
+<section>
 
 Přišel jsem já k jedny selce,
 
@@ -442,7 +480,9 @@ já ji prosil o vdoleček,
 
 ona že jsou horky.
 
-  
+</section>
+
+<section>
 
 Poslala mne k druhy selce,
 
@@ -452,7 +492,9 @@ já jí prosil o trošičku,
 
 ona dala všecku.
 
-  
+</section>
+
+<section>
 
 Poslali mé na vobroučky,
 
@@ -462,7 +504,9 @@ abych se měl čim obránit,
 
 až pojede Turek.
 
-  
+</section>
+
+<section>
 
 Turek jede od Moravy, 1)
 
@@ -472,7 +516,9 @@ husar za ním poskakuje,
 
 že mu hlavu sklíští.
 
-  
+</section>
+
+<section>
 
 Nesekej ho do hlavičky,
 
@@ -492,7 +538,9 @@ Turek jede ode mlejna,
 
 že mu hlavu zmrští.
 
-  
+</section>
+
+<section>
 
 Já se Švejdy nic nebojím,
 
@@ -506,13 +554,17 @@ zabiju ho z rána.
 
 Dne prvního a posledního Dubna posílají děti jedno druhé „Aprílem“; vymyslivše sobě totiž nějakou lež, lehkověrného navádějí, aby proto někam došel neb něco učinil.
 
-  
+</section>
+
+<section>
 
 Až přijde Duben,
 
 ještě za kamny budem.
 
-  
+</section>
+
+<section>
 
 Ať si Duben sebe lepši bývá,
 
@@ -526,7 +578,9 @@ vylízají z díry
 
 hadi a štíři.
 
-  
+</section>
+
+<section>
 
 Svatý Jiří
 
@@ -552,7 +606,9 @@ po celý rok nezastůně.
 
 Toho dne vynášejí děvčata smrt a přinášejí nové léto. Oblekou totiž došek v oděv ženský a stužkami i jinak jej ozdobí, na spůsob ženské postavy, kterou potom bud vezmou pod paždí a jako vedou, anebo nastrčí na tyč a nesou za dědinu, kdež ji zas odstrojí a holý došek vhodí buď do vody aneb do příkopu. Takto smrt utopivše chodi potom po vsi dům od domu s máji neb 8 lítem, totiž s jedlovým stromkem barevnými stužkami a malovanými nebo pozlacenými výdunky ozdobeným, zpívajíce a za to dárky dostávajíce.
 
-  
+</section>
+
+<section>
 
 1. 
 
@@ -576,7 +632,9 @@ aby nám otevřel
 
 do nebe bránu.
 
-  
+</section>
+
+<section>
 
 Svatej Jiří vstává,
 
@@ -592,7 +650,9 @@ fijala modrá.
 
 Z Chrudimska.
 
-  
+</section>
+
+<section>
 
 2. 
 
@@ -622,7 +682,9 @@ U studánky, u studánky,
 
 rnce, nohy myla atd.
 
-  
+</section>
+
+<section>
 
 3.
 
@@ -638,7 +700,9 @@ modrého, bílého
 
 i červeného.
 
-  
+</section>
+
+<section>
 
 Víte, holky, věnce,
 
@@ -654,7 +718,9 @@ až se hora zeleni.
 
 Z Hradecka.
 
-  
+</section>
+
+<section>
 
 4.
 
@@ -676,7 +742,9 @@ nám, nám, nám,
 
 Semilskejm pannám.
 
-  
+</section>
+
+<section>
 
 5.
 
@@ -726,11 +794,15 @@ nové léto k nám jede
 
 s červenými vejci atd.
 
-  
+</section>
+
+<section>
 
 Rýmy nesemy a přichodie, místo nynějšího neseme a přichází jsou stopy neomylné, že píseň tato pochází z časů pradávných, předhusitských, když ještě formy takové v jazyku našem bývaly v obyčeji.
 
-  
+</section>
+
+<section>
 
 6.
 
@@ -746,7 +818,9 @@ Vítej lito líbezné,
 
 obilíčko zelené!
 
-  
+</section>
+
+<section>
 
 Hody jdou, květy jdou,
 
@@ -756,7 +830,9 @@ dej pán Bůh travičku
 
 až do kolenou!
 
-  
+</section>
+
+<section>
 
 7.
 
@@ -778,7 +854,9 @@ bez koření, bez vajec?
 
 Z Hradecka.
 
-  
+</section>
+
+<section>
 
 8.
 
@@ -790,7 +868,9 @@ až jí milej pán Bůh
 
 s nebe pomůže.
 
-  
+</section>
+
+<section>
 
 Růžička se hněvá,
 
@@ -810,7 +890,9 @@ květem červeným.
 
 Z Prachenska.
 
-  
+</section>
+
+<section>
 
 9. 
 
@@ -840,7 +922,9 @@ aby byl veliký klas:
 
 ať přijdeme po roce zas.
 
-  
+</section>
+
+<section>
 
 10. 
 
@@ -864,7 +948,9 @@ ať se mužem napiti,
 
 pána Boha chválili.
 
-  
+</section>
+
+<section>
 
 11. 
 
@@ -890,7 +976,9 @@ co vykouká z vokýnka.
 
 Z Klatovska. – Sr. říkadla při otloukám píšťalek, str. 52, č. 5.
 
-  
+</section>
+
+<section>
 
 12. 
 
@@ -906,7 +994,9 @@ nám ho daruje.
 
 Ze staršího rukopisu.
 
-  
+</section>
+
+<section>
 
 13. 
 
@@ -920,7 +1010,9 @@ dej nám po penízku
 
 na zelenou misku!
 
-  
+</section>
+
+<section>
 
 14. 
 
@@ -936,7 +1028,9 @@ po malým, po malým,
 
 po vajíčku červeným.
 
-  
+</section>
+
+<section>
 
 15. 
 
@@ -956,7 +1050,9 @@ až pudeme z domu ven,
 
 dnes a na celej tejden!
 
-  
+</section>
+
+<section>
 
 16. 
 
@@ -1110,17 +1206,23 @@ zas vykopali.
 
 Z Boleslavska.
 
-  
+</section>
+
+<section>
 
 Velký Pátek deštivý
 
 dělá rok žíznivý.
 
-  
+</section>
+
+<section>
 
 Jest-li že na boží hroby prší, sucho úrodu poruší.
 
-  
+</section>
+
+<section>
 
 Suchý půst,
 
@@ -1137,3 +1239,5 @@ bude zejtra mráz:
 nebudete-li se obouvali,
 
 posekáme vás.
+
+</section>

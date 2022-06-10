@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 ## Tanec v hospodě.
 
 Na večer jdou všickni, i s ženichem a s nevěstou v čepci, do hospody, kdež opět až do rána tancují. Každá ženská, svobodná i vdaná, jedna po druhé, zaplatíc hudebníkům, dává si hráti, zazpívá i zatancuje s mužským, kterého si sama zvolila, až se všecky vystřídají.
@@ -235,3 +237,5 @@ jsem, jsem věru rád,
 že jsem dostal Bělohrad.
 
 Z Kouřimska.
+
+</section>

@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 # Zpomínky historické
 
 ### 1.
@@ -403,3 +405,5 @@ někdo to smrti zaplatí.
 Léta 1814 ležel pluk jistého ruského generála v kraji Berounském. Jeden důstojník, jeho příbuzný, byl se svým oddělením ubytován v jistém městě blíže Berouna a velmi tam byl oblíben, až i bály jemu k vůli strojili. Důstojník při takových příležitostech nešetřil peněz, a když se mu jich jednou nedostávalo, pomohl sobě z vojenské pokladnice, kteráž mu byla svěřena. I nezůstalo to tajno, a důstojník byl vojenským soudem odsouzen. Na tento příběh
 
 vztahuje se písnička svrchu položená, kterou pak v tom městě zpívali. Některé zpomínky historické nalézají se již také napřed mezi písněmi vojenskými, totiž: ze sedmileté války na str. 448 č. 336 a na str. 464 č. 868; z turecké války na str. 441 č. 309 a na str. 455 č. 366: z války francouzské na str. 443 č. 818 a z války maďarské (1849) na str. 443 č. 319.
+
+</section>

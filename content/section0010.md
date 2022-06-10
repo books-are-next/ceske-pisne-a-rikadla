@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 ## Dětská počítadla.
 
 ### Patnáct stop.
@@ -643,3 +645,5 @@ do stodoly k mámě,
 aneb:
 
 v stodole po slámě.
+
+</section>

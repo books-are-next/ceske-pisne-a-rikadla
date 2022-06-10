@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 # Marnost světská, smrt a pohřeb.
 
 ### 1.
@@ -675,3 +677,5 @@ za oltářem –
 bombi – lombi – bom!
 
 Z Klatovska.
+
+</section>

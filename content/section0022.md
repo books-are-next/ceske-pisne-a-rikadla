@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 ## Letní hry.
 
 ### Na zlatou bránu.
@@ -44,7 +46,9 @@ a toho posledního si necháte.
 
 Brána: Jděte!
 
-  
+</section>
+
+<section>
 
 II.
 
@@ -218,7 +222,9 @@ Koho se Hastrman ve vodě i jen dotkne, již ho má ve své moci a dovede si ho 
 
 Často hrají však tuto hru jen prostě bez vysvobození, dokud totiž Hastrman všech chlapců, jednoho po druhém, nepochytá, načež poslední se stane Hastrmanem v další hre.
 
-  
+</section>
+
+<section>
 
 II.
 
@@ -305,3 +311,5 @@ Tazač: Straka skáče po zahrádce
 o kolik a kolik?
 
 Na čež hadači hádají.
+
+</section>

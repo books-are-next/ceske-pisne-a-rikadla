@@ -2,11 +2,15 @@
 contentType: poetry
 ---
 
+<section>
+
 ## Hlásání pasaček.
 
 Děvčata v Jičínsku, pasouce na poli dobytek jedna od druhé vzdál, dovolávají se těmito i podobnými písněmi, které zpívají neb „hlásají“ jistým spůsobem recitativu.
 
-  
+</section>
+
+<section>
 
 1. 
 
@@ -36,7 +40,9 @@ tu bych ti chtěla darovati.
 
 Héla helilalou!
 
-  
+</section>
+
+<section>
 
 2. 
 
@@ -70,7 +76,9 @@ mezi mládence a panny prokramařila.
 
 Héla helilalou!
 
-  
+</section>
+
+<section>
 
 3. 
 
@@ -94,7 +102,9 @@ jedna druhý rovny.
 
 Héla helilalou!
 
-  
+</section>
+
+<section>
 
 4.
 
@@ -146,7 +156,9 @@ aby se vydařil
 
 na poli chlebíček.
 
-  
+</section>
+
+<section>
 
 Dej Pámbů deštička
 
@@ -172,7 +184,9 @@ zakopává.
 
 Když létě mnoho pršek bývá, a mezi tím slunce vysvitne, vybíhají děti ven a zpívají:
 
-  
+</section>
+
+<section>
 
 1.
 
@@ -198,7 +212,9 @@ se zlatýma rohama.
 
 Z Táborska.
 
-  
+</section>
+
+<section>
 
 2. 
 
@@ -230,7 +246,9 @@ je bude šlehati.
 
 Z Berounska.
 
-  
+</section>
+
+<section>
 
 3. 
 
@@ -298,7 +316,9 @@ pánu Bohu
 
 darmo dáme.
 
-  
+</section>
+
+<section>
 
 Vrána letí,
 
@@ -332,7 +352,9 @@ pod zelenou
 
 podušku!
 
-  
+</section>
+
+<section>
 
 Vrána letí,
 
@@ -354,7 +376,9 @@ Místo vrány také říkají:
 
 Luňák letí atd.
 
-  
+</section>
+
+<section>
 
 Když uslyší vránu kvákali, říkají:
 
@@ -396,7 +420,9 @@ do vřelé vody.
 
 Z Klatovska.
 
-  
+</section>
+
+<section>
 
 Šnečku, šnečku!
 
@@ -474,7 +500,9 @@ kde bude má nevěsta?
 
 A děvčata zpívají:
 
-  
+</section>
+
+<section>
 
 (Nápěv 289.)
 
@@ -560,7 +588,9 @@ Z Klatovska.
 
 sedlák krčí rameny.
 
-  
+</section>
+
+<section>
 
 Červnové včel rojení
 
@@ -568,7 +598,9 @@ nestojí za zvonění.
 
 Sr. Máj, str. 70.
 
-  
+</section>
+
+<section>
 
 Jest-li že v Máji neprší,
 
@@ -586,13 +618,17 @@ Na svatého Vitu
 
 celou noc svítá.
 
-  
+</section>
+
+<section>
 
 Svatej Vít
 
 kořen štíp.
 
-  
+</section>
+
+<section>
 
 Svatej Vít
 
@@ -608,13 +644,17 @@ Na svatého Jana
 
 není noc žádná.
 
-  
+</section>
+
+<section>
 
 Dlouhý den,
 
 krátká nit.
 
-  
+</section>
+
+<section>
 
 Vít – chovíť,
 
@@ -622,8 +662,12 @@ Jan – hlava
 
 (říkají o zelí).
 
-  
+</section>
+
+<section>
 
 Do Jana Křtitele
 
 nechval ječmene.
+
+</section>

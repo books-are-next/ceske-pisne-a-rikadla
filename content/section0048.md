@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 ## Uvádění nevěsty.
 
 O půl noci nevěstu k ženichovi uvádějí. Dva hudebníci, ženich s nevěstou, družka s družkou, i všecky svatbí ubírají se z hospody do příbytku nevěstina.
@@ -457,3 +459,5 @@ pojedeme.
 Z Budějovicka.
 
 Odtud pak jdou s hudbou po celé vsi, dům od domu, a každému pod okny píseň nějakou, nejraději satyrickou, zahrají a zazpívají, což obyčejně až do poledne trvá. Potom zase jdou všickni do příbytku nevěstina k obědu.
+
+</section>

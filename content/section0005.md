@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 Praví se, že píseň národní jest kvítko na luzích vlastenských vyrostlé, ježto příroda sama vychovala. Dobré to sice podobenství, ale věc sama při něm zůstává temná. Jakož snadno jest k věci známé najíti podobenství, tak zase velmi těžko nezkušenému z podobenství i sebe zdařilejšího neznámou věc určití. Co jest píseň národní? Všickni znatelé básnictví druhu toho v tom za jednoho se srovnávají, že každá píseň, kterou lid obecný zpívá, proto ještě národní není, a byt i celé století se zpívala; a naopak, že pravá píseň národní této cnosti své nikdy neztratí, byt byla již přede sty lety v ústech i v paměti lidské zahynula. I také to nic na váhu nepřidá, jest-li píseň více nebo méně v národu rozšířena, ano kdyby se i jen na jednom místě zpívala, může vždy předce pravou národní, písní býti. Známky, po kterých píseň národní od jiných ro-zeznati lze jest, musejí tedy v něčem jiném ležeti. Pravda, že otázka, co jest píseň národní? na otázce jiné a to hlavní tak visí, jako list na kmenu svém, totiž na té: co jest národ? kterak se zjevuje bytost jeho vůbec, a co do písní zvláště? Odpověd na tyto důležité otázky zanechána fysiologům a filosofům; já však pokusil jsem se nyní jen o to, abych v krátkosti ustanovil rozdíl mezi písní národní a jinou tak nazvanou umělou písní, a to jen podlé osobního mého citu a přesvědčení, doufaje, že toto mé slovo vždy býti může stupněm k veliké té vědě poznání národa; a byt i jiný tuto mou práci zvrátil, jen když na místo ní sám něco důkladnějšího vystaví, vždy těšiti se budu tím, že jsem snad jemu dal k tomu podnět.
 
 Každý národ, kterýž sobě sám ještě odcizen není, má svůj vlastní národní cit i své zvláštní smýšlení, svůj inpiduální ráz, na přirozených zvláštnostech těla i ducha jeho se zakládající, jíražto se od jiných cizích národů znamenitě a patrně liší. Tento však přirozený, všeobecný, stálý národa ráz nabývá zevnějšími okolnostmi, s nimiž se národ, celý aneb jistá jeho část, během času potkává, svého zvláštního směru, své zvláštní zevnější postavy; a jakož okolnosti ty samy podrobeny jsou proměnám, tak i také onen přirozený národní ráz anebo povaha podlé nich bez přestání zevnější podobu svou mění a řídí: tak jako vosk pokaždé formě své se podává, avšak vždy předce voskem býti nepřestává. Toto položení vlastního toho citu a smýšlení národa podlé jeho zevních okolností nazýváme národním duchem. Má-li píseň býti národní, musí v ní vanouti tento národní duch. Pakli to, co píseň buď hlavního smyslu, buď zvolených obrazů, buď spojení, přechodů neb obratů myšlének v sobě zavírá, tomuto položení citu aneb smýšlení národa se protiví, již není písní národní.
@@ -37,3 +39,5 @@ Na konec tuto vzdávám srdečné díky milým přátelům svým, ze jména: v. 
 V Praze dne 26. Listopadu 1863.
 
 K. J. E.
+
+</section>

@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 ## Dětské posměšky.
 
 ### Tomu, kdo řiká „prej“.
@@ -713,3 +715,5 @@ bojím se, bojím, že umře!“
 Slitovalo se nebe nad kohoutkem a seslalo louce rosičku, louka dala travičku, kráva smetanu, sladovnik mláto, svině štětiny, švec střevíčky, švadlena šátek a studánka vody. Slepička jí nabrala do zobáčku, a jak mile ji kohoutkovi do krku vpustila, sklouzlo mu jadýrko dolů, kohoutek skočil na nožky, zatřepal křídlama a zakokrhal vesele: „Kykyryký!“– A potom už nikdy lakomý nebyl, a upřímně se dělil se slepičkou.
 
 Z Berounska. Ostatní s nepatrnými varianty známo po celých Čechách.
+
+</section>

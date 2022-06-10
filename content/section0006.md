@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 # Věk dětský.
 
 **Modlitba,**
@@ -715,3 +717,5 @@ chlapce střabce,
 ten chlapec má
 
 vrabce v kapse.
+
+</section>

@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 ## Selská strava.
 
 ### 248.
@@ -631,3 +633,5 @@ Tluču, tluču na buben:
 vyjdi, dchořt, z domu ven!
 
 Z Boleslavska.
+
+</section>

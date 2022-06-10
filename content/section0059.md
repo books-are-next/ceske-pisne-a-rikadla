@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 # Písně o stavích, živnostech a jiných stránkách života občanského.
 
 ### 1.
@@ -3843,3 +3845,5 @@ přes tu její košiličku
 pěknou, pěknou.
 
 Z Jičínska.
+
+</section>

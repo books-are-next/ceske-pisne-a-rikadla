@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 ## Zvířecí řeč.
 
 ### Konipásek,
@@ -329,3 +331,5 @@ Všecky: Taky taky, taky taky, taky taky!
 Sejte hrachy, hrachy, hrachy,
 
 hrách, hrách, hrách!
+
+</section>

@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 # Písně vojenské.
 
 ### 278.
@@ -5073,3 +5075,5 @@ poruč pánu Bohu –
 máš tam mládenců dosti!
 
 Z Klatovska.
+
+</section>

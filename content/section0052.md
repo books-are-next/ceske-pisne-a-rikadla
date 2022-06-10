@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 ## V domě ženichově.
 
 Potom sedají k večeři, nevěsta zase nejzáze do kouta; s jedné strany k ni sedne matka ženichova, s druhé družka, a dále po jedné i po druhé straně ženy ostatní. Po večeři přinesou talíř a matka ženiehova položí na něj podlé možnosti tolar neb dukát, a podá talíř dále, aby každý něčím přispěl. Z peněz sebraných vezme družka mezi zuby dvacetník, pak ostatek zaváže do šátku a podá nevěstě; začež tato poděkuje:
@@ -267,3 +269,5 @@ proto, proto, proto pláču,
 pláču, pláču tak tuze.“
 
 Z Prachenska.
+
+</section>

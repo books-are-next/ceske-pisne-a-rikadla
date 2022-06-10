@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 ## Dětské hádanky.
 
 ### a) Podobenství.
@@ -1771,3 +1773,5 @@ Tři chlapci šli do lesa i našli ptačí hnízdo, bylo v něm 9 vajíček. „
 #### 161. 
 
 Šel jeden cestou, vedl po jedné straně vlka, po druhé straně koza, a nesl si také zelí. Přišel k řece, kde nebylo žádného mostu ani lávky, než jen malá lodička u břehu, tak malá, že více do ní s sebou vzíti nemohl nežli jedno. Kterak udělal, aby nezůstal ani vlk s kozou, ani koza se zelím pohromadě – sic by jedno druhé bylo sežralo? (Nejprve převezl kozu, potom převezl vlka a kozu vzal s sebou nazpět, pak převezl zeli, a konečně dojel si zase pro kozu.)
+
+</section>

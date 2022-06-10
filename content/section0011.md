@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 ## Dětské hry.
 
 Hry dětské dílem jsou výroční, ježto se od starodávna z obyčeje anebo pro svou povahu provozují zvláště v jisté roční doby; dílem pak jsou obecné, totiž takové, které se podlé příležitosti každého času hrávají. Tuto napřed položeny jsou hry obecné, chlapecké, dívčí a společné, ostatní pak výroční nalézají se na svém místě mezi písněmi a říkadly výročními, roztříděny jsouce v podletní, letní, v podzimní a zimní. Ostatně budiž připomenuto, že v tuto sbírku jen takové hry jsou pojaty, které mají svá jistá říkadla anebo písně; jiné pak, jako hra na mžik, na honěnou, hry míčem a jiné z prosta tělocvičné, tuto z úmysla se pomíjejí.
@@ -232,13 +234,17 @@ Tancujte myši,
 
 kde kerá slyší.
 
-  
+</section>
+
+<section>
 
 Kerá je hluchá,
 
 ať neposlucha.
 
-  
+</section>
+
+<section>
 
 Kerá je chromá,
 
@@ -433,3 +439,5 @@ Na to zůstane kolo stati a děvče v něm stojící prostře svůj šáteček p
 Z Bydžovska.
 
 Z her výročních jsou společné: jarní: a) Žalman; podzimní: b) na vlka jedna i druhá, a umní: d) na Kuca-babu.
+
+</section>

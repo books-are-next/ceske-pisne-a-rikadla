@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 ## Loučení nevěstino.
 
 Po obědě přijedou vozy ženichovy pro nevěstu a pro její „roucho“, t. pro peřiny, šatstvo a p. Do vozo nevěstina zapraženo šest nejlepších koní, pentlemi a rozmarínou ozdobených. Tu přijdou Ženy od ženicha, ač jest-li tento z jiné vesnice, chtíce nevěstu. Ženy domácí jim jí nechtějí darmo vydati a hádají se s nimi o ni dotud, až ji ženy ženichovy vykoupí „koláčem“ neb „mazancem“, ratolestmi ozdobeným. Ten koláč vezou potom ženy s sebou na voze do příbytku ženichova.
@@ -941,3 +943,5 @@ co jsem sama míli chtěla,
 co žádalo srdéčko!
 
 Z Plzeňska. – Srov. Suš. 453.
+
+</section>

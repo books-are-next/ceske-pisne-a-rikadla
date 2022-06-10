@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 # Písně rozpravné.
 
 ## a) Světské.
@@ -4925,3 +4927,5 @@ panenky nepláčou.
 Z Berounska.
 
 Píseň tato budiž na ukázku pokaženého vkusu v řeči panské a městské ze středu předešlého století. Obsah její jest bezpochyby nějaký skutečný příběh téhož času. Ostatně co na ní lepšího, totiž nápěv a první i poslední sloha, vzato jest z jiných písní národních.
+
+</section>

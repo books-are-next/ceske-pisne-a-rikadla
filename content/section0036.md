@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 ## Svolávání hostů.
 
 V úterý, den svatební, časně z rána jde družba (mládenec) ještě jednou všech hostů pozvat a na veselku svolat. Když do kterého statku vejde, promluví takto:
@@ -21,3 +23,5 @@ Když hosté do příbytku ženichova již se byli sešli a tu posnídali (polí
 „Slovutní a vzácně váženi páni, panicové i panny! z příčiny té svedl jsem vás do příbytku tohoto, že zde přítomný panic… uctivé vás za to žádá, abyste s ním pro jeho nejmilejši nevěstu, šlechetnou pannu… cestu vážili s ten jich manželský sňatek svou laskavou přítomnosti ozdobili. A že jste všickni přítomní již úmysl svůj a vůli k tomu projevili a sem najíti se dali, za to vám pan otec, paní matka i pan ženich co nejvroucněji děkují.“
 
 Potom otec i matka vstanou od stolu, ženich před nimi klekne, a rodiče mu dají své požehnání; načež dva mladí mužové ženicha meti sebe vezmou a celá společnost nbírá se pro nevěstu.
+
+</section>

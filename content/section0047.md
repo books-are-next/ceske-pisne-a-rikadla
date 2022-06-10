@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 ## V hospodě.
 
 Na to se všickni zvednou a jdou za hudbou hlučné do hospody, družba napřed nesa dčbán piva a talíř s koláči. V hospodě promluví družba k hospodskému takto:
@@ -255,3 +257,5 @@ do roka veselá
 nebudu!
 
 Z Prachenska.– Srov. str. 286. p. 25; Čel. II, 19; Suš. 434.
+
+</section>

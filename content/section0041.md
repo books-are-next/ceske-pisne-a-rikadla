@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 ## Cesta s kostela.
 
 ### 47.
@@ -723,3 +725,5 @@ svejch milejch a hupřímnejch
 na věky pozbudu!
 
 Z Domažlicka.
+
+</section>

@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 # Písně společenské.
 
 ## a) Pijácké.
@@ -2369,3 +2371,5 @@ abych trochu vesel pobyl
 a se pivíčka napili
 
 Z Berounska.
+
+</section>

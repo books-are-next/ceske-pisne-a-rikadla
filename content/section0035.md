@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 # Písně a říkadla svatební
 
 Obyčeje svatební lidu selského v Čechách, kde ještě je zůplna zachovávají, všude jsou tytyž, jen u věcech nepodstatných časem a místem od obecného pravidla se uchylujíce. Se všemi slavnostmi vždy ještě se vedou svatby selské v jižních krajích českých, ze jména v Klatovsku a v Plzeňsku; pročež také v následujícím vypsání k těmto dvěma krajům zvláště hledíno.
@@ -621,3 +623,5 @@ mou milou loudili,
 já musil pod okny stát.
 
 Z Klatovska.
+
+</section>

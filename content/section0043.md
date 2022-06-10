@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 ## Pomoc kuchařce.
 
 Při kaši dá kuchařka lžíci neb vařečku v kaši omočenou a perníkem posypanou na stůl, kterouž družba vezma, takto k hostům mluví:
@@ -67,3 +69,5 @@ by sobě mohly Benátské mejdlo koupiti,
 sebe dobře omyti, a pak s pány hosty v hospodě se dáti vynajíti.
 
 Když pečitá jídla přijdou na stůl, počínají
+
+</section>

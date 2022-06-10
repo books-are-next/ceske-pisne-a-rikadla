@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 Jeho Osvícenosti
 
 pánu panu
@@ -13,3 +15,5 @@ c. kr. komořímu, majora v c kr. vojště, rytíři cís. ruského řádu st. A
 s nejšetrnější úctou připisuje
 
 vydavatel.
+
+</section>

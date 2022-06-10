@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 ## Přípitky.
 
 Starší družičce připíjí družba takto:
@@ -639,3 +641,5 @@ tam do nebeského ráje,
 kdežto trvá svatba stále –
 
 páni muzikanti tuš!
+
+</section>

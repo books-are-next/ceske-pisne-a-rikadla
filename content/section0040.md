@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 ## Oddavky.
 
 Prvé než, oddaní snoubenci od oltáře vstanou, hledí družka i mládenec, aby jim s hlavy spíše popadli věneček, družka ženichovi a mládenec nevěstě; neb komu se podaří dříve jej chopili, dříve prý se vdá neb ožení.
@@ -117,3 +119,5 @@ a já si ji schovám
 pod peřinu.
 
 Z Domažlicka.
+
+</section>

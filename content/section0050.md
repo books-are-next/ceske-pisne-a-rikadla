@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 ## Cesta k ženichovi.
 
 Mezi tím nakládá družba s mládenci nábytek nevěstin na vůz: zespod truhly, suden (misník), almaru, díži, škopky, vědra (konve) a na to peřiny v ubrus zavázené. Když všecko naloženo, sedají: na prvním voze, kdež bývá praporec, hudci, mládenci a ženich s družbou; na druhém voze otcové a ostatní muži; na třetím, kdež nábytek naložen, „paní matky“ a mezi nimi nejvýše na peřinách bába, majíc v ruce přeslici a na ní kužel lenem naditý a haraskami obvázaný, a v lenu zastrčená vřetena s přesleny; na čtvrtém pak voze sedí nevěsta s drožkami.
@@ -929,3 +931,5 @@ hejhej se, strakatý, bíly:
 což je to pod tebou náro, nám, nám,
 
 což je to pod tebou míly!
+
+</section>

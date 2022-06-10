@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 ## Cesta do kostela.
 
 Potom ubírají se do kostela: hudba napřed, za ní nevěsta s družbou (s mládencem), družička s ženichem, s pak ostatní svatebčané, mužští napřed a ženy za nimi. Místem (okolo Přeštic) jde před hudbou nejprve tlumač, maje v mošně šátek, kytka a živou slepici, darem duchovnímu, jenž bude oddávali. Jest-li kostel příliš daleko, jedou na koních a na vozích čtyřmi zapražených. Nevěsta po celé cestě pláče a ženy (svatby) zpívají.
@@ -353,3 +355,5 @@ táta mě s mámou nutí,
 já nemám žádné chuti!
 
 Z Klatovska.
+
+</section>

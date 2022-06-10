@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 ## Sv. Jana Křtitele.
 
 Tu noc před sv. Janem děvčata natrhavše sobě z jarého žita pýření, t. žitných listů, po paměti je v klíně svazují, takto při tom říkajíce:
@@ -42,7 +44,9 @@ a dítě by plakalo.
 
 Z Bydžovska.
 
-  
+</section>
+
+<section>
 
 Prší-li na Jana Křtitele,
 
@@ -52,13 +56,17 @@ pěkně-li na Jana Křtitele,
 
 máš pěkné tři dni celé.
 
-  
+</section>
+
+<section>
 
 Prosíme-li před Janem za déšť,
 
 po Janu přijde bez prošení
 
-  
+</section>
+
+<section>
 
 Kuká-li kukačka po sv. Janu Křtiteli, říkají:
 
@@ -70,8 +78,12 @@ kukačka kuká, po toliku groších (nyní snad zlatých)
 
 bude korec žita.
 
-  
+</section>
+
+<section>
 
 Mnoho hřibu, mále chleba.
 
 Mnoho ryb, málo zrna.
+
+</section>

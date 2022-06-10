@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 ## Písně posvícenské.
 
 ### 1.
@@ -200,7 +202,9 @@ zas se sejdeme.
 
 Čel. I, 206. –Píseň selská ve spůsobu Vavákovském, patrně z drahé polovice předešlého věku. Ceny básnické sice nemá, líčí však věrně život posvícenský ve vsi, a proto jediné do sbírky této pojata.
 
-  
+</section>
+
+<section>
 
 ### 2.
 
@@ -222,7 +226,9 @@ a holce střevíčky –
 
 přines to v pytli.
 
-  
+</section>
+
+<section>
 
 Už máme poscení
 
@@ -240,7 +246,9 @@ a zejtra budeme
 
 dělat koláče.
 
-  
+</section>
+
+<section>
 
 A co jich napečem,
 
@@ -250,7 +258,9 @@ ty je pak rozneseš,
 
 Vašku, po strejcích.
 
-  
+</section>
+
+<section>
 
 Když přijdeš do domu,
 
@@ -260,7 +270,9 @@ dej pozdravení:
 
 na posvícení.
 
-  
+</section>
+
+<section>
 
 Už máme, sedláci,
 
@@ -302,7 +314,9 @@ co to má znamenat,
 
 spatříme.
 
-  
+</section>
+
+<section>
 
 Jindy sedlák
 
@@ -322,7 +336,9 @@ dal sobě na stranu
 
 čepici.
 
-  
+</section>
+
+<section>
 
 Nynčko sedlák,
 
@@ -354,7 +370,9 @@ bude u nás posvícení,
 
 zabili jsme vola.
 
-  
+</section>
+
+<section>
 
 Čtyry ovce a dva skopce,
 
@@ -366,7 +384,9 @@ poďte děti domů!
 
 Sedlák pan.
 
-  
+</section>
+
+<section>
 
 ### 5.
 
@@ -472,13 +492,17 @@ Na svatého Šimoniše
 
 můžeš chodit už v kožiše.
 
-  
+</section>
+
+<section>
 
 Šimona Judy –
 
 zima je všudy.
 
-  
+</section>
+
+<section>
 
 Na sv. Šimona a Judy v noci o 12 hodině chodí panny do zeleného žita poslouchat, odkud přijde jich souzený, říkajíce:
 
@@ -501,3 +525,5 @@ dokud znamení nedostanu:
 kde můj milej dnes!
 
 Z Klatovska a z Berounska.
+
+</section>

@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 # Písně a říkadla výroční.
 
 ### Zima.
@@ -10,7 +12,9 @@ Když přibývá dne,
 
 přibývá i zimy.
 
-  
+</section>
+
+<section>
 
 Ve dne svítí, v noci pálí.
 
@@ -54,19 +58,25 @@ tmavá Koleda,
 
 světlá stodola.
 
-  
+</section>
+
+<section>
 
 Jest-li o jitřní hvězdno,
 
 slepice hojně ponesou.
 
-  
+</section>
+
+<section>
 
 Zelené Vánoce,
 
 bílá Velkonoc.
 
-  
+</section>
+
+<section>
 
 Lepší Vánoce třeskuté,
 
@@ -122,7 +132,9 @@ přece se mi smáli.
 
 1) páni, dejte jinou, tu zamažte hlínou.
 
-  
+</section>
+
+<section>
 
 2. 
 
@@ -146,7 +158,9 @@ po groši širokým,
 
 po zlatým kulatým.
 
-  
+</section>
+
+<section>
 
 3. 
 
@@ -184,7 +198,9 @@ shází vám všecky hrnce s police.
 
 Tato koleda zpívá se obyčejně s bukálem. Bukál aneb také bukač slově nádoba baňatá hliněná, ku př. Čbán, majíc otvor potažený měchýřem na spůsob bubnu a prostřed měchýře přidělaný žíněný provázek dvou pramínků. Při koledě vezme chlapec nádobu mezi kolena a nasliniv sobě prstů, drhne jimi po žíni zhůru střídavě pravou i levou rukou.
 
-  
+</section>
+
+<section>
 
 4. 
 
@@ -222,7 +238,9 @@ pod lavici housátka.
 
 vysvlíknu vám kožíšek.
 
-  
+</section>
+
+<section>
 
 5. 
 
@@ -246,7 +264,9 @@ jako nedvěd zabručím,
 
 potom půjdu pryč.
 
-  
+</section>
+
+<section>
 
 6. 
 
@@ -266,7 +286,9 @@ ať je měkká nebo tvrdá,
 
 však ona se předce schroupá.
 
-  
+</section>
+
+<section>
 
 O matičko božská!
 
@@ -276,7 +298,9 @@ ať je tvrdá nebo měkká,
 
 však ona se schroustá.
 
-  
+</section>
+
+<section>
 
 7. 
 
@@ -300,7 +324,9 @@ kdo mi nedá nic,
 
 pošlu ještě víc.
 
-  
+</section>
+
+<section>
 
 8. 
 
@@ -326,7 +352,9 @@ vesele nám výskej!
 
 Z Klatovska.
 
-  
+</section>
+
+<section>
 
 9. 
 
@@ -348,7 +376,9 @@ nedáte-li voříšek,
 
 provrtám vám kožíšek.
 
-  
+</section>
+
+<section>
 
 10. 
 
@@ -360,7 +390,9 @@ nedáte-li po voříšku,
 
 vyvrtáme vám dírku do kožíšku.
 
-  
+</section>
+
+<section>
 
 11. 
 
@@ -372,7 +404,9 @@ do komůrky háčkem
 
 pro koláčky s máčkem.
 
-  
+</section>
+
+<section>
 
 12. 
 
@@ -384,7 +418,9 @@ kdo ho má, ať ho dá,
 
 ať se liška nehněvá.
 
-  
+</section>
+
+<section>
 
 Běžela liška k háji;
 
@@ -396,7 +432,9 @@ zmeškal bych já koledu.
 
 Z Domažlicka.
 
-  
+</section>
+
+<section>
 
 13. 
 
@@ -408,7 +446,9 @@ kozlovi bradu,
 
 jeho zahradu.
 
-  
+</section>
+
+<section>
 
 Ty starý kmotře,
 
@@ -418,7 +458,9 @@ nebudeš lepší,
 
 až tě nůž odře!
 
-  
+</section>
+
+<section>
 
 Kráva za humny
 
@@ -428,7 +470,9 @@ ovce v chaloupce
 
 takto pravila:
 
-  
+</section>
+
+<section>
 
 Že žába hloupá,
 
@@ -438,7 +482,9 @@ takto pravila:
 
 tak na ni brouká.
 
-  
+</section>
+
+<section>
 
 Nedvěd i s kozlem
 
@@ -448,7 +494,9 @@ celí opilí,
 
 sotva že hledí.
 
-  
+</section>
+
+<section>
 
 Brumbál jim hraje,
 
@@ -458,7 +506,9 @@ mravenec s mouchou
 
 v koutku frejuje.
 
-  
+</section>
+
+<section>
 
 My sme k vám přišli,
 
@@ -468,7 +518,9 @@ jen vy nám předce
 
 koledy dejte!
 
-  
+</section>
+
+<section>
 
 ### Náboženské.
 
@@ -484,7 +536,9 @@ pásli jsou tam pastýřové,
 
 jedli kaši z mlíka.
 
-  
+</section>
+
+<section>
 
 Přiletěl k nim anděl,
 
@@ -494,7 +548,9 @@ toto jim pověděl:
 
 aby každý věděl.
 
-  
+</section>
+
+<section>
 
 Oni nemeškali,
 
@@ -504,7 +560,9 @@ k Ježíškovi do Betléma,
 
 za pána ho znali.
 
-  
+</section>
+
+<section>
 
 A my hoši malí!
 
@@ -514,7 +572,9 @@ koledičku na ručičku,
 
 kdybyste nám dali.
 
-  
+</section>
+
+<section>
 
 Jest-li že nedáte,
 
@@ -524,7 +584,9 @@ hrnce, mísy potlučeme,
 
 co v misníku máte.
 
-  
+</section>
+
+<section>
 
 A pukličky k tomu; 2)
 
@@ -534,7 +596,9 @@ proto že jste nechtěli dát
 
 koledy nikomu.
 
-  
+</section>
+
+<section>
 
 1) Strunka, strunka, strunka,
 
@@ -544,7 +608,9 @@ na tej louce pastýřové,
 
 jedí kaši z hrnka.
 
-  
+</section>
+
+<section>
 
 2) Máte-li je v peci,
 
@@ -554,7 +620,9 @@ roztlučeme přeci:
 
 dřevěnou palicí.
 
-  
+</section>
+
+<section>
 
 15.
 
@@ -570,7 +638,9 @@ Kristu Jezulátku
 
 dnes v Betlémě narozenému.
 
-  
+</section>
+
+<section>
 
 On rozdává štědrovničky,
 
@@ -582,11 +652,15 @@ za koledování:
 
 dejž vám pán Bůh požehnání!
 
-  
+</section>
+
+<section>
 
 1) My zpíváme pánu Bohu.
 
-  
+</section>
+
+<section>
 
 16. 
 
@@ -640,7 +714,9 @@ v nebi vám to zaplatí:
 
 s ním radovati.
 
-  
+</section>
+
+<section>
 
 17. 
 
@@ -654,7 +730,9 @@ co vám budeme zpívat,
 
 radostně vypravovat.
 
-  
+</section>
+
+<section>
 
 Ježíš, malé dětátko,
 
@@ -664,7 +742,9 @@ v Betlémě se narodil,
 
 z Marie panny zrodil.
 
-  
+</section>
+
+<section>
 
 A v tom obecném chlévě
 
@@ -674,7 +754,9 @@ mezi dvěma hovádky
 
 od své přemilé matky.
 
-  
+</section>
+
+<section>
 
 Trpěl hlad, žízeň, zimu,
 
@@ -692,7 +774,9 @@ nenechte nás zde stati,
 
 ani dlouho meškati.
 
-  
+</section>
+
+<section>
 
 Jest-li že nedáte –
 
@@ -708,7 +792,9 @@ a v teplým pelíšku
 
 dírku uhlídáte.
 
-  
+</section>
+
+<section>
 
 Dírku tak maličkou,
 
@@ -724,7 +810,9 @@ jest-li že nedáte,
 
 škodu uhlídáte.
 
-  
+</section>
+
+<section>
 
 18.
 
@@ -742,7 +830,9 @@ co vám povím nového
 
 potud neslýchaného.
 
-  
+</section>
+
+<section>
 
 Slyšela jsem v Betlémě,
 
@@ -756,7 +846,9 @@ Josef s matkou ho hlídá,
 
 vol a osel zahřívá.
 
-  
+</section>
+
+<section>
 
 Přišli jsou tam pastýři,
 
@@ -770,7 +862,9 @@ každej hrál tu svou notou,
 
 k tomu si dupal botou.
 
-  
+</section>
+
+<section>
 
 19. 
 
@@ -790,7 +884,9 @@ v Betlémě v chlívě,
 
 chci zvěstovat.
 
-  
+</section>
+
+<section>
 
 Chudý je, nahý je,
 
@@ -806,7 +902,9 @@ plinku i fáček
 
 i peřinu.
 
-  
+</section>
+
+<section>
 
 Dost málo darujte,
 
@@ -820,7 +918,9 @@ pravím na místě,
 
 mezi svaty.
 
-  
+</section>
+
+<section>
 
 Jest-li nic nedáte,
 
@@ -838,7 +938,9 @@ jen počkejte!
 
 Z Plzeňska.
 
-  
+</section>
+
+<section>
 
 20. 
 
@@ -850,7 +952,9 @@ Kubo, Matouši,
 
 ty Klímo!
 
-  
+</section>
+
+<section>
 
 „Což na nás voláš,
 
@@ -858,7 +962,9 @@ spali nám nedáš,
 
 Damíno?“
 
-  
+</section>
+
+<section>
 
 Což tvrdé spíte,
 
@@ -872,7 +978,9 @@ na této poušti
 
 nad námi.
 
-  
+</section>
+
+<section>
 
 Bárta, bralr nás,
 
@@ -886,7 +994,9 @@ kejvá kloboukem
 
 radostí.
 
-  
+</section>
+
+<section>
 
 Ach Bárto, bratře!
 
@@ -900,7 +1010,9 @@ nebo nedvědy
 
 utíkáš?
 
-  
+</section>
+
+<section>
 
 „Běžím radostí
 
@@ -914,7 +1026,9 @@ a nás navštívil
 
 král, pán náš.“
 
-  
+</section>
+
+<section>
 
 Bárto, v hrdlo lžeš!
 
@@ -928,7 +1042,9 @@ v chlévě na seně
 
 vzácný hosl.“
 
-  
+</section>
+
+<section>
 
 21.
 
@@ -980,7 +1096,9 @@ zahrajte mu, trantará!
 
 ať to détátko hajá.
 
-  
+</section>
+
+<section>
 
 22.
 
@@ -1044,7 +1162,9 @@ děťátku do lůze.
 
 Z Domažlicka.
 
-  
+</section>
+
+<section>
 
 23. 
 
@@ -1062,7 +1182,9 @@ musí Josef pro ni jíti,
 
 nesmí se za dítě nic styděti.
 
-  
+</section>
+
+<section>
 
 24. 
 
@@ -1094,7 +1216,9 @@ malé čtvrt hodinky,
 
 co se’s narodilo!“
 
-  
+</section>
+
+<section>
 
 Půjdeme tam dolů
 
@@ -1126,7 +1250,9 @@ přesvatá Trojice!
 
 Z Hradecka.
 
-  
+</section>
+
+<section>
 
 25. 
 
@@ -1150,7 +1276,9 @@ slívky, jabka, pšenice,
 
 žito, jařice.
 
-  
+</section>
+
+<section>
 
 Každá kura po třikrát do roka
 
@@ -1176,7 +1304,9 @@ Od Štědrého večera až do Nového roku chodí chlapci u večer dům od domu 
 
 (Nápěv 80.)
 
-  
+</section>
+
+<section>
 
 **Pastýřové.**
 
@@ -1216,7 +1346,9 @@ když cesty nevíme?
 
 (Nápěv 80.)
 
-  
+</section>
+
+<section>
 
 Anděl.
 
@@ -1302,7 +1434,9 @@ pomoz mi ho na ty starý ramena!
 
 (Nápěv 80.)
 
-  
+</section>
+
+<section>
 
 Pastýřové.
 
@@ -1322,7 +1456,9 @@ zahrajem tam.
 
 (Nápěv 571.)
 
-  
+</section>
+
+<section>
 
 Půjdem spolem do Betléma,
 
@@ -1336,7 +1472,9 @@ Ježíšku, panáčku!
 
 já tě budu kolíbat.
 
-  
+</section>
+
+<section>
 
 Začni, Kubo, na ty dudy:
 
@@ -1344,7 +1482,9 @@ dujdaj, dujdaj, dujdaj dá!
 
 Ježíšku, panáčku atd.
 
-  
+</section>
+
+<section>
 
 A ty, Janku, na pišťalu:
 
@@ -1352,7 +1492,9 @@ dudli, tudli, dudli dá!
 
 Ježíšku, panáčku atd.
 
-  
+</section>
+
+<section>
 
 A ty, Mikši, na housličky:
 
@@ -1360,7 +1502,9 @@ hudli, tydli, hudli dá!
 
 Ježíšku, panáčku atd.
 
-  
+</section>
+
+<section>
 
 A ty, Vávro, na tu basu:
 
@@ -1368,7 +1512,9 @@ rum, rum, ruma dá!
 
 Ježíšku, panáčku atd.
 
-  
+</section>
+
+<section>
 
 Hút! hút!“hút! atd.
 
@@ -1378,7 +1524,9 @@ Hút! hút!“hút! atd.
 
 (Nápěv 80.)
 
-  
+</section>
+
+<section>
 
 Už jsme si naši koledu odbyli,
 
@@ -1392,7 +1540,9 @@ nynčko vy jděte taky
 
 Ježíška kolíbali.
 
-  
+</section>
+
+<section>
 
 Ančička běží, zimou se třese,
 
@@ -1406,7 +1556,9 @@ dary Ježíškovi nese,
 
 celá se zimou třese.
 
-  
+</section>
+
+<section>
 
 28 Prosince.
 
@@ -1414,7 +1566,9 @@ O Mláďátkách
 
 den se omlazuje.
 
-  
+</section>
+
+<section>
 
 Z rána, když děti ještě leží v posteli, jest obyčej tázati se jich: „Kolik bylo mláďátek?“
 
@@ -1424,7 +1578,9 @@ Které neví, dostane metlou a připomene se jemu, že „čtyři tisíce čtyř
 
 (Nápěv 105.)
 
-  
+</section>
+
+<section>
 
 Den přeslavný jest k nám přišel,
 
@@ -1434,7 +1590,9 @@ radujme se, veselme se
 
 v tomto novém roce.
 
-  
+</section>
+
+<section>
 
 Jak jsem do pokoje vešel,
 
@@ -1444,7 +1602,9 @@ léto mine a pomine –
 
 paní s pánem našel.
 
-  
+</section>
+
+<section>
 
 Pán s paní za stolem sedí,
 
@@ -1454,7 +1614,9 @@ léto mine a pomine –
 
 obá v karty hrají.
 
-  
+</section>
+
+<section>
 
 Panáčku! mně se chce spát,
 
@@ -1464,7 +1626,9 @@ léto mine a pomine –
 
 já pojdu lůžko stlát.
 
-  
+</section>
+
+<section>
 
 Jak sobě lůžko ustlala,
 
@@ -1474,7 +1638,9 @@ léto mine a pomine –
 
 hned se odebrala.
 
-  
+</section>
+
+<section>
 
 Pěkná paní a pěknej pán,
 
@@ -1484,7 +1650,9 @@ léto mine a pomine –
 
 dá pán koledy sám.
 
-  
+</section>
+
+<section>
 
 Nového léta vinšujem,
 
@@ -1494,7 +1662,9 @@ léto mine a pomine –
 
 dobrého vám přejem.
 
-  
+</section>
+
+<section>
 
 Abysme k vám přes rok přišli,
 
@@ -1510,7 +1680,9 @@ Z Klatovska
 
 (Nápěv 105.)
 
-  
+</section>
+
+<section>
 
 Den přeslavný jest k nám přišel,
 
@@ -1592,7 +1764,9 @@ víš, že my rádi píváme,
 
 a nerozlíváme.
 
-  
+</section>
+
+<section>
 
 Byl poslední den v roce 1840. V Novém městě Pražském v jednom domě nákladnickém sedali jsme k večeři: hospodář sládek, poctivý Staročech, v čele, a my ostatní dvěma řady po celé délce atolu až ke dveřím. Tu zavzní venku píseň:
 
@@ -1608,97 +1782,129 @@ hodil hospodář na zem tvrdý tolar, hvozda nastavil pytel a chlapec do něho t
 
 (Nápěv 404.)
 
-  
+</section>
+
+<section>
 
 My tři králové jdeme k vám,
 
 štěstí, zdraví přejeme vám.
 
-  
+</section>
+
+<section>
 
 Štěstí, zdraví, dlouhá léta:
 
 my jsme k vám přišli z daleka.
 
-  
+</section>
+
+<section>
 
 „Daleko-li cesta vaše?“
 
 Do Betléma mysl naše.
 
-  
+</section>
+
+<section>
 
 „Co pak ty tam černej vzadu
 
 vystrkuješ na nás bradu?“
 
-  
+</section>
+
+<section>
 
 Slunce je toho příčina,
 
 že je má tvář opálena.
 
-  
+</section>
+
+<section>
 
 „Kdybys na slunce nechodil,
 
 nebyl bys se tak opálil.“
 
-  
+</section>
+
+<section>
 
 Slunce je drahé kamení
 
 od Kristova narození. –
 
-  
+</section>
+
+<section>
 
 Půjč, Josefe, půjč plínčičky,
 
 ať závinem to maličký.
 
-  
+</section>
+
+<section>
 
 Malíčky jsme zavinuli,
 
 do jesliček položili. –
 
-  
+</section>
+
+<section>
 
 Herodes král z okna kouká,
 
 vidi tři krále z daleka. –
 
-  
+</section>
+
+<section>
 
 Protrh se Josef ze spaní,
 
 pojal děťátko s Marií.
 
-  
+</section>
+
+<section>
 
 Utíkal s ním do Egypta,
 
 do toho slavného města.
 
-  
+</section>
+
+<section>
 
 Kde Maria přebývala,
 
 nad tím domem hvězda stála.
 
-  
+</section>
+
+<section>
 
 Přebývejte s Kristem pánem
 
 až na věky věkův. Amen.
 
-  
+</section>
+
+<section>
 
 A já černej vystupuju,
 
 a nový rok všem vinšuju!
 
-  
+</section>
+
+<section>
 
 A druzí dvá doloží:
 
@@ -1706,7 +1912,9 @@ A my taký vystupujem,
 
 a nový rok všem vinšujem!
 
-  
+</section>
+
+<section>
 
 Tuto koledu zpívávají chlapci, za tři krále jsouce přistrojeni. Někdy při ní užívají také bukálu a takto ji končí: Hráme, hráme, hráme, koledy žádáme!
 
@@ -1716,7 +1924,9 @@ Bude-li na den Obráceni sv. Pavla vítr vát,
 
 budou toho roku na vojnu brát.
 
-  
+</section>
+
+<section>
 
 S které strany toho dne vítr věje,
 
@@ -1730,7 +1940,9 @@ netrkne-li rohem,
 
 (Rozuměj o tuhých mrázích na počátku neb na konci toho měsíce.)
 
-  
+</section>
+
+<section>
 
 Únor – úmor:
 
@@ -1740,7 +1952,9 @@ umořil by v krávě tele
 
 a v kobyle hříbě.
 
-  
+</section>
+
+<section>
 
 Únor bílý
 
@@ -1752,7 +1966,9 @@ Na Hromice
 
 dne o hodinu více.
 
-  
+</section>
+
+<section>
 
 Na Hromice
 
@@ -1760,31 +1976,41 @@ půl krajíce,
 
 půl píce.
 
-  
+</section>
+
+<section>
 
 Mnoho-li sněhu do Hromic,
 
 tolik i po Hromicích.
 
-  
+</section>
+
+<section>
 
 Co se napráší ho Hromic dveřmi,
 
 nepráší se po Hromicích derou.
 
-  
+</section>
+
+<section>
 
 O Hromicích musí skřivan vrznout,
 
 kdyby měl i zmrznout.
 
-  
+</section>
+
+<section>
 
 Přijdou Hromice,
 
 konce sanice.
 
-  
+</section>
+
+<section>
 
 Jest-li o Hromicích teplo,
 
@@ -1816,7 +2042,9 @@ Na svatého Matěje
 
 skřivan pije z koleje.
 
-  
+</section>
+
+<section>
 
 Svatý Matěj
 
@@ -1824,25 +2052,33 @@ mosty boří
 
 anebo staví.
 
-  
+</section>
+
+<section>
 
 Nenajde-li Matějova píla,
 
 najde Josefova širočina.
 
-  
+</section>
+
+<section>
 
 Svatý Matěj
 
 hází pluhy s ponebí..
 
-  
+</section>
+
+<section>
 
 Jest-li na sv. Matěje větrno,
 
 bude toho roku moc ovoce.
 
-  
+</section>
+
+<section>
 
 Před východem slunce jdou do zahrad, a třesouce ovocnými stromy volají:
 
@@ -1884,49 +2120,65 @@ První toto říkadlo z Jičínska, druhé i Chrudimská, třetí z Berounska.
 
 V Březnu vítr z břízy fouká.
 
-  
+</section>
+
+<section>
 
 V Březnu prach co zlato a stříbro,
 
 ale sníh bývá na obilí jed.
 
-  
+</section>
+
+<section>
 
 V Březnu stár
 
 boj se mař.
 
-  
+</section>
+
+<section>
 
 Suchý Březen, mokrý Máj,
 
 bude humno jako ráj.
 
-  
+</section>
+
+<section>
 
 Březnový sníh
 
 zbavuje pih.
 
-  
+</section>
+
+<section>
 
 Březnová mha,
 
 po stu dnech lijavec.
 
-  
+</section>
+
+<section>
 
 Až přijde Březen,
 
 za kamna vlezem.
 
-  
+</section>
+
+<section>
 
 Až přijde Duben,
 
 ještě tam budem.
 
-  
+</section>
+
+<section>
 
 Až přijde Máj,
 
@@ -1962,8 +2214,12 @@ Masopůst, masopust –
 
 jen mne, holka, neopusť!
 
-  
+</section>
+
+<section>
 
 Jak vysoko holka o masopustě skáče,
 
 tak vysoký bude mít len.
+
+</section>

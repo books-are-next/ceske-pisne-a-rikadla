@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 ## Poděkování.
 
 Prvé nežli vstanou od stolu, promluví družba takto:
@@ -63,3 +65,5 @@ Konečně vezme řečník hni nějakou a zatluče ve světnici třikráte do tr�
 pan hospodský na nás volá,
 
 a zve nás, že má doma ve sklepě černou krávu, kteráž ač jen na jeden struk dojí, přece tolik mu nadojí, že může mnoho hostů poctiti. A protož žádá pan hospodský, abysme jej navštívili, že chce od té černé krávy nás všechny podělili, napojili a nás obveselili.“
+
+</section>

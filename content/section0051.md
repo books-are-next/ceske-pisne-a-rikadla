@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 ## Příjezd nevěstin.
 
 Když přijíždějí ke dvoru ženichovu, zpívají takto:
@@ -393,3 +395,5 @@ nikdy ho nepečou;
 bezděčnou nevěstou!
 
 Z Bydžovska.
+
+</section>

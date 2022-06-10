@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 # Říkadla v nemocech.
 
 ### 1.
@@ -773,3 +775,5 @@ Pfí z očka
 do potočka!
 
 Z Hradecka.
+
+</section>
