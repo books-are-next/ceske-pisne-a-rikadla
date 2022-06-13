@@ -24,6 +24,10 @@ hejdumdál hejdumdá!
 
 však nás pán Bůh nezandá.
 
+</section>
+
+<section>
+
 Hejdumdá! hejdumdá!
 
 však nás pán Bůh nezandá:
@@ -48,6 +52,10 @@ Blaze tomu, kdo nic nemá:
 
 nestará se, kam co schová.
 
+</section>
+
+<section>
+
 Směle lehne, směle vstane,
 
 žádnej mu nic neukradne.
@@ -64,17 +72,33 @@ Nedej, Bože! abych stonal,
 
 kdož pak by mně posluhoval?
 
+</section>
+
+<section>
+
 Kdož pak jinej, než má milá,
 
 má Andulka roztomilá.
+
+</section>
+
+<section>
 
 Nedej, Bože! abych umřel,
 
 než zaplatím, co jsem dlužen.
 
+</section>
+
+<section>
+
 Nejsem dlužen než dvá česká,
 
 to zaplatí holka hezká.
+
+</section>
+
+<section>
 
 Co zaplatí grošíčkama,
 
@@ -143,6 +167,10 @@ Dávali mně za mou plantu
 já ji přeci nechtěl dát:
 
 lepší planta než kabát.
+
+</section>
+
+<section>
 
 V plantě vyspím se na peci,
 
@@ -314,6 +342,10 @@ já jsem poctivejch
 
 rodičů syn.
 
+</section>
+
+<section>
+
 Já jsem z Roudnice,
 
 já mám tam rodiče,
@@ -329,6 +361,10 @@ na faře sloužila;
 já jsem poctivejch
 
 rodičů syn.
+
+</section>
+
+<section>
 
 Já jsem z Roudnice,
 
@@ -358,13 +394,25 @@ Na lom svělé nic dobrého:
 
 okrad chudej potřebného.
 
+</section>
+
+<section>
+
 Udělal mu škodu ráznou:
 
 uřezal mu kapsu prázdnou
 
+</section>
+
+<section>
+
 A v tý kapse byla švestka,
 
 a v tý švestce byla pecka.
+
+</section>
+
+<section>
 
 A v tý pecce bylo jádro:
 
@@ -382,13 +430,25 @@ Beznohej na hrušku leze,
 
 že si ráčata vybéře.
 
+</section>
+
+<section>
+
 Bezrukej tam na něj hází,
 
 trefí-li ho, že ho srazí.
 
+</section>
+
+<section>
+
 Němej po cestě si brouká,
 
 bluchej v trní ho poslouchá.
+
+</section>
+
+<section>
 
 Umrlej přes cestu běží,
 
@@ -405,6 +465,10 @@ Z Hradecka. – Srov. Suš. 686.
 Stará baba čarovala,
 
 z ječmena kroupy dělala.
+
+</section>
+
+<section>
 
 A z prosa dělala jáhly:
 
@@ -498,13 +562,25 @@ Naše kočička mrňavá
 
 chytila ptáčka strnada.
 
+</section>
+
+<section>
+
 A naše ještě mrnější
 
 chytila ptáčka – půl myši.
 
+</section>
+
+<section>
+
 Ukousla jemu křidýlka,
 
 jak pak bude živ chudinka?
+
+</section>
+
+<section>
 
 Ukousla jemu ocásek,
 
@@ -525,6 +601,10 @@ má-li kocour pazoury?
 „Jak jsi stará, tak jsi hloupá:
 
 jak by lízal do doury?“
+
+</section>
+
+<section>
 
 Tázala se kočka kočky,
 
@@ -596,9 +676,17 @@ Kam pak pojdeš, Jiříku?
 
 „Do hospody, tatíku!“
 
+</section>
+
+<section>
+
 Máš peníze, Jiříku?
 
 „Ani grešli, tatíku!“
+
+</section>
+
+<section>
 
 Zůstaň doma, Jiříku!
 
@@ -698,6 +786,10 @@ dotud ještě dobře s námi,
 
 tatíčku starej náš!
 
+</section>
+
+<section>
+
 Tatíčku starej náš!
 
 ať se nám zachováš:
@@ -747,6 +839,10 @@ dej mu pán Bůh království:
 on pomáhal starým pannám
 
 leckdys k ňáký radosti.
+
+</section>
+
+<section>
 
 Náš tatíček neboztíček,
 
@@ -848,6 +944,10 @@ proč by Hajdalačky zuby
 
 tratily?
 
+</section>
+
+<section>
+
 Pověděla stará bába
 
 penzlíkem:
@@ -892,6 +992,10 @@ chudobky vdovám,
 
 kopřivy babám.
 
+</section>
+
+<section>
+
 Pannám koláčky,
 
 mládencům buchty,
@@ -900,6 +1004,10 @@ knedlíky vdovám,
 
 brambory babám.
 
+</section>
+
+<section>
+
 Pannám střevíčky,
 
 mládencům botky,
@@ -907,6 +1015,10 @@ mládencům botky,
 pantofle vdovám,
 
 bačkory babám.
+
+</section>
+
+<section>
 
 Pannám ráječek,
 
@@ -1002,6 +1114,10 @@ Jukel nechce domů jít,
 
 na dobré pivíčko.
 
+</section>
+
+<section>
+
 Poslala pro psíka,
 
 aby pes Jukla kous:
@@ -1016,6 +1132,10 @@ Jukel nechce domů jít,
 
 na dobré pivíčko.
 
+</section>
+
+<section>
+
 Poslala je pro kej,
 
 aby kej psa mlátil:
@@ -1025,6 +1145,10 @@ kej nechce psa mlátit,
 pes nechce Jukla kousat,
 
 Jukel nechce domů jít atd.
+
+</section>
+
+<section>
 
 Poslala pro oheň,
 
@@ -1036,6 +1160,10 @@ kej nechce psa mlátit,
 
 pes nechce Jukla kousat atd.
 
+</section>
+
+<section>
+
 Poslala pro vodu,
 
 aby oheň hasila:
@@ -1045,6 +1173,10 @@ voda nechce oheň hasit,
 oheň nechce kej pálit,
 
 kej nechce psa mlátit atd.
+
+</section>
+
+<section>
 
 Poslala pro vola,
 
@@ -1056,6 +1188,10 @@ voda nechce oheň hasit,
 
 oheň nechce kej pálit atd.
 
+</section>
+
+<section>
+
 Poslala pro řezníka,
 
 aby řezník vola bil:
@@ -1065,6 +1201,10 @@ aby řezník vola bil:
 vůl nechce vodu pít,
 
 voda nechce oheň hasit atd.
+
+</section>
+
+<section>
 
 Poslala pro bábu,
 
@@ -1076,6 +1216,10 @@ bába nechce čarovat,
 
 vůl nechce vodu pít atd.
 
+</section>
+
+<section>
+
 Poslala pro čerta,
 
 aby čert bábu vzal:
@@ -1085,6 +1229,10 @@ aby čert bábu vzal:
 bába nechce čarovat,
 
 řezník nechce vola bít atd.
+
+</section>
+
+<section>
 
 Poslala pro hroma,
 
@@ -1140,6 +1288,10 @@ má panenka pláče
 
 doma v komoře.
 
+</section>
+
+<section>
+
 Když jsem já sloužil
 
 to druhé léto,
@@ -1158,6 +1310,10 @@ má panenka pláče
 
 doma v komoře.
 
+</section>
+
+<section>
+
 Když jsem já sloužil
 
 to třetí léto,
@@ -1169,6 +1325,10 @@ husičku za to:
 a ta husa chodí bosa,
 
 a ta kachna jako machna atd.
+
+</section>
+
+<section>
 
 Když jsem já sloužil
 
@@ -1182,6 +1342,10 @@ a len vepř jako pepř,
 
 a ta husa chodí bosa atd.
 
+</section>
+
+<section>
+
 Když jsem já sloužil
 
 to páté léto,
@@ -1193,6 +1357,10 @@ telátko za to:
 a to tele hubou mele,
 
 a ten vepř jako pepř atd.
+
+</section>
+
+<section>
 
 Když jsem já sloužil
 
@@ -1206,6 +1374,10 @@ a ta kráva mlíko dává
 
 a to tele hubou mele atd.
 
+</section>
+
+<section>
+
 Když jsem já sloužil
 
 to sedmé léto,
@@ -1218,6 +1390,10 @@ a ten vůl jako kůl,
 
 a ta kráva mlíko dává atd.
 
+</section>
+
+<section>
+
 Když jsem já sloužil
 
 to osmé léto,
@@ -1229,6 +1405,10 @@ botičky za to:
 a ty boty do roboty,
 
 a ten vůl jako kůl atd.
+
+</section>
+
+<section>
 
 Když jsem já sloužil
 
@@ -1280,6 +1460,10 @@ nejsou doma,
 
 šly do mlejna.
 
+</section>
+
+<section>
+
 Naše dojná kráva
 
 není doma,
@@ -1293,6 +1477,10 @@ kráva s telaty
 nejsou doma,
 
 šly do mlejna.
+
+</section>
+
+<section>
 
 Naše mlsná koza
 
@@ -1310,11 +1498,19 @@ nejsou doma,
 
 šly do mlejna.
 
+</section>
+
+<section>
+
 Naše krmná svině
 
 není doma atd.
 
 svině s selaty atd.
+
+</section>
+
+<section>
 
 Naše tichá ovce
 
@@ -1322,11 +1518,19 @@ není doma atd.
 
 ovce s jehňaty atd.
 
+</section>
+
+<section>
+
 Naše bílá husa
 
 není doma atd.
 
 husa s housaty atd.
+
+</section>
+
+<section>
 
 Naše zlatá kachna
 
@@ -1334,11 +1538,19 @@ není doma atd.
 
 kachna s kachňaty atd.
 
+</section>
+
+<section>
+
 Naše kusá koura
 
 není doma atd.
 
 koura s kuřaty atd.
+
+</section>
+
+<section>
 
 Naše chytrá čubka
 
@@ -1346,17 +1558,29 @@ není doma atd.
 
 čubka s štěňaty atd.
 
+</section>
+
+<section>
+
 Naše černá kočka
 
 není doma atd.
 
 kočka s koťaty atd.
 
+</section>
+
+<section>
+
 Naše malá myška
 
 není doma atd.
 
 myška s myšaty atd.
+
+</section>
+
+<section>
 
 Moje zlá žena
 
@@ -1412,6 +1636,10 @@ a malýho ubohýho
 
 toho třetího.“
 
+</section>
+
+<section>
+
 Hejdum dá, matko má!
 
 co jim dělat dáte?
@@ -1423,6 +1651,10 @@ kudrnalýmu hnůj kydat,
 a malýmu ubohýmu
 
 s panenkama hrát.“
+
+</section>
+
+<section>
 
 Hejdum dá, matko má!
 
@@ -1436,6 +1668,10 @@ a malýmu ubohýmu
 
 tomu kuřátka.“
 
+</section>
+
+<section>
+
 Hejdum dá, matko má!
 
 co jim píti dáte?
@@ -1447,6 +1683,10 @@ kudrnatýmu ze střepu,
 a malýmu ubohýmu
 
 tomu vínečko.“
+
+</section>
+
+<section>
 
 Hejdum dá, matko má!
 
@@ -1484,6 +1724,10 @@ a mladýho vědomýho
 
 pána: Líbám vás!“
 
+</section>
+
+<section>
+
 Hejdum, hejdum, má matičko!
 
 přijdou hosti k nám:
@@ -1499,6 +1743,10 @@ panu Vítu za stolem,
 a mladýmu vědomýmu
 
 pánu na sesli.“
+
+</section>
+
+<section>
 
 Hejdum, hejdum, má matičko!
 
@@ -1516,6 +1764,10 @@ a mladýmu vědomýmu
 
 pánu kmentovej.“
 
+</section>
+
+<section>
+
 Hejdum, hejdum, má matičko!
 
 přijdou, hosti k nám:
@@ -1531,6 +1783,10 @@ panu Vítu hliněnej,
 a mladýmu vědomýmu
 
 pánu stříbrnej.“
+
+</section>
+
+<section>
 
 Hejdum, hejdum, má matičko!
 
@@ -1548,6 +1804,10 @@ a mladýmu vědomýmu
 
 pánu stříbrnou.“
 
+</section>
+
+<section>
+
 Hejdum, hejdum, má matičko!
 
 přijdou hosti k nám:
@@ -1563,6 +1823,10 @@ panu Vítu hovězí,
 a mladýmu vědomýmu
 
 pánu zvěřinu.“
+
+</section>
+
+<section>
 
 Hejdum, hejdum, má matičko!
 
@@ -1580,6 +1844,10 @@ a mladýmu vědomýmu
 
 pánu malvazír.“
 
+</section>
+
+<section>
+
 Hejdum, hejdum, má matičko!
 
 přijdou hosti k nám:
@@ -1595,6 +1863,10 @@ panu Vítu za stolem,
 a mladýmu vědomýmu
 
 pánu na loži.“
+
+</section>
+
+<section>
 
 Hejdum, hejdum, má maličko!
 
@@ -1612,6 +1884,10 @@ a mladýho vědomýho
 
 pána peřinou.“
 
+</section>
+
+<section>
+
 Hejdum, hejdum, má matičko!
 
 přijdou hosti k nám:
@@ -1627,6 +1903,10 @@ pana Vítá k snídaní,
 a mladýho vědomýho
 
 pána k obědu.“
+
+</section>
+
+<section>
 
 Hejdum, hejdum, má matičko!
 
@@ -1668,31 +1948,59 @@ ve mlejně za stárka,
 
 pane můj!
 
+</section>
+
+<section>
+
 Co‘s pak tam dělával atd.
 
 „Prachy jsem smetával atd.“
+
+</section>
+
+<section>
 
 Kde’s pak tam líhával atd.
 
 „V šalandě pod píckou“ atd.
 
+</section>
+
+<section>
+
 Co pak jsi pívával atd.
 
 „Ředinu, ředinu“ atd.
+
+</section>
+
+<section>
 
 Čím pak tě bívali atd.
 
 „Polínkem, lopatkou“ atd.
 
+</section>
+
+<section>
+
 Jak pak jsi plakával atd.
 
 „Me-e-é, me-e-é!“ atd.
+
+</section>
+
+<section>
 
 Jak pak jsi cupával atd.
 
 „Cupity, cupity!“ atd.
 
 Z Berounska.
+
+</section>
+
+<section>
 
 Kde pak’s bývával,
 
@@ -1702,6 +2010,10 @@ kozlíčku rohatý?
 
 panáčku bohatý!“
 
+</section>
+
+<section>
+
 Co’s tam dělával,
 
 kozlíčku rohatý?
@@ -1709,6 +2021,10 @@ kozlíčku rohatý?
 „Dříví jsem štípával,
 
 panáčku bohatý!“
+
+</section>
+
+<section>
 
 Čím tě bívali,
 
@@ -1718,6 +2034,10 @@ kozlíčku rohatý?
 
 panáčku bohatý!“
 
+</section>
+
+<section>
+
 Jak pak’s pískával,
 
 kozlíčku rohatý?
@@ -1725,6 +2045,10 @@ kozlíčku rohatý?
 „Mhe-e-é, mhe-e-é!
 
 panáčku bohatý!“
+
+</section>
+
+<section>
 
 Co pak´s jídával,
 
@@ -1734,6 +2058,10 @@ kozlíčku rohatý?
 
 panáčku bohatý!“
 
+</section>
+
+<section>
+
 Co pak’s pívával,
 
 kozlíčku rohatý?
@@ -1741,6 +2069,10 @@ kozlíčku rohatý?
 „Ředinu, ředinu,
 
 panáčku bohatý!“
+
+</section>
+
+<section>
 
 Jak pak’s cupával,
 
@@ -1802,21 +2134,41 @@ Když jsem já šel zvonit,
 
 on tam na mě číhal.
 
+</section>
+
+<section>
+
 Já jsem ho tam viděl,
 
 jak se ke zdi krčil.
+
+</section>
+
+<section>
 
 Myslíš, že tě neznám?
 
 vždyť jsi Martin z fary!
 
+</section>
+
+<section>
+
 Zdvihal na mě kámen,
 
 pravil: „Že tě praštím!“
 
+</section>
+
+<section>
+
 Já se tě nebojím,
 
 jak jseš o kus větší!
+
+</section>
+
+<section>
 
 Praštil jsem jim o zem
 

@@ -8,6 +8,10 @@ contentType: poetry
 
 Při kaši dá kuchařka lžíci neb vařečku v kaši omočenou a perníkem posypanou na stůl, kterouž družba vezma, takto k hostům mluví:
 
+</section>
+
+<section>
+
 Vysoce vážení páni a paní,
 
 šlechetní panicové a panny!

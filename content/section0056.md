@@ -20,6 +20,10 @@ kterak jedna svatba byla,
 
 moc páků přivábila.
 
+</section>
+
+<section>
+
 Ženich ten byl z Chudé Třídy,
 
 a nevěsta z Ženské Bídy,
@@ -27,6 +31,10 @@ a nevěsta z Ženské Bídy,
 prohlášeni jsou v Jekově
 
 a oddáni v Nebylově.
+
+</section>
+
+<section>
 
 Družba ten byl z Drbalova
 
@@ -36,6 +44,10 @@ družka byla ze Strojetic
 
 a kuchařka od Odřetic.
 
+</section>
+
+<section>
+
 Piva, vína bylo dosti,
 
 každý pil po své libosti;
@@ -43,6 +55,10 @@ každý pil po své libosti;
 a když po obědě bylo,
 
 všecko se to k tanci mělo.
+
+</section>
+
+<section>
 
 Na skřipky hrál od Šumavy,
 
@@ -52,6 +68,10 @@ a na trouby co troubili,
 
 od Mrázova kdesi byli.
 
+</section>
+
+<section>
+
 Ze Strakonic byl s dudama,
 
 od Trhanova s kobzama,
@@ -60,6 +80,10 @@ s trumarínou od Dobřína
 
 a s kejdama z Kokořína.
 
+</section>
+
+<section>
+
 Frkoč foukal jeden z Lomu:
 
 pili se lidé tomu,
@@ -67,6 +91,10 @@ pili se lidé tomu,
 kde jsou takovou čeládku
 
 shledali k tomuto sňatku.
+
+</section>
+
+<section>
 
 Bylo jest to hodování,
 
@@ -92,6 +120,10 @@ který se oženit chce:
 
 sojku brát si bude.
 
+</section>
+
+<section>
+
 Na tu svatbu veselou
 
 bylo moc pozvaných,
@@ -99,6 +131,10 @@ bylo moc pozvaných,
 to z rozličného ptactva,
 
 jak velkých, tak malých.
+
+</section>
+
+<section>
 
 Zlatohlavý strnádek
 
@@ -108,6 +144,10 @@ a radostný skřivánek
 
 zval hosty na svatbu.
 
+</section>
+
+<section>
+
 Křepelka za družičku,
 
 ta jest věnce vila,
@@ -115,6 +155,10 @@ ta jest věnce vila,
 pannu sojku nevěstu
 
 na oddavky vedla.
+
+</section>
+
+<section>
 
 Krkavec je oddával,
 
@@ -124,6 +168,10 @@ jestřáb za svědka stál,
 
 všem se zakazoval.
 
+</section>
+
+<section>
+
 Havran byl za kuchaře,
 
 ten jim oběd strojil:
@@ -131,6 +179,10 @@ ten jim oběd strojil:
 však ho všickni poznají,
 
 kterak se začernil.
+
+</section>
+
+<section>
 
 Slavík dělal muziku,
 
@@ -140,6 +192,10 @@ a tak, co hostu bylo,
 
 všecko tancovalo.
 
+</section>
+
+<section>
+
 Unavila se sojka,
 
 spat se odebrala,
@@ -148,6 +204,10 @@ kdežto švitorná straka
 
 postel jí vystlala.
 
+</section>
+
+<section>
+
 Svatba se dokonala,
 
 písničku zavírám,
@@ -155,6 +215,10 @@ písničku zavírám,
 na které já taky byl
 
 a na ni se díval.
+
+</section>
+
+<section>
 
 Stala se roku toho,
 
@@ -184,6 +248,10 @@ neb jí umřel otec
 
 též i milá máti.
 
+</section>
+
+<section>
+
 Co kde čtvernohého
 
 najíti se dalo,
@@ -195,6 +263,10 @@ kteříž na památku
 takového sňatku
 
 dali se najíti.
+
+</section>
+
+<section>
 
 Kocour byl za družbu,
 
@@ -208,6 +280,10 @@ a tchoř sa kuchaře
 
 s urozeným kancem.
 
+</section>
+
+<section>
+
 K tomu za družičky
 
 dvě krásné děvečky
@@ -219,6 +295,10 @@ ty přítomny byly,
 nevěstě sloužily,
 
 krásné koze pani.
+
+</section>
+
+<section>
 
 Když po jídle bylo,
 
@@ -232,6 +312,10 @@ mládenec zajíček
 
 dostal facalíček
 
+</section>
+
+<section>
+
 od panny družičky,
 
 překrásné lištičky,
@@ -243,6 +327,10 @@ když se bystře točil
 a proti ní bočil,
 
 hned mu věnec dala.
+
+</section>
+
+<section>
 
 Chrt mu to záviděl,
 
@@ -256,6 +344,10 @@ jeho pobídnouti
 
 v kordy neb pistole.
 
+</section>
+
+<section>
+
 Zajíc se mu ozval,
 
 darebou jej nazval,
@@ -267,6 +359,10 @@ jakož poctivý je,
 že se bránit bude,
 
 záda svá nastaví.
+
+</section>
+
+<section>
 
 Lev, jsa pán pokoje,
 
@@ -280,6 +376,10 @@ a se nevadili
 
 pod pět set pokuty.
 
+</section>
+
+<section>
+
 Ježek ušlechtilý,
 
 krásný a spanilý,
@@ -291,6 +391,10 @@ kunu si namlouval,
 pěkně jí objímal,
 
 řka, by jeho chtěla.
+
+</section>
+
+<section>
 
 Jelen připil krávě
 
@@ -304,6 +408,10 @@ klobouček posmekna,
 
 „Vstávej, půjdem k tanci!“
 
+</section>
+
+<section>
+
 Kráva ráda byla,
 
 hned se k tanci měla,
@@ -315,6 +423,10 @@ k kobyle tak řkouce:
 až mě svrbí záda,
 
 že mě pan jelen chce!“
+
+</section>
+
+<section>
 
 Kobyla jí řekla:
 
@@ -328,6 +440,10 @@ a škaredě hledím,
 
 nechtějí mě vzíti.
 
+</section>
+
+<section>
+
 Prv měla buvola
 
 od samého rána,
@@ -337,6 +453,10 @@ teď zas jelen přišel:
 já bych byla ráda,
 
 bych jednoho měla.“
+
+</section>
+
+<section>
 
 Velbloud to uslyšel,
 
@@ -352,6 +472,10 @@ aneb facalíček,
 
 mohu si ji vzíti.“
 
+</section>
+
+<section>
+
 Křeček vytáh‘ boty,
 
 popjal si kalhoty
@@ -363,6 +487,10 @@ vstal, bral se k veverce,
 té krásné panence,
 
 řka: „Jak se mně stejště
+
+</section>
+
+<section>
 
 tam dále seděti!“
 
@@ -376,6 +504,10 @@ jenž byl hoden viry,
 
 řek‘, by nechodila.
 
+</section>
+
+<section>
+
 Křeček k sysla s takou:
 
 „Odpusť mi s tvou pannou
@@ -387,6 +519,10 @@ trochu k tanci jiti:
 za toť připovidám;
 
 chci vesel pobyli.“
+
+</section>
+
+<section>
 
 On mu neodpustí,
 
@@ -400,6 +536,10 @@ takto jemu vece:
 
 má-li dát, aby dal.
 
+</section>
+
+<section>
+
 Křeček čerstvý jsouce,
 
 nepomeškajíce
@@ -411,6 +551,10 @@ jednou rukou ho rval,
 druhou přes hubu pral
 
 ukrutně v ty časy.
+
+</section>
+
+<section>
 
 Lehkomyslný křeček
 
@@ -424,6 +568,10 @@ veverka plakala;
 
 kdož koliv jej viděl,
 
+</section>
+
+<section>
+
 každý ho litoval.
 
 Jezovec nemeškal,
@@ -435,6 +583,10 @@ k rychtáři odeslal,
 řka, aby mu vzkázal
 
 dobrý den od něho;
+
+</section>
+
+<section>
 
 že ho za to žádá,
 
@@ -448,6 +600,10 @@ přišel hned té doby,
 
 neb že se tam perou.
 
+</section>
+
+<section>
+
 Chramostejl jda, věřte,
 
 potkal se na cestě
@@ -459,6 +615,10 @@ an si zvala kráčí,
 rozmlouvali ráčí
 
 s jeho milostí lvem.
+
+</section>
+
+<section>
 
 Vida je zdaleka,
 
@@ -472,6 +632,10 @@ tu všem oznamuje
 
 to své poručení.
 
+</section>
+
+<section>
+
 Lev rychtáři moc dal,
 
 aby je porovnal
@@ -483,6 +647,10 @@ a sám klusal doma.
 Beran, jsa rád tomu,
 
 běžel mezi hosti.
+
+</section>
+
+<section>
 
 Přijda do hospody,
 
@@ -496,6 +664,10 @@ poctu mu podali,
 
 teplé pivo s hrncem.
 
+</section>
+
+<section>
+
 On seď za stůl s nimi.
 
 Tu po malé chvíli
@@ -507,6 +679,10 @@ křeček s syslem spolu;
 tu před nim u stolu
 
 byli vyslýcháni.
+
+</section>
+
+<section>
 
 On je hned porovnal:
 
@@ -520,6 +696,10 @@ a potom zapírá,
 
 pro svá ústa, lživá.
 
+</section>
+
+<section>
+
 Když se porovnali,
 
 zas veseli byli,
@@ -532,6 +712,10 @@ kolčava s králíčkem
 
 skočnou tancovali.
 
+</section>
+
+<section>
+
 Nedvěd na housle hrál,
 
 slon na citeru pral
@@ -543,6 +727,10 @@ velmi zvučně brali,
 až všickni plesali
 
 z toho jejich hlasu.
+
+</section>
+
+<section>
 
 V tom špižírna zpustla,
 
@@ -662,6 +850,10 @@ zabijeme komára,
 
 masa naděláme. 
 
+</section>
+
+<section>
+
 Půl ho dáme do komína,
 
 půl ho uvaříme:
@@ -718,6 +910,10 @@ já tebe radši mám,
 
 než husar koníčka.
 
+</section>
+
+<section>
+
 Husar má koníčka
 
 za dvě stě tolarů:
@@ -725,6 +921,10 @@ za dvě stě tolarů:
 já tebe, ženo má,
 
 zadarmo dostanu.
+
+</section>
+
+<section>
 
 Husar má koníčka
 
@@ -774,6 +974,10 @@ někdo by mně za ní chodil.
 
 Z Chrudimska. – Srov. Mor. 1840, 49.
 
+</section>
+
+<section>
+
 (Nápěv 56.)
 
 Já ty volky nepoženu,
@@ -816,6 +1020,10 @@ ona se na něj
 
 nic nezasměje.
 
+</section>
+
+<section>
+
 On se k ní tlačí,
 
 ona se mračí:
@@ -836,29 +1044,57 @@ Co’s, Andulko, co’s dělala,
 
 že jsi se tak ucourala?
 
+</section>
+
+<section>
+
 „Naši vrátek nezavřeli,
 
 husičky nám vyletěly.
+
+</section>
+
+<section>
 
 Zaběhly nám do štěpnice,
 
 ze štěpnice do pšenice.
 
+</section>
+
+<section>
+
 Ze pšenice pak do prosa,
 
 což je byla velká rosa!“
+
+</section>
+
+<section>
 
 Co´s, Andulko, co’s dělala,
 
 že’s tak starého si vzala.
 
+</section>
+
+<section>
+
 Lepší s mladým v sprostém šatě,
 
 než še starým v samém zlatě.
 
+</section>
+
+<section>
+
 Starý sedne podlé boku,
 
 počítá, kolík mu roků.
+
+</section>
+
+<section>
 
 Mladý sedne podlé líčka,
 
@@ -879,6 +1115,10 @@ starého ráda:
 zalíbila se jí
 
 šepá brada.
+
+</section>
+
+<section>
 
 „Můj zlatej dědečku
 
@@ -928,6 +1168,10 @@ jménem Majolenku,
 
 hezkou holku mít.
 
+</section>
+
+<section>
+
 Inu! měl jsem hezkou holku,
 
 jmenem Majolenku,
@@ -976,6 +1220,10 @@ babu babu babu babu
 
 babu mosaznou!
 
+</section>
+
+<section>
+
 Flintu nabiju,
 
 babu zabiju,
@@ -1020,6 +1268,10 @@ při maličkým polínku
 
 uvaří mu polívku.
 
+</section>
+
+<section>
+
 Náš táta má hodnou máma,
 
 já takovou nedostanu:
@@ -1029,6 +1281,10 @@ a bych dost daleko šel,
 snad bych ji přec nenašel.
 
 Z Jičínska.
+
+</section>
+
+<section>
 
 Náš mlynář si ženu chválí,
 
@@ -1070,6 +1326,10 @@ budeš doma u své ženy
 
 zunkat vodu!
 
+</section>
+
+<section>
+
 Počkej za rok, za dvě léta
 
 zapomeneš na muziku:
@@ -1110,6 +1370,10 @@ co jsem za ni musel dát,
 
 když jsem ji chtěl sobě brát.
 
+</section>
+
+<section>
+
 Neb na cizím panství byla,
 
 vrchnost mně ji povolila:
@@ -1134,6 +1398,10 @@ přeškoda nastokrát,
 
 že jsem tebe prosil!
 
+</section>
+
+<section>
+
 „Já jsem se požala,
 
 když jsem trávu žala:
@@ -1157,6 +1425,10 @@ Přeškoda nastokrát,
 tu zlatú svobodu
 
 že jsem proměnil!
+
+</section>
+
+<section>
 
 Já miloval pannu,
 
@@ -1192,6 +1464,10 @@ ještě ňákejch deset letí
 
 Z Klatovska.
 
+</section>
+
+<section>
+
 Nežeňte se, chaso mladá!
 
 což budete litovat,
@@ -1223,6 +1499,10 @@ dvě neděle jsou:
 už za mnou maličký
 
 pachole nesou.
+
+</section>
+
+<section>
 
 Nenoste, nenoste,
 
@@ -1286,6 +1566,10 @@ aby každej věděl,
 
 že se česává.
 
+</section>
+
+<section>
+
 Špatnou ženu mít, 
 
 ještě od ní bit:
@@ -1314,6 +1598,10 @@ kde si smyslí, tu si sedne,
 
 to vám povídám.
 
+</section>
+
+<section>
+
 Studenou vodou
 
 chléb zadělává:
@@ -1323,6 +1611,10 @@ když jí zůstane jako brus,
 nesmí ho dát žádnýmu kus,
 
 mně vinu dává.
+
+</section>
+
+<section>
 
 Že jsem jí dřiví
 
@@ -1334,6 +1626,10 @@ suků žádnejch nemá míti,
 
 z toho mne viní.
 
+</section>
+
+<section>
+
 Pořádek u vás
 
 ten není n nás:
@@ -1343,6 +1639,10 @@ jeden střevíc pod lavicí,
 druhej v řezací stolici –
 
 to není u vás!
+
+</section>
+
+<section>
 
 Co vám víc povím:
 
@@ -1376,6 +1676,10 @@ mily děvčata –ta –ta,
 
 mily děvčata!
 
+</section>
+
+<section>
+
 Ani tak na volkách,
 
 jako na ženě –ně –ně,
@@ -1390,6 +1694,10 @@ ale ženu ne, ne, ne,
 
 ale ženu ne.
 
+</section>
+
+<section>
+
 Voly můžu prodat
 
 za sto tolarů –rů –rů,
@@ -1403,6 +1711,10 @@ za tu žádnej nedá
 deset krejcarů –rů –rů,
 
 deset krejcarů.
+
+</section>
+
+<section>
 
 Zadělává buchty
 
@@ -1472,6 +1784,10 @@ ale od zlé ženy
 
 nemůže.
 
+</section>
+
+<section>
+
 Co pak jste, rodiče,
 
 myslili,
@@ -1487,6 +1803,10 @@ tisíce,
 ty mně zarmoutily
 
 mý srdce.
+
+</section>
+
+<section>
 
 Peníze jsem rozdal
 
@@ -1506,6 +1826,10 @@ bodejž jí vzal sobě
 
 Z Klatovska.
 
+</section>
+
+<section>
+
 (Nápěv 795.)
 
 Ženění, ženění!
@@ -1515,6 +1839,10 @@ horši než vězení:
 z vězení si pomůže,
 
 a od ženy nemůže.
+
+</section>
+
+<section>
 
 Má žena falešná
 
@@ -1564,6 +1892,10 @@ přivázala žena muže
 
 na řemene.
 
+</section>
+
+<section>
+
 „Zlatá ženo!
 
 pust mě s něho:
@@ -1573,6 +1905,10 @@ nebudu ti nadávati
 psí plemeno.“
 
 Z Klatovska.
+
+</section>
+
+<section>
 
 (Nápěv 778.)
 
@@ -1591,6 +1927,10 @@ pust mě s něho,
 nebudu ti nadávati
 
 slova zlého.“
+
+</section>
+
+<section>
 
 Co mě, ženo moje milá,
 
@@ -1640,6 +1980,10 @@ tu stojí n trouby,
 
 kouká do kamen.
 
+</section>
+
+<section>
+
 Ptám-li se: Ženuško!
 
 co jsi vařila?
@@ -1647,6 +1991,10 @@ co jsi vařila?
 „Co’s dal do kuchyně,
 
 to jsem strojila!“
+
+</section>
+
+<section>
 
 Řeknu-li: „Ženuško!
 
@@ -1674,6 +2022,10 @@ klobouk mám klepouchej:
 
 ženo, ženo, ženuško má!
 
+</section>
+
+<section>
+
 Ženo má,
 
 buď dobrá:
@@ -1700,6 +2052,10 @@ kerá žena muže bije,
 
 každá bude v ráji.
 
+</section>
+
+<section>
+
 Zakukala žežulička
 
 v šírém poli pěkné:
@@ -1708,6 +2064,10 @@ kerej muž svou ženu bije,
 
 hořet bude v pekle.
 
+</section>
+
+<section>
+
 Zakukala žežulička
 
 v háji na rozcestí:
@@ -1715,6 +2075,10 @@ v háji na rozcestí:
 kerej muž svou ženu bije,
 
 dá mu pán Bůh štěstí.
+
+</section>
+
+<section>
 
 Zakukala žežulička
 
@@ -1740,6 +2104,10 @@ v outerý kej na ni chystej,
 
 ve středu ním ji vytřískej.
 
+</section>
+
+<section>
+
 Ve čtvrtek bude stonali,
 
 v pátek bude umírali,
@@ -1747,6 +2115,10 @@ v pátek bude umírali,
 v sobotu bude umrlá,
 
 to bude novina dobrá.
+
+</section>
+
+<section>
 
 V neděli půjdem namlouvat,
 
@@ -1756,6 +2128,10 @@ v outerý, ve středu zváti,
 
 ve čtvrtek a nevěstou hráli.
 
+</section>
+
+<section>
+
 V pátek se svatba dokoná,
 
 v sobotu žena hotová;
@@ -1763,6 +2139,10 @@ v sobotu žena hotová;
 v neděli budu mít ženu,
 
 starosti všecky zaženu.
+
+</section>
+
+<section>
 
 Jak jsem chtěl, tak se mi stalo,
 
@@ -1824,6 +2204,10 @@ tomo jsem se nenadála!
 
 Z Budějovicka.
 
+</section>
+
+<section>
+
 (Nápěv 69.)
 
 Co jsem se nažala,
@@ -1858,6 +2242,10 @@ v noci mě bije,
 
 ani světa neznám!
 
+</section>
+
+<section>
+
 „Vyjdi do pole,
 
 natrhej sobě
@@ -1870,6 +2258,10 @@ hned umřít musí
 
 do dne devátýho.
 
+</section>
+
+<section>
+
 Vyjdi do pole,
 
 nařež cibule,
@@ -1881,6 +2273,10 @@ aby neřekli
 lidi klevetní,
 
 že ho ráda nemáš.“
+
+</section>
+
+<section>
 
 Cibuli měla,
 
@@ -1914,6 +2310,10 @@ Přeškoda mébo manžela,
 
 že jsem ho smutná ztratila!
 
+</section>
+
+<section>
+
 Nařezal řezanky,
 
 nasekal trávy,
@@ -1923,6 +2323,10 @@ slepice ohledal,
 podojil krávy.
 
 Přeškoda atd.
+
+</section>
+
+<section>
 
 Dvoreček mi zamet,
 
@@ -1934,6 +2338,10 @@ vyčistil chlívy.
 
 Přeškoda atd.
 
+</section>
+
+<section>
+
 Vody mi nanosil,
 
 uvařil jídla:
@@ -1943,6 +2351,10 @@ přec neužil se mnou
 dobrého bydla.
 
 Přeškoda atd.
+
+</section>
+
+<section>
 
 Nití mi nasoukal,
 
@@ -1954,6 +2366,10 @@ ty troupe hloupý!
 
 Přeškoda atd.
 
+</section>
+
+<section>
+
 Já měla kalhoty
 
 a on měl sukni;
@@ -1963,6 +2379,10 @@ proto mi nastali
 časové smutní!
 
 Přeškoda atd.
+
+</section>
+
+<section>
 
 Měla jsem manžela
 
@@ -1992,6 +2412,10 @@ kdo mně pomůže –
 
 abych se vdala!
 
+</section>
+
+<section>
+
 Ach maži, muži!
 
 já pláču pro tě,
@@ -1999,6 +2423,10 @@ já pláču pro tě,
 že’s měl hlavičku –
 
 tak jako kotě.
+
+</section>
+
+<section>
 
 Ty bily oči
 
@@ -2008,6 +2436,10 @@ koukaly na mě –
 
 tak jako tele!
 
+</section>
+
+<section>
+
 Ach nůsku, nůsku!
 
 raně je tě líto,
@@ -2016,6 +2448,10 @@ raně je tě líto,
 
 jako kopyto.
 
+</section>
+
+<section>
+
 A ty pystíčky
 
 líbezný cely:
@@ -2023,6 +2459,10 @@ líbezný cely:
 když se zasmály,
 
 tři coule měly.
+
+</section>
+
+<section>
 
 Ach muži, muži!
 

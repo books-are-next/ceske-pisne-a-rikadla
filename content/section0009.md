@@ -122,6 +122,10 @@ pět homoliček udělala,
 
 a ty ještě spíš?
 
+</section>
+
+<section>
+
 Z jara když přiletí z pouti své:
 
 Na zimu jsem odletěla,
@@ -168,6 +172,10 @@ Kokoko, kokoko kdák:
 
 kam mám to vajíčko dát?
 
+</section>
+
+<section>
+
 Kokoko, kokoko,
 
 kokoko kdák:
@@ -176,13 +184,25 @@ snesla jsem vajíčko,
 
 vzal je voják!
 
+</section>
+
+<section>
+
 Jednotky, desítky, sta, tisíce!
 
 Jednotky, desítky, sta, tisíce!
+
+</section>
+
+<section>
 
 Tototo‘s, tototo’s hospodář?
 
 tototototo’s hospodář?
+
+</section>
+
+<section>
 
 Kokoudák! kokoudák!
 
@@ -272,6 +292,10 @@ Kmotr.
 
 Všecky: Ňu-ňu! kun-kun! ou-ou! uň – uň! ´m – ´m!
 
+</section>
+
+<section>
+
 Kmotra!
 
 „Co?“
@@ -288,7 +312,15 @@ plakat.“
 
 Všecky: No! – no! – no!
 
+</section>
+
+<section>
+
 Kterak koktají.
+
+</section>
+
+<section>
 
 Strejčku!
 
@@ -302,7 +334,15 @@ Vo ka-ka-ka-kabát.
 
 Všecky: Vo ka-ka-ka-kabát!
 
+</section>
+
+<section>
+
 Kterak brčí.
+
+</section>
+
+<section>
 
 Kmotra!
 
@@ -325,6 +365,10 @@ Všecky: Ryby raky, ryby raky, ryby raky.
 Taky taky, taky taky.
 
 Všecky: Taky taky, taky taky, taky taky!
+
+</section>
+
+<section>
 
 Žáby zjara:
 

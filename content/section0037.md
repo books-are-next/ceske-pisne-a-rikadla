@@ -42,6 +42,10 @@ kterak já si poradit mám,
 
 bych mou panenku dostal k nám?
 
+</section>
+
+<section>
+
 Koupím si veslo slonové,
 
 stříbrem, zlatem okované,
@@ -66,6 +70,10 @@ do Čimelic do kostela:
 
 viděla bych, co bych chtěla.
 
+</section>
+
+<section>
+
 Viděla bych čerty oči,
 
 co se po nraě vždycky točí;
@@ -73,6 +81,10 @@ co se po nraě vždycky točí;
 točí, točí, točit budou –
 
 dá-li pán Báb, moje budou.
+
+</section>
+
+<section>
 
 Jak je to lítost veliká,
 
@@ -98,6 +110,10 @@ ztratil Jeniček dukátek,
 
 ztratil Jeníček dukát.
 
+</section>
+
+<section>
+
 Jdi ho, má milá, hledati,
 
 jdi ho, má milá, hledat:
@@ -108,6 +124,10 @@ dáme se za něj oddat.
 
 Z Klatovska.
 
+</section>
+
+<section>
+
 Na těch Lázeckejch lukách
 
 ztratil Tomášek dukát:
@@ -115,6 +135,10 @@ ztratil Tomášek dukát:
 „Jdi ho, má milá, hledat,
 
 dáme se spolu oddat.“
+
+</section>
+
+<section>
 
 Andulka dukát našla,
 
@@ -139,6 +163,10 @@ co paks tak maličká?
 jako by nebyla
 
 tři léta vlažička.
+
+</section>
+
+<section>
 
 Tři léta vlažička,
 
@@ -172,6 +200,10 @@ jen se na mě, můj holečku,
 
 nehněvej!
 
+</section>
+
+<section>
+
 Proto jsem si kanafasku
 
 koupila,
@@ -204,6 +236,10 @@ kdybys nebyl bezkej,
 
 nevzala bych si tě.
 
+</section>
+
+<section>
+
 Ale že jsi hezkej,
 
 proto si tě vemu,
@@ -211,6 +247,10 @@ proto si tě vemu,
 za ručičku si tě
 
 k oltáři povedu.
+
+</section>
+
+<section>
 
 Kdyby ty jsi neměl
 
@@ -286,6 +326,10 @@ potěšeni moje,
 
 hubičku dáti!
 
+</section>
+
+<section>
+
 Panímámo vstávejte, vstávejte,
 
 pantáta vás volá;
@@ -300,6 +344,10 @@ musím brzo vstávat
 
 ráno, raníčko.
 
+</section>
+
+<section>
+
 Můj Jeníček jede k nám, jede k nám,
 
 tamhle od háječku;
@@ -313,6 +361,10 @@ jenom pospěš hodně,
 potěšení moje,
 
 ráda tě vidím.
+
+</section>
+
+<section>
 
 Ráda tomu, ráda jsem, ráda jsem,
 

@@ -34,6 +34,10 @@ bába sedí v věrteli:
 
 poďte, hoši, melte ji!
 
+</section>
+
+<section>
+
 V tom černým lese
 
 čert bábu nese:
@@ -41,6 +45,10 @@ V tom černým lese
 vy kluci nezvední,
 
 modlete se!
+
+</section>
+
+<section>
 
 Špity špity, bábo,
 
@@ -50,6 +58,10 @@ aby dědek nevěděl,
 
 on by na mě pověděl.
 
+</section>
+
+<section>
+
 Špity špity, dědku,
 
 já jdu pro tu štětka,
@@ -57,6 +69,10 @@ já jdu pro tu štětka,
 aby bába nevěděla,
 
 ona by to pověděla.
+
+</section>
+
+<section>
 
 Byla jedna babka,
 
@@ -66,6 +82,10 @@ trnky, šípky, hlohyně
 
 prodávala hokyně.
 
+</section>
+
+<section>
+
 Bába leze do bezu,
 
 já tam za ní polezu;
@@ -73,6 +93,10 @@ já tam za ní polezu;
 kudy bába, tudy já,
 
 budeme tam obádvá.
+
+</section>
+
+<section>
 
 Hej, nik, nik, nik, nik, nik,
 
@@ -86,7 +110,15 @@ co s takovým Lucipárem,
 
 lepší kožich i s rukávem.
 
+</section>
+
+<section>
+
 Z Hradecka.
+
+</section>
+
+<section>
 
 Hej! nik, nik, nik, nik, nik!
 
@@ -112,7 +144,15 @@ a ze Slízska do Moravy,
 
 bodejž bábu čerti vzali!
 
+</section>
+
+<section>
+
 Z Bydžovska. – Tuto písničku zpívá nebo vlastně odříkává ien jeden, a ostatní všickni při každém řádku zároveň přizvukují:
+
+</section>
+
+<section>
 
 Hej! nik, nik, nik, nik, nik!
 
@@ -132,6 +172,10 @@ Mikuláška sukni,
 
 byli voba smutni.
 
+</section>
+
+<section>
+
 Michal, Michal!
 
 kozu popíchal,
@@ -139,6 +183,10 @@ kozu popíchal,
 ona bečela
 
 až do večera.
+
+</section>
+
+<section>
 
 Havel, Havel!
 
@@ -148,6 +196,10 @@ na bílým koni,
 
 vlk ho tam honí.
 
+</section>
+
+<section>
+
 Emane, Emane!
 
 schovej dudy, máma ´de.
@@ -156,6 +208,10 @@ Proč bych já je schovával,
 
 když jsem na ně dudával?
 
+</section>
+
+<section>
+
 Kučero, Kučero!
 
 co to u vás bručelo?
@@ -163,6 +219,10 @@ co to u vás bručelo?
 snad to kráva nebo bejk:
 
 ňákej ďas to musel bejt!
+
+</section>
+
+<section>
 
 ### Kdo německy se modlí.
 
@@ -180,6 +240,10 @@ na jednoho Čecha,
 
 že je štípla blecha.
 
+</section>
+
+<section>
+
 Otče náš, jenž jsi –
 
 prali se dvá Němci
@@ -187,6 +251,10 @@ prali se dvá Němci
 o jednoho Čecha,
 
 že ho štípla blecha.
+
+</section>
+
+<section>
 
 Němec brouk,
 
@@ -208,6 +276,10 @@ a když jich měl půl kopy,
 
 vařil si z nich patoky.
 
+</section>
+
+<section>
+
 Němec brouk
 
 hrnce tlouk,
@@ -228,9 +300,17 @@ dříve než se upekla.
 
 Tyto veršíky pocházejí z 1. 1741, když totiž Francouzové v Praze oblezení z hladu po-živati musili masa koňského, kočičího a p. Do téhož Času také původem svým náleží posměšný veršík:
 
+</section>
+
+<section>
+
 Vouy, vouy!
 
 bába škvaří lůj.
+
+</section>
+
+<section>
 
 Mon dieu, Písek!
 
@@ -285,6 +365,10 @@ Jak jste se vyspali?
 Co se vám zdálo?
 
 „Dávají ho málo.“
+
+</section>
+
+<section>
 
 Kam pak, kmotře, k Plesu?
 
@@ -344,6 +428,10 @@ ze sedlýho mlíka.
 
 Z Hradecka.
 
+</section>
+
+<section>
+
 Otče náš – táta náš
 
 posadil nás na lavici,
@@ -358,6 +446,10 @@ přišla máma s lopatou,
 
 vyhnala nás i s tátou.
 
+</section>
+
+<section>
+
 Bába sedí za kamny,
 
 vylizuje kuthany;
@@ -369,6 +461,10 @@ pes na ni vrčí,
 kohout na ni kokrhá,
 
 že jí kožich roztrhá.
+
+</section>
+
+<section>
 
 Amen, amen, amen –
 
@@ -386,6 +482,10 @@ a s pece za vrata,
 
 byl z něho pantáta.
 
+</section>
+
+<section>
+
 Praví svatej Job:
 
 „Čtyři jezte a pátej drob.“
@@ -401,6 +501,10 @@ Praví svatej Florian:
 Štika, ryba, žába, rak:
 
 když se najíš, nechej tak.
+
+</section>
+
+<section>
 
 Dělám, dělám kázaní:
 
@@ -448,9 +552,17 @@ Povídám, povídám pohádku,
 
 že pes přeskočil hromádku.
 
+</section>
+
+<section>
+
 Povídám, povídám druhou,
 
 že teče voda struhou.
+
+</section>
+
+<section>
 
 Povídám, povídám třetí,
 
@@ -534,6 +646,10 @@ Byla jednou jedna babka, a ta našila plný žejdlík řepového semena do jedno
 
 Šla a potkala jednero: „Jednero, pojď a pomoz mi vytrhnout řípku; až ji vytrhneme, hrnec ti ji dám.“
 
+</section>
+
+<section>
+
 Jednero šlo,
 
 chytilo se babky,
@@ -544,7 +660,15 @@ trhaly, trhaly,
 
 ale nic nemohly vytrhnout.
 
+</section>
+
+<section>
+
 I šla babka a potkala dvojimo: „Dvojimo, pojď a pomoz mi vytrhnout řípku; až ji vytrhneme, hrnec ti jí dám.“
+
+</section>
+
+<section>
 
 Dvojimo šlo,
 
@@ -558,7 +682,15 @@ trhaly, trhaly,
 
 ale nic nemohly vytrhnout.
 
+</section>
+
+<section>
+
 I šla babka a potkala trojimo: „Trojimo, pojď a pomoz mi vytrhnout řípku; až ji vytrhneme, hrnec ti ji dám.“
+
+</section>
+
+<section>
 
 Trojimo šlo,
 
@@ -572,13 +704,29 @@ babka řípky: trhaly, trhaly,
 
 ale nic nemohly vytrhnout.
 
+</section>
+
+<section>
+
 A tak to bylo pořád: babka šla, potkala čtvero – patero – šestero, sedmero, osmero – devatero –
+
+</section>
+
+<section>
 
 trhaly, trhaly,
 
 ale nic nemohly vytrhnout.
 
+</section>
+
+<section>
+
 Potom ještě šla a potkala desatero: „Desatero, pojď a pomoz mi vytrhnout řípku; až ji vytrhneme, hrnec ti jí dám.“
+
+</section>
+
+<section>
 
 Desatero šlo,
 
@@ -615,6 +763,10 @@ Z Klatovska.
 ### O kohoutkovi a o slepičce.
 
 Kohoutek a slepička vyšli si spolu do obory na oříšky. Kohoutek řekl: „Co kdo z nás najde, bude oběma na polovic.“ – „Tak dobře!\* odpověděla slepička; hrabala, hrabala a vyhrabala jadýrko, a upřímně se s kohoutkem o ně rozdělila. Potom vyhrabal kohoutek taky jádro, ale byl lakomý, chtěl je čerstvě sám pohltit, aby slepička nevěděla, a jádro mu uvázlo v krčku. „Běž honem, slepičko, přines vody, sic umru.“ Jak to řekl, převalil se na zemi, nožkama zhůru. Slepička běžela pro vodu ke studánce:
+
+</section>
+
+<section>
 
 „Studánko dej vody
 

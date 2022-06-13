@@ -24,6 +24,10 @@ dejte si je víti,
 
 my vám je uděláme.
 
+</section>
+
+<section>
+
 Koukněte, pane družbo, družbo!
 
 že prázdnou sklenici mám:
@@ -51,6 +55,10 @@ včera mně ji vočepily,
 dnes se s ní vyskáču.
 
 Z Klatovska.
+
+</section>
+
+<section>
 
 (Nápěv 37.)
 
@@ -85,6 +93,10 @@ svobodu proměnil;
 chvála pánu Bohu,
 
 už mám ženu.
+
+</section>
+
+<section>
 
 Chvála pánu Bohu!
 
@@ -128,6 +140,10 @@ dohromady
 
 Z Budějovicka.
 
+</section>
+
+<section>
+
 (Nápěv 486.)
 
 O naši veselce
@@ -147,6 +163,10 @@ všickni dohromady
 čtyry halíře!
 
 Z Chrudimska.
+
+</section>
+
+<section>
 
 Téhož dne, totiž ve čtvrtek, stínají také kohouta, kterýžto však obyčej již nyní po rídku se spatřuje. Družky vyvedou kohouta na pentlích uvázaného na náves neb na jiné místo prostranné, tam jeden mládenec, na spůsob popa vystrojený, má nad nim řeč, vytýkaje mu, co zlého natropil a co dobrého obmeškal, a že proto hoden jest smrti mečem. Kohout musí se zpovídati, dostane rozhřešení, a jiný mládenec, za kata převlečený, hlavu mu setne. Potom kohouta upekou a společně snědí.
 

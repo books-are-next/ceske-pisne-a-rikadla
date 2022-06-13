@@ -34,9 +34,17 @@ Pře-mý vlásky kadeřavy,
 
 bejvaly jste dycky pěkny.
 
+</section>
+
+<section>
+
 Dycky pěkně rozčesany.
 
 pentličkama vokrášleny.
+
+</section>
+
+<section>
 
 Ičko už jste rozpleteny,
 
@@ -90,6 +98,10 @@ stále až do mé smrti
 
 v té lásce setrval.
 
+</section>
+
+<section>
+
 Ej, již se s vámi žehnám,
 
 družičky mé milé!
@@ -105,6 +117,10 @@ zavily se vlasy,
 laskavě vám děkuji
 
 za tu službu vaši!
+
+</section>
+
+<section>
 
 Už kamarádky jiny
 
@@ -143,6 +159,10 @@ a se v něm těšila,
 do svý smrti nejdelší
 
 s hlavy ho nedala!
+
+</section>
+
+<section>
 
 Ach vy mily družičky!
 
@@ -218,6 +238,10 @@ nebo mu klobúk vemu!
 
 Z Domažlicka.
 
+</section>
+
+<section>
+
 Na to vezme družba nevěstu k tanci, ale musí bez klobouku býti, sic mu jej ženy vezmou a musí si jej vyplácet! Když s ni potancuje, odevzdá ji ženichovi. Obyčejně však jemu prvé místo nevěsty přivede starou babičku pod plenou a řekne: „Je to ta, nebo není?“ – Ženich odpoví: „Byla snad taky někdy pěknou růžičkou, ale už dávno odkvetla!“ – Tu se babička dává do křiku: „A vždyť jsem já ta tvá! což mne už neznáš? proč se nynčko za mě stydíš? Což nevíš, jak jsi mi sliboval, že si mě vemeš? A když jsi mi svět zkazil, musíš mi ho zas napravit: záplať!“-Ženich sáhne de kapsy a spokojí babičku desetníkem nebo dvacetníkem.
 
 Potom tancují dále, zpívajíce:
@@ -278,6 +302,10 @@ ale už nejsi,
 
 už jsi ženou.
 
+</section>
+
+<section>
+
 Včera’s měla
 
 ještě věnec:
@@ -289,6 +317,10 @@ ale už nemáš,
 už máš čepec.
 
 Z Berounska.
+
+</section>
+
+<section>
 
 (Nápěv 326.)
 
@@ -332,6 +364,10 @@ byla jsem panenkou,
 
 už nejsem.
 
+</section>
+
+<section>
+
 Kohouti zpívají
 
 za nivou:
@@ -362,6 +398,10 @@ vždyťuž nynčko nejsi
 
 žádnej mládenec.
 
+</section>
+
+<section>
+
 Hanka pannou byla,
 
 pentle nosila:
@@ -372,6 +412,10 @@ sundat musila.
 
 Z Klatovska.
 
+</section>
+
+<section>
+
 Sundej ty, můj chlapče!
 
 sundej ten věnec:
@@ -379,6 +423,10 @@ sundej ten věnec:
 jak už z tebe není
 
 žádnej mládenec.
+
+</section>
+
+<section>
 
 Když jsem pannu byla,
 

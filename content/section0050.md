@@ -26,6 +26,10 @@ starej se, Vavroušku,
 
 vo koně lysy.
 
+</section>
+
+<section>
+
 „Já jsem se postaral
 
 i vo celej vůz:
@@ -34,6 +38,10 @@ poď sedni, Hančičko,
 
 pojedeme už.“
 
+</section>
+
+<section>
+
 Já nechci, nesednu,
 
 koně se plaší:
@@ -41,6 +49,10 @@ koně se plaší:
 mohli by snad pro mě
 
 naříkat naši.
+
+</section>
+
+<section>
 
 Já nechci, nepudu,
 
@@ -52,6 +64,10 @@ má zlatá mámo!
 
 Z Domažlicka.
 
+</section>
+
+<section>
+
 Strakatý peřiny
 
 na tyči visí:
@@ -60,6 +76,10 @@ přistroj si, holečku,
 
 koníčky lysy.
 
+</section>
+
+<section>
+
 Čtyry koně vraný,
 
 vokovanej vůz:
@@ -67,6 +87,10 @@ vokovanej vůz:
 zapřahej, formánku,
 
 pojedeme už.
+
+</section>
+
+<section>
 
 Nechci, nepojedu,
 
@@ -92,6 +116,10 @@ pověz mně, Ančičko,
 
 kdo u vás bývá?
 
+</section>
+
+<section>
+
 „Bývá u nás, bývá
 
 jeden holeček:
@@ -115,6 +143,10 @@ vokovanej vůz:
 přistroj se, Hančičko,
 
 pojedeme už.
+
+</section>
+
+<section>
 
 „A já jsem už dávno
 
@@ -140,6 +172,10 @@ aby si trefila,
 
 kdy tě vyženú.
 
+</section>
+
+<section>
+
 Kdy tě budu honit,
 
 kdy tě budu bít:
@@ -150,6 +186,10 @@ kudy demů jít!
 
 Z Domažlicka.
 
+</section>
+
+<section>
+
 Dej pozor, Ančičko,
 
 kudy jsme jeli:
@@ -157,6 +197,10 @@ kudy jsme jeli:
 kdyby tě šidili,
 
 nebo tě bili.
+
+</section>
+
+<section>
 
 „A jeli jsme, jeli
 
@@ -201,6 +245,10 @@ malý pacholíčku!
 až já podám
 
 milému ručičku.
+
+</section>
+
+<section>
 
 „Když jsi chtěla
 
@@ -266,6 +314,10 @@ nepadni, koníčku,
 
 přes pařez.
 
+</section>
+
+<section>
+
 Až my pojedeme
 
 po hrázi,
@@ -273,6 +325,10 @@ po hrázi,
 koníček podkovy
 
 zuráží.
+
+</section>
+
+<section>
 
 Počkej, koníčku,
 
@@ -305,6 +361,10 @@ jen dvakrát,
 vyjede z těch Němčic
 
 jako pták.
+
+</section>
+
+<section>
 
 Náš forman má pěkný
 
@@ -340,6 +400,10 @@ má nejmilejší
 
 na voze kvílící.
 
+</section>
+
+<section>
+
 Hned se těšila,
 
 jak uslyšela
@@ -351,6 +415,10 @@ vraného koně hlas:
 můj nejmilejší!
 
 ať tě uvidím zas.
+
+</section>
+
+<section>
 
 Když jsem já pro tě,
 
@@ -364,6 +432,10 @@ u své matičky,
 
 bych se potěšila?“
 
+</section>
+
+<section>
+
 Mám já pro tebe
 
 u mé matičky
@@ -375,6 +447,10 @@ tam budem bejvat
 jako hrdličky,
 
 vždycky sobě milí.
+
+</section>
+
+<section>
 
 Já budu sekat,
 
@@ -388,6 +464,10 @@ sedneme spolu,
 
 budem se milovat.
 
+</section>
+
+<section>
+
 „Kdybych věděla,
 
 můj nejmilejší,
@@ -399,6 +479,10 @@ dělala bych ti
 vždycky k večeři
 
 koláček makovej.
+
+</section>
+
+<section>
 
 Kdybych věděla,
 
@@ -412,6 +496,10 @@ zlatou lodičku,
 
 plula bych za tebou.
 
+</section>
+
+<section>
+
 Kdybych věděla,
 
 můj nejmilejší,
@@ -423,6 +511,10 @@ koupila bych si
 koníčky lysy,
 
 jela bych, ty kde jsi.
+
+</section>
+
+<section>
 
 Kdybych věděla,
 
@@ -490,35 +582,67 @@ Toulali se mládenci
 
 po tom Starém Kamenci.
 
+</section>
+
+<section>
+
 Toulali se, toulali,
 
 až se k Čížkóm  dostali.
+
+</section>
+
+<section>
 
 Stará mete světnici:
 
 Sedněte si, mládenci!
 
+</section>
+
+<section>
+
 „My si u vás nesednem:
 
 my si pro Marjánku jdem.“
+
+</section>
+
+<section>
 
 A my vám jí nedáme,
 
 až jí šaty zjednáme. –
 
+</section>
+
+<section>
+
 Už má šaty sjednaný,
 
 modrý truhle srovnaný.
 
+</section>
+
+<section>
+
 Mládenci si vejskali,
 
 že Marjánku dostali.
+
+</section>
+
+<section>
 
 U Čížků si stejskají,
 
 že už dceru nemají.
 
 Z Chrudimska. – Srov. Suš. 429.
+
+</section>
+
+<section>
 
 Ti Lazští mládenci
 
@@ -530,25 +654,49 @@ klimboja linka plinka
 
 žína kosaři. 
 
+</section>
+
+<section>
+
 Toulali se, toulali,
 
 k Jersovům se dostali.
+
+</section>
+
+<section>
 
 Stará mete světnici:
 
 „Sednete si, mládenci!“
 
+</section>
+
+<section>
+
 My si u vás nesednem,
 
 až Ančičku povedem.
+
+</section>
+
+<section>
 
 Povedem ji pres cestu,
 
 k Rosínovům nevěstu.
 
+</section>
+
+<section>
+
 Rosínka před dům vyjde:
 
 „My nevěstu nechceme.
+
+</section>
+
+<section>
 
 Ona hrachu nejídá,
 
@@ -572,6 +720,10 @@ zdvihá k nebi oči,
 
 Andulku volá.
 
+</section>
+
+<section>
+
 „Anduličko má!
 
 jsi-li upřímná,
@@ -582,6 +734,10 @@ abys trochu vyšla
 
 sama jediná.“
 
+</section>
+
+<section>
+
 Vyjít nemohla,
 
 poslala posla:
@@ -591,6 +747,10 @@ poslala posla:
 vyřiď mu to dobře,
 
 jako já sama.“
+
+</section>
+
+<section>
 
 Posel v hrdlo lhal,
 
@@ -604,6 +764,10 @@ sama jediná!“
 
 Z Berounska.-Píseň tato zpívají na Moravě děvčata o sv. Duše chodíce s Králkou. – Srov. Suš. 765; Vójc. I, 51, 67, 287; II, 811; Ol. 409.
 
+</section>
+
+<section>
+
 1) Přiletěl je pták
 
 do těch našich vrat;
@@ -613,6 +777,10 @@ tam líbezně zpívá,
 k nebi oči zdvíhá:
 
 „Andulku bych rád!“
+
+</section>
+
+<section>
 
 (Nápěv 217.)
 
@@ -626,6 +794,10 @@ k mojí nejmilejši
 
 kolo udělej.
 
+</section>
+
+<section>
+
 Kolo udělej,
 
 ven ji vyvolej:
@@ -636,6 +808,10 @@ aby ke mně vyšla
 
 sama jediná.
 
+</section>
+
+<section>
+
 Ona nevyšla,
 
 poslala posla:
@@ -645,6 +821,10 @@ poslala posla:
 zprav mně to tak dobře
 
 jako já sama.“
+
+</section>
+
+<section>
 
 Posel zpravoval – 1)
 
@@ -658,6 +838,10 @@ sobě namlouval.
 
 Z Plzeňska.
 
+</section>
+
+<section>
+
 1) Posel zpravoval,
 
 sobě namlouval:
@@ -667,6 +851,10 @@ sám sebe mu chválil
 a děvečku hanil,
 
 že je lenivá.
+
+</section>
+
+<section>
 
 Jak uslyšela,
 
@@ -694,6 +882,10 @@ vohlídnu se jednu, dvakrát,
 
 po třetí už budu plakat.
 
+</section>
+
+<section>
+
 Má zlatá Spáňovská cesto,
 
 což je mně po tobě teskno:
@@ -701,6 +893,10 @@ což je mně po tobě teskno:
 ne tak po tě, má cestičko,
 
 ako po tě, má hubičko!
+
+</section>
+
+<section>
 
 Mý zlaty Spáňovsky hory,
 
@@ -758,6 +954,10 @@ to trníčko bíle květe:
 
 má panenko, votevřete!
 
+</section>
+
+<section>
+
 „Proč bych já ti votvirala,
 
 dyt já nejsem tvoje milá.“
@@ -766,6 +966,10 @@ Jest-li nejste, vy budete,
 
 jen vy mi přec votevřete!
 
+</section>
+
+<section>
+
 „Však jsem já dobře slyšela,
 
 co tvá máma povídala:
@@ -773,6 +977,10 @@ co tvá máma povídala:
 že mne za nevěstu nechce,
 
 že já nemám v truhle dvě stě.
+
+</section>
+
+<section>
 
 Kdybych já bohatá byla,
 
@@ -783,6 +991,10 @@ vzala bych si chlapce s dvorem,
 vožen ty se s pánem Bohem!“
 
 Z Klatovska.
+
+</section>
+
+<section>
 
 Jedou-li skrz jinou ves, bývá jim obyčejně cesta pentlí nebo provazem stužkami ozdobeným zatažena, a musejí se vypláceti, aby byli propuštěni. Kdo zatáhnul, musí na talíři přinesli sklenici s pivem a podati ženichovi a nevěstě na poctu. Za to položí ženich na talíř, podlé možnosti své, dvacetník, zlatník, anebo tolar jménem výplaty. Vozka také na cestě několikkrát zastaví, podávaje na vůz klobouk, aby.mu dali na řemínky, na kolomaz, anebo že kolo rozlámal, aby mu dali na jiné, a ženich musí jej spokojit!
 
@@ -811,6 +1023,10 @@ když voni mně syna
 brání, brání!
 
 Z Domažlicka.
+
+</section>
+
+<section>
 
 Což je v těch Chlumčanech
 

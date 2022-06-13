@@ -66,6 +66,10 @@ on křivánek neseje,
 
 přece zpívá vesele.
 
+</section>
+
+<section>
+
 Buď, sedláče, buď veselý:
 
 v komoře máš kádi zelí,
@@ -76,6 +80,10 @@ dej si zahrát nahoru!
 
 Z Klatovska.
 
+</section>
+
+<section>
+
 Vždycky sedlák je veselý,
 
 jen dokud má v kádi zelí,
@@ -83,6 +91,10 @@ jen dokud má v kádi zelí,
 v lochu taky erpetle,
 
 může sedět na pekle.
+
+</section>
+
+<section>
 
 Na šráku má bochník chleba
 
@@ -149,6 +161,10 @@ a na svým kožiše
 tuli– tuli– tuli –
 
 tu– tulipán.
+
+</section>
+
+<section>
 
 Koukej, koukej, koukej,
 
@@ -290,6 +306,10 @@ přijde na tě zima, mráz,
 
 jak živ budeš?
 
+</section>
+
+<section>
+
 „Nic nedbám,
 
 jen když mám
@@ -321,6 +341,10 @@ kdy je přijel mezí vraty:
 „Huja, ploši, huja huja huj,
 
 huja, ploši, huj!“
+
+</section>
+
+<section>
 
 Veze sedlák hnůj a hnůj a hnůj,
 
@@ -366,13 +390,25 @@ Prodal sedlák koně,
 
 plakal tejden pro ně.
 
+</section>
+
+<section>
+
 A pacholek voly,
 
 že jim nemá vody.
 
+</section>
+
+<section>
+
 A selka zas krávy,
 
 že jim nemá trávy.
+
+</section>
+
+<section>
 
 A děvečka kozy
 
@@ -432,6 +468,10 @@ to je mého syna
 
 Fabiána.
 
+</section>
+
+<section>
+
 Proč jsi jí, můj synu,
 
 nedovoral?
@@ -439,6 +479,10 @@ nedovoral?
 „Že se mně na poli
 
 pluh polámal.“
+
+</section>
+
+<section>
 
 Když se ti polámal,
 
@@ -448,6 +492,10 @@ kterak se mám tebe,
 
 synu, zbavit?
 
+</section>
+
+<section>
+
 „Proč pak mne, tatíčku,
 
 nerad máte,
@@ -455,6 +503,10 @@ nerad máte,
 že vy mne od sebe
 
 posíláte?
+
+</section>
+
+<section>
 
 Neposílejte mne,
 
@@ -512,6 +564,10 @@ zavolala na voráče,
 
 aby voral z hlyboka.
 
+</section>
+
+<section>
+
 Von vorá, co může
 
 v tom zeleným příloze;
@@ -544,6 +600,10 @@ hezky holky
 
 volávat.
 
+</section>
+
+<section>
+
 Až já budu
 
 nade dvorem,
@@ -575,6 +635,10 @@ vod plotu ke plotu:
 přišlo ke mně hezké děvče
 
 v strakatým fěrtochu.
+
+</section>
+
+<section>
 
 Ještě bych byl voral,
 
@@ -623,6 +687,10 @@ na tom panským poli:
 dal jsem si ji zvorat
 
 židovými voly.
+
+</section>
+
+<section>
 
 Zasil jsem ji, zasil
 
@@ -674,6 +742,10 @@ za tím plouhem
 
 tlapat musím.
 
+</section>
+
+<section>
+
 Nevyspím se,
 
 nenajím se:
@@ -684,6 +756,10 @@ za tím plouhem
 
 uchodím se.
 
+</section>
+
+<section>
+
 Vejdu-li kam
 
 do hospody,
@@ -693,6 +769,10 @@ sedlák stojí
 mezi dveřmi,
 
 hrozí holí.
+
+</section>
+
+<section>
 
 Pod, pacholče,
 
@@ -719,6 +799,10 @@ pošlapaly nám žito,
 pošlapaly nám jary,
 
 nebylo eště zraly.
+
+</section>
+
+<section>
 
 Čí to koníčky, čí to?
 
@@ -840,6 +924,10 @@ já mám koně, vraný koně,
 
 to jsou koně mý.
 
+</section>
+
+<section>
+
 Já mám koně, vraný koně,
 
 to jsou koně mý:
@@ -851,6 +939,10 @@ voni běži do skoku;
 já mám koně, vraný koně,
 
 to jsou koně mý.
+
+</section>
+
+<section>
 
 Já mám koně, vraný koně,
 
@@ -886,6 +978,10 @@ k mej milej rozmilej
 
 v krátkým čase.
 
+</section>
+
+<section>
+
 Já mám klisinku,
 
 vona má lysinku
@@ -918,6 +1014,10 @@ máš hezkou dcerušku,
 
 pudeme ti za ní.
 
+</section>
+
+<section>
+
 Máš, máš, máš, sedláčku!
 
 čtyry koně hřebce:
@@ -927,6 +1027,10 @@ máš hezkou dcerušku,
 máš hezkou dcerušku,
 
 žádnýho nás nechce.
+
+</section>
+
+<section>
 
 Máš, máš, máš, sedláčku!
 
@@ -960,6 +1064,10 @@ když jsem přišel do maštale,
 
 koně vraný řehtaly.
 
+</section>
+
+<section>
+
 Neřehtejte, koně vraný,
 
 já vám kousek sena dám;
@@ -984,6 +1092,10 @@ dřímo – dřímo – dřimotinka,
 
 koně vešly do žita.
 
+</section>
+
+<section>
+
 Přišel na mě šelma sedlák,
 
 toho žita hospodář:
@@ -991,6 +1103,10 @@ toho žita hospodář:
 „Co ty, šelmo! co tu děláš,
 
 že ty koně v žitě máš?“
+
+</section>
+
+<section>
 
 A já nejsem žádnej šelma,
 
@@ -1000,6 +1116,10 @@ kdyby mně to jinej řekl,
 
 tomu bych se postavil!
 
+</section>
+
+<section>
+
 Sedům let jsem u vás sloužil,
 
 a nic jsem vám neztratil:
@@ -1007,6 +1127,10 @@ a nic jsem vám neztratil:
 jen jedinkej zákolníček,
 
 a ten jsem vám zaplatil.
+
+</section>
+
+<section>
 
 Sedům let jsem u vás sloužil,
 
@@ -1016,6 +1140,10 @@ jen jedinkou homoličku,
 
 a pro tu jsem s půdy spad.
 
+</section>
+
+<section>
+
 Sedům let jsem u vás sloužil,
 
 a nic jste mně nedali:
@@ -1024,6 +1152,10 @@ jen jedinkou košiliěku, ‚)
 
 a tu jste mně zas vzali.
 
+</section>
+
+<section>
+
 Já jsem synek zachovalej,
 
 žádnej na mě nic neví:
@@ -1031,6 +1163,10 @@ Já jsem synek zachovalej,
 jenom vaše Bětulinka,
 
 a ta na mě nepoví.
+
+</section>
+
+<section>
 
 Kdyby chtěla povědíti,
 
@@ -1154,6 +1290,10 @@ mají pořádný pacholky,
 
 dobře dbají o ně.
 
+</section>
+
+<section>
+
 A ty pansky krávy
 
 mají málo trávy,
@@ -1179,6 +1319,10 @@ jen samou trávu
 ze suchopáru –
 
 kde se ji smutná naberu?
+
+</section>
+
+<section>
 
 Pudu já na ni do peren,
 
@@ -1222,6 +1366,10 @@ upad mně na cestě
 
 valach, valach.
 
+</section>
+
+<section>
+
 Kdybych mu byl dával
 
 voves, voves,
@@ -1252,6 +1400,10 @@ zimou se třásali,
 
 ti valaši Filípkovi.
 
+</section>
+
+<section>
+
 Ten nebožák starej valach
 
 složil už svy kosti tam na drahách:
@@ -1262,6 +1414,10 @@ když je byl bílej den –
 
 bylo zrovna na štědrej den!“
 
+</section>
+
+<section>
+
 Pan Fitipek z domu běží:
 
 „Bodejž hr.. do toho - starej leží!
@@ -1271,6 +1427,10 @@ však jsem ho vyhnal ven
 zrovna na štědrej den,
 
 von jen přeci mrcha leží!“
+
+</section>
+
+<section>
 
 Pane kmotře! vzkazuje vás
 
@@ -1283,6 +1443,10 @@ káru, rumpál vzali,
 valáška mu pochovali.
 
 Z Budějovicka.
+
+</section>
+
+<section>
 
 Ti valaši ze vsi naší,
 
@@ -1306,21 +1470,41 @@ Jel sedlák vorati,
 
 zapomněl voprati.
 
+</section>
+
+<section>
+
 Jdi, má milá, pro ni,
 
 však dobře víš vo ní.
+
+</section>
+
+<section>
 
 V maštali je v koutě,
 
 visí na chomoutě.
 
+</section>
+
+<section>
+
 „Já pro ni nepudu,
 
 vím, že tvá nebudu.“
 
+</section>
+
+<section>
+
 Jdi, má milá, přece,
 
 mám koníčky v řece. 
+
+</section>
+
+<section>
 
 Až já jich napojím,
 
@@ -1344,6 +1528,10 @@ vezmi s sebou voprať,
 
 potom jeď do mlejna.
 
+</section>
+
+<section>
+
 Sedlák pořád jede,
 
 zpívá si vesele:
@@ -1351,6 +1539,10 @@ zpívá si vesele:
 sotva se naděje, splaší se mu koně,
 
 tu se mu zle děje.
+
+</section>
+
+<section>
 
 Sedlák křičí: „Ouha!
 
@@ -1362,6 +1554,10 @@ chce chytit kobylu,
 
 vona ho ´hodila.
 
+</section>
+
+<section>
+
 Sedlák v strouze leží,
 
 koně pořád běží:
@@ -1371,6 +1567,10 @@ koně pořád běží:
 že jsem voprat nevzal!“
 
 smutně se vohlíží.
+
+</section>
+
+<section>
 
 Dobře, chlape, na tě,
 
@@ -1399,6 +1599,10 @@ rozřezej klobouk,
 udělej chomout,
 
 potom ti potáhne.
+
+</section>
+
+<section>
 
 Formane, formánku!
 
@@ -1444,6 +1648,10 @@ koně vranaly,
 
 podkovy zlaty.
 
+</section>
+
+<section>
+
 Já jsem kočí z Vídně,
 
 mám koníčky šimle,
@@ -1467,6 +1675,10 @@ já mám koně šimle,
 mám koníčky šimlovaty,
 
 dám si na ně kšíry zlaty.
+
+</section>
+
+<section>
 
 Až pojedu vorat,
 
@@ -1512,6 +1724,10 @@ dá se hned do pacholka,
 
 že je velká řezanka.
 
+</section>
+
+<section>
+
 „Řezanka jako palec:
 
 pacholče, ty’s nedbalec!“
@@ -1523,6 +1739,10 @@ kloboučkem zatočí:
 Řezanka jako kroupy,
 
 sedláče, ty jsi hloupý!
+
+</section>
+
+<section>
 
 Sedláče, vždyť nejsi pán:
 
@@ -1555,6 +1775,10 @@ já půjdu za holkou;
 řezej si drobouninkou,
 
 já půjdu za hubinkou.
+
+</section>
+
+<section>
 
 Má zlatá Andulinko!
 
@@ -1620,6 +1844,10 @@ jako jablíčko
 
 pěkný červeny.
 
+</section>
+
+<section>
+
 Nynčko jsem výrost,
 
 jsem velký dosti:
@@ -1660,6 +1888,10 @@ kdo tam pude sloužit,
 
 ten se nenají.
 
+</section>
+
+<section>
+
 Na poledne málo,
 
 a k večeři nic:
@@ -1683,6 +1915,10 @@ povrzávat,
 nechce se z postele
 
 ráno vstávat.
+
+</section>
+
+<section>
 
 Zavrzá ponejprv,
 
@@ -1716,6 +1952,10 @@ zpívali, vejskali,
 
 já taky běžel.
 
+</section>
+
+<section>
+
 Kopejte, vorejte,
 
 já už nemůžu:
@@ -1726,6 +1966,10 @@ já vám pomůžu.
 
 Z Hradecka - Srov. Suš. 677; Kol. I, 287; D. Luž. 103.
 
+</section>
+
+<section>
+
  (Nápěv 374.)
 
 Naši už mlátili,
@@ -1735,6 +1979,10 @@ já eště ležel;
 voni šli k snídaní,
 
 já taky běžel.
+
+</section>
+
+<section>
 
 „Proč běžíš k snídaní,
 
@@ -1786,6 +2034,10 @@ vočí k nebi zdvíhá,
 
 vysoko-li je slunce.
 
+</section>
+
+<section>
+
 Když bylo po polednách,
 
 vzal kosu na ramena:
@@ -1798,6 +2050,10 @@ vyplísnil svou ženu,
 
 Z Budějovicka.
 
+</section>
+
+<section>
+
 (Nápěv 585.)
 
 Sedlák na louce seče,
@@ -1809,6 +2065,10 @@ von se smutně dívá,
 voči k nebi zdvíhá,
 
 vysoko-li je slunce.
+
+</section>
+
+<section>
 
 Slunce jde na poledne:
 
@@ -1861,6 +2121,10 @@ nechci já se doma mučit:
 travička zelená,
 
 ta je moje peřina.
+
+</section>
+
+<section>
 
 Travička zelená,
 
@@ -1934,6 +2198,10 @@ kam na tu travičku
 
 chodíte?
 
+</section>
+
+<section>
+
 „Chodíme my na ni
 
 do březí:
@@ -1960,6 +2228,10 @@ a nepovíme,
 
 kam na travičku chodíme.
 
+</section>
+
+<section>
+
 Chodíme na ni do peren,
 
 roste tam travička s jetelem:
@@ -1970,6 +2242,10 @@ a nepovíme,
 
 kam na travičku chodíme.“
 
+</section>
+
+<section>
+
 „Zdali nám, mládenci, povíte,
 
 kde svy koníčky brodíte?“
@@ -1979,6 +2255,10 @@ My dobře víme,
 a nepovíme,
 
 kde svy koníčky brodíme.
+
+</section>
+
+<section>
 
 Brodíme my je v Dunaji,
 
@@ -2015,6 +2295,10 @@ hleďte, hleďte,
 to nedělejte!
 
 Z Budějovicka
+
+</section>
+
+<section>
 
 Hezky, hezky
 
@@ -2104,6 +2388,10 @@ našla knoflík pod lavicí,
 
 těšila se s ním.
 
+</section>
+
+<section>
+
 Selka když to uhlídala:
 
 „Hej, děvečko, hej!
@@ -2163,6 +2451,10 @@ ráno si ji podojíme,
 večír mlíko sníme.
 
 Z Plzeňska.
+
+</section>
+
+<section>
 
 (Nápěv 695.)
 
@@ -2328,6 +2620,10 @@ naši šočovičku
 
 vypásli.
 
+</section>
+
+<section>
+
 „Sám ty lžeš
 
 jako pes:
@@ -2387,6 +2683,10 @@ hej, tam pod hájem
 sešli jsme se.
 
 Z Prachenska.
+
+</section>
+
+<section>
 
 (Nápěv 505.)
 
@@ -2490,6 +2790,10 @@ jeden sobě, druhej tobě,
 
 třetí zavěsila.
 
+</section>
+
+<section>
+
 Zavěsila je ho
 
 na zelenou chvojku:
@@ -2498,6 +2802,10 @@ nedávejte mne, matičko,
 
 chudýmu pacholku!
 
+</section>
+
+<section>
+
 „Chudýmu tě nedám,
 
 bohatej tě nechce.“
@@ -2505,6 +2813,10 @@ bohatej tě nechce.“
 Já bych ráda takovýho,
 
 kerej pásá ovce.
+
+</section>
+
+<section>
 
 Kerej ovce pásá,
 
@@ -2555,6 +2867,10 @@ von si na ni troubívá;
 u rychtářů maj‘ Andulku,
 
 von tam za ní chodívá.
+
+</section>
+
+<section>
 
 „Pojd, Andulko, pojď se mnou,
 
@@ -2636,6 +2952,10 @@ budou sázet děvčata 1)
 
 voňavou marjánku.
 
+</section>
+
+<section>
+
 Jedna bude vokopávat,
 
 druhá bude sázet:
@@ -2650,6 +2970,10 @@ Z Prachenska.
 
 rozsívat marjánku.
 
+</section>
+
+<section>
+
 (Nápěv 156.)
 
 Zejtra bude robota
@@ -2660,6 +2984,10 @@ pan derektor poroučel
 
 rozsívat marjánku.
 
+</section>
+
+<section>
+
 Holky budou rozsívat,
 
 chlapci budou sázet:
@@ -2667,6 +2995,10 @@ chlapci budou sázet:
 půjdeme se podívat,
 
 jak jim bude vzcházet.
+
+</section>
+
+<section>
 
 Jenom jedna nevzešla,
 
@@ -2752,6 +3084,10 @@ křemene:
 
 bodejž pány čert veme!
 
+</section>
+
+<section>
+
 Ten purkrabí panikář,
 
 sám nejvétší pletichář.
@@ -2761,6 +3097,10 @@ bije nás
 jako ras:
 
 zasloužil by sám provaz!
+
+</section>
+
+<section>
 
 A ten šelma nešťastný,
 
@@ -2772,6 +3112,10 @@ stíhá nás:
 
 zasloužil by sám provaz!
 
+</section>
+
+<section>
+
 Šafář, taškář vybraný,
 
 od biřice vypraný,
@@ -2781,6 +3125,10 @@ sám co vzal
 a prodal,
 
 nám sedlákům vinu dal!
+
+</section>
+
+<section>
 
 Pane Bože veliký!
 
@@ -2870,6 +3218,10 @@ vo půl zlatýho,
 
 něco novýho.
 
+</section>
+
+<section>
+
 Vo půl zlatýho,
 
 vo celej zlatej:
@@ -2899,6 +3251,10 @@ má hrnec smetany;
 dejte jí do komory.
 
 Z Kouřimska.
+
+</section>
+
+<section>
 
 (Nápěv 586.)
 
@@ -2984,33 +3340,65 @@ Proč pláčeš, má milá,
 
 Andulko rozmilá? –
 
+</section>
+
+<section>
+
 Jak nemám plakati,
 
 sobě naříkati?
+
+</section>
+
+<section>
 
 Mám do služby jíti,
 
 ve dvoře sloužili.
 
+</section>
+
+<section>
+
 Ve dvoře služba zlá,
 
 šafářka nedobrá.
+
+</section>
+
+<section>
 
 Hrách nedovařený,
 
 nemastný, neslaný.
 
+</section>
+
+<section>
+
 Kaše z mouky studily –
 
 což mé srdce truchlí!
+
+</section>
+
+<section>
 
 Maso nikdá není,
 
 krom o posvícení!
 
+</section>
+
+<section>
+
 Polívka z česneku,
 
 práce bez oddechu.
+
+</section>
+
+<section>
 
 Šafář chodí s holí,
 

@@ -16,6 +16,10 @@ panna Maria v nohách,
 
 andělíčkové boží po všech všudy stranách!
 
+</section>
+
+<section>
+
 **Večerní modlitba dětská.**
 
 Andělíčku,
@@ -39,6 +43,10 @@ hajej, dadej, dadej malej!
 zamhouří maličký
 
 očičky svy.
+
+</section>
+
+<section>
 
 Hajej, můj andílku,
 
@@ -68,6 +76,10 @@ andělíčky kolíbati:
 
 spi, andílku, spi!
 
+</section>
+
+<section>
+
 Spi, andílku, spi,
 
 zamhuř očka svy:
@@ -77,6 +89,10 @@ až se zbudíš za chvílčičku,
 dá ti mamička kasičku,
 
 spi, miláčku, spi!
+
+</section>
+
+<section>
 
 Spi, miláčku, spi,
 
@@ -100,6 +116,10 @@ s pánem Ježíšem,
 
 s andělíčkama.
 
+</section>
+
+<section>
+
 Ještě bych za to
 
 modlitbu dala,
@@ -122,6 +142,10 @@ modlitbičky vyzpívali –
 
 a ty ještě spíš.
 
+</section>
+
+<section>
+
 Děťátko maly,
 
 jak jsi ospaly!
@@ -136,6 +160,10 @@ a ty ještě spíš.
 
 Když dítko malé na peřince ležíc se protahuje, matka, aby se zasmálo, takto s ním zahrává: dělá jemu po tělíčku dvěma prsty, jako když myška běží, drobné krůčky, od nožičky přes kolínko po bříšku až pod  adičku anebo pod paždíčko, při tom říkajíc:
 
+</section>
+
+<section>
+
 Běží myška po polici,
 
 nese s sebou homolici.
@@ -145,6 +173,10 @@ Myško malá, maličká!
 uteč, číhá kočička –
 
 ú-tíkej, utíkej!
+
+</section>
+
+<section>
 
 Běží myška k Táboru,
 
@@ -156,11 +188,19 @@ a ty velká běž
 
 na Táborskou věž!
 
+</section>
+
+<section>
+
 Běhala myška
 
 okolo bříška:
 
 šup do pupíčka!
+
+</section>
+
+<section>
 
 Běžela myška po stěně:
 
@@ -230,6 +270,10 @@ Z Klatovska.
 
 Matka neb chůva učíc dítě třepatí nebo placatí ručkama, takto při tom říká:
 
+</section>
+
+<section>
+
 Paci, paci, pacičky!
 
 táta koupil střevíčky,
@@ -244,6 +288,10 @@ a maminka metličku
 
 na plačtivou Ančičku.
 
+</section>
+
+<section>
+
 Třepám, třepám ručičky!
 
 táta koupil botičky,
@@ -251,6 +299,10 @@ táta koupil botičky,
 aby nožičky běhaly
 
 a ručičky třepaly.
+
+</section>
+
+<section>
 
 Čundy, čundy, čundičky!
 
@@ -260,6 +312,10 @@ aby ručičky dělaly
 
 a nožičky běhaly.
 
+</section>
+
+<section>
+
 Paci, paci roučky!
 
 půjdem na zaloučky,
@@ -267,6 +323,10 @@ půjdem na zaloučky,
 skrze Čechy do Němec
 
 Majdalence pro věnec.
+
+</section>
+
+<section>
 
 Třepy, třepy ručičky,¨
 
@@ -302,6 +362,10 @@ Na krchově pochována.
 
 Chůva vezme dítě za ručičku a jezdíc mu po dlani do kolečka prstem, jako když na rendiíčku kaši míchá, při tom říká:
 
+</section>
+
+<section>
+
 Vaří myška kasičku
 
 na zeleným rendlíčku;
@@ -317,6 +381,10 @@ až je prázdnej rendlíček.
 ### Myška a pět prstů.
 
 S počátku se dítěti prstem po dlani do kolečka jezdí; potom se vezme jeden prstíček po druhém, od palečka počnouc, jako by je počítal, a malíčkem zlehoučka se zatřepá; konečně se běží rychle dvěma prsty po ručce až pod paždíčko:
+
+</section>
+
+<section>
 
 Běžela myška okolo mlejna,
 
@@ -366,6 +434,10 @@ ten odpoví: matla-matla–
 
 matlafousek! »
 
+</section>
+
+<section>
+
 Vařím, vařím kasičku
 
 na tom malým rendlíčku:
@@ -386,6 +458,10 @@ dej kousek!
 
 Když dítě neškodně upadne nebo se uhodí a proto do pláče se dá, zpívají mu, aby se zasmálo a plakati přestalo, takto:
 
+</section>
+
+<section>
+
 Kota lysá –
 
 hrachu mísa:
@@ -400,6 +476,10 @@ nebude hošičkovi
 
 zase nic.
 
+</section>
+
+<section>
+
 Kota lysá!
 
 kdes běhala?
@@ -413,6 +493,10 @@ Co’s tam dostala?
 Kdyby to dětátko sedělo, toho by nemělo! »
 
 Leze myšička po stěně – ať se Karlíček zasměje!
+
+</section>
+
+<section>
 
 Houpat! dítě.
 
@@ -432,6 +516,10 @@ byly všecky hloupý!
 
 Vezme se dítěti nožička do ruky a pěstí se na patičku zlehka potlouká, přitom říkajíc:
 
+</section>
+
+<section>
+
 Kovej, kovej, kováříčku!
 
 okovej mně mou nožičku:
@@ -439,6 +527,10 @@ okovej mně mou nožičku:
 až mi ji okováš,
 
 dám ti od ní groš.
+
+</section>
+
+<section>
 
 Kovej, kovej, kováříčku!
 
@@ -464,6 +556,10 @@ dám ti míra pšenice.
 
 Posadí chlapečka na koleno jako na koně a kolenem potřásajíce říkají:
 
+</section>
+
+<section>
+
 Tak hle jedou mladí páni,
 
 tak hle jedou staří páni,
@@ -475,6 +571,10 @@ husa– husa– husaři.
 ### Jablíčka.
 
 Když malé děvčátko dostane jablíčko, zpívá mu matka nebo chůva takto:
+
+</section>
+
+<section>
 
 Já jsem malá, maličká,
 
@@ -488,6 +588,10 @@ a mamička oloupí.
 
 Když dítě některé svévolně pláče, směji se mu jiné děti, točíce rukou jako při kolovrátku a říkajíce:
 
+</section>
+
+<section>
+
 Vrní, vrní kolovrátek:
 
 zejtra bude velkej svátek,
@@ -499,6 +603,10 @@ naší Kačce  metla svědčí!
 ### Bubák.
 
 Dítě plačtivé, aby umlklo, strašívají Bubákem anebo Rohatým (Corniferem), takto:
+
+</section>
+
+<section>
 
 Sedí bubák pod komínem
 
@@ -530,6 +638,10 @@ a bylo bys ubohý.
 
 Ditě vidouc, že druhé dítě něco jí, ku př. chléb, housku a j., loudí na něm kouseček takto: natáhne levou ruku, zpřímí na ní první prst a z ostatních udělá špetku. Potom prvním prstem ruky pravé skáče střídavě na prst, na špetku, do dlaně, na špetku, na prst a t. d., přitom říkajíc:
 
+</section>
+
+<section>
+
 Hraju, hraju na varhany,
 
 všecky prsty polámaný,
@@ -537,6 +649,10 @@ všecky prsty polámaný,
 jeden mi jen dostal,
 
 abych něco dostal.
+
+</section>
+
+<section>
 
 Přišla ke mně jeptiška
 
@@ -546,6 +662,10 @@ položila kámen –
 
 až na věky amen.
 
+</section>
+
+<section>
+
 Prosím, prosím že otú –
 
 strčím bábu do plotu,
@@ -554,6 +674,10 @@ a dědečka do hrnečka,
 
 bude do á polivečka.
 
+</section>
+
+<section>
+
 Prosím, prosím že otú:
 
 strčím bábu do plotu,
@@ -561,6 +685,10 @@ strčím bábu do plotu,
 pacholíčka do rybníčka
 
 a dívčičku do potůčku.
+
+</section>
+
+<section>
 
 Kdo mně dá,
 
@@ -575,6 +703,10 @@ do pekla.
 ### První zoubky.
 
 Když se dítěti vylomí zoubek, tak nazvaný cucáček, vezme jej a hodí si po zpátku přes hlavu na pec, při tom řkouc:
+
+</section>
+
+<section>
 
 „Tu máš, Bábo , kostěnej,
 
@@ -630,11 +762,19 @@ Co bude k večeři?
 
 „Vošalka po peří.“
 
+</section>
+
+<section>
+
 Jaky budu mít šaty?
 
 „Nechatový barvy,
 
 větrem podšívany.“
+
+</section>
+
+<section>
 
 Cos dostal?
 
@@ -680,9 +820,17 @@ Mně se zdálo –
 
 a v hlavě nic.“
 
+</section>
+
+<section>
+
 Co se zdá, to je sen;
 
 Když se vyspí, tak je den.
+
+</section>
+
+<section>
 
 Dobrou noc!
 
@@ -694,19 +842,51 @@ pytel blech na pomoc!
 
 Pět ptačátek, pět pěnkavek ptačátek.
 
+</section>
+
+<section>
+
 Petře, nepřepepři pepřem pepřeného vepře.
+
+</section>
+
+<section>
 
 Naše okenice mezi všemi okenicemi nejokenicovatější.
 
+</section>
+
+<section>
+
 Přeletěla křepelička přes třiatřicet střech.
+
+</section>
+
+<section>
 
 Zaželezilo-li se železo či nezaželezilo-li se?
 
+</section>
+
+<section>
+
 Šla Prokopka pro Prokopa: Pojď Prokope jist trochu ukropa.
+
+</section>
+
+<section>
 
 Rozprostovlasatila-li se dcera krále Nabuchodonosora čili nerozprostovlasatila.
 
+</section>
+
+<section>
+
 Mezi domama má má máma malou zahrádku.
+
+</section>
+
+<section>
 
 Třikrát po sobě říci bez oddechnutí:
 

@@ -36,6 +36,10 @@ o jeden obrázek
 
 prosit budu.
 
+</section>
+
+<section>
+
 Ten zdejší pan farář:
 
 milostivej,
@@ -51,6 +55,10 @@ kam já ho dám,
 když pro něj místečka
 
 nikde nemám!
+
+</section>
+
+<section>
 
 Dám-li ho za rámek, 2)
 
@@ -109,6 +117,10 @@ pane páter!
 že jste vy mně dali,
 
 co jsem já chtěl.
+
+</section>
+
+<section>
 
 Dali jste mně ženu
 

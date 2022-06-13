@@ -48,6 +48,10 @@ krásné peříčko
 
 zrousala?
 
+</section>
+
+<section>
+
 „Lítala jsem já
 
 přes hory,
@@ -57,6 +61,10 @@ svému milému,
 roztomilému
 
 na vzdory.“
+
+</section>
+
+<section>
 
 Budeš-li ještě
 
@@ -68,6 +76,10 @@ má holubičko,
 
 líkati.
 
+</section>
+
+<section>
+
 Políknu na tě
 
 ječný klas:
@@ -77,6 +89,10 @@ dostanu já tě,
 má holubičko,
 
 brzo zas.
+
+</section>
+
+<section>
 
 Políknu na tě
 
@@ -88,6 +104,10 @@ má holubičko,
 
 brzičko.
 
+</section>
+
+<section>
+
 Políknu na tě
 
 do kvítí,
@@ -97,6 +117,10 @@ dostanu já tě,
 má holubičko,
 
 do sítí.
+
+</section>
+
+<section>
 
 Políknu na tě
 
@@ -108,6 +132,10 @@ má holnbičko,
 
 za ruku.
 
+</section>
+
+<section>
+
 Dostanu já tě,
 
 za ruku:
@@ -118,6 +146,10 @@ má holubičko,
 
 do roku.
 
+</section>
+
+<section>
+
 Dostanu já tě
 
 za obě:
@@ -127,6 +159,10 @@ nepustím já tě
 má holubičko,
 
 až v hrobě.
+
+</section>
+
+<section>
 
 Z Hradecka. – Srov. Suš. 250; Čel. I, 79; Kol. II, 131. - Píseň tato, jakoš jest oblíbena v celých Čechách, zpívá se také, a zvláště ku kouci s rozličnými proměnami, kteréž ovšem všecky k cíli jednomu směřují; tak na př.:
 
@@ -146,6 +182,10 @@ tam se prochází,
 
 můj holeček.
 
+</section>
+
+<section>
+
 Na hlavě má
 
 černý klobouk:
@@ -155,6 +195,10 @@ nemůže na tě,
 mé dítě zlaté,
 
 zapomenout!
+
+</section>
+
+<section>
 
 Pod kloboučkem
 
@@ -166,6 +210,10 @@ mé dítě zlaté,
 
 pustit z lásky.
 
+</section>
+
+<section>
+
 Pod vláskama
 
 bílé čelo:
@@ -175,6 +223,10 @@ kterak by se mně
 mé zlaté dítě
 
 nelíbilo?
+
+</section>
+
+<section>
 
 Pod čelíčkem
 
@@ -186,6 +238,10 @@ mé zlaté dítě
 
 vždycky točí.
 
+</section>
+
+<section>
+
 Točí, točí,
 
 točit bude,
@@ -195,6 +251,10 @@ pokud k oltáři
 před božskou tváří
 
 neklekneme.
+
+</section>
+
+<section>
 
 A když kleknem
 
@@ -206,6 +266,10 @@ oba spolu:
 
 půjdem domů.
 
+</section>
+
+<section>
+
 Domů prijdem,1)
 
 k stolu sednem,
@@ -215,6 +279,10 @@ a panímámě
 za její dceru
 
 poděkujem.
+
+</section>
+
+<section>
 
 „Děkuju vám,
 
@@ -238,6 +306,10 @@ naší paňmámy
 
 za tu dceru.
 
+</section>
+
+<section>
+
 (Nápěv 409)
 
 U Kláštera
@@ -250,6 +322,10 @@ má černé oči,
 
 můj holeček.
 
+</section>
+
+<section>
+
 Na hlavě má
 
 bílej klobouk:
@@ -259,6 +335,10 @@ nemůžu na té,
 můj zlatej chlapče,
 
 zapomenout.
+
+</section>
+
+<section>
 
 Pod kloboučkem
 
@@ -270,6 +350,10 @@ můj zlatej chlapče,
 
 naši lásky!
 
+</section>
+
+<section>
+
 Pod vláskami
 
 má obůčí:
@@ -279,6 +363,10 @@ vem si mě pěkně,
 můj zlatej chlapče,
 
 do náruči.
+
+</section>
+
+<section>
 
 Pod obůčim
 
@@ -307,6 +395,10 @@ půjdem spolu na procházku,
 na kancalář pro ohlášku;
 
 jeteli, ach jeteli!
+
+</section>
+
+<section>
 
 Jetelíčku, jeteli!
 
@@ -340,6 +432,10 @@ tu máte, píte
 
 moje zdraví!
 
+</section>
+
+<section>
+
 „Proč pak bych já vaše
 
 zdraví pila?
@@ -354,6 +450,10 @@ vy mě šidíte!“ –
 
 mně pravila.
 
+</section>
+
+<section>
+
 Budeme se soudit
 
 u rychtáře,
@@ -367,6 +467,10 @@ on veme štolu,
 sváže nás spolu
 
 u oltáře.
+
+</section>
+
+<section>
 
 Budeme se spolu
 
@@ -398,6 +502,10 @@ dovedu,
 
 pojedu.
 
+</section>
+
+<section>
+
 Pěknejma koníčky
 
 vranejma,
@@ -405,6 +513,10 @@ vranejma,
 kterejma jsem jezdil
 
 do mlejna.
+
+</section>
+
+<section>
 
 Do mlejna, ze mlejna
 
@@ -436,6 +548,10 @@ až na dvě míle
 
 chodníčky.
 
+</section>
+
+<section>
+
 Žni, můj srpečku,
 
 k posledou,
@@ -466,6 +582,10 @@ Pavlišovům do dvora,
 
 do dvora.
 
+</section>
+
+<section>
+
 Kdo to vodu zastaví,
 
 zastaví,
@@ -473,6 +593,10 @@ zastaví,
 Mařenku si namluví,
 
 namluví.
+
+</section>
+
+<section>
 
 Já tu vodu zastavím,
 
@@ -522,6 +646,10 @@ co mi tu košilku dala?
 
 Z Domažlicka.
 
+</section>
+
+<section>
+
 Po třetí, po čtvrté písni vyjde hospodář a pozve všeoky do stavení, řka:
 
 „Vítám vás, švární mládenci! Vejděte do senci (do světnice), abyste po daleké cestě sobě odpočinuli a něčím se občerstvili.“
@@ -542,6 +670,10 @@ jest-li vás nožičky bolejí,
 
 sedněte na židlice.
 
+</section>
+
+<section>
+
 My jsme k vám nepřišli posedět,
 
 my jsme se přišli poptat:
@@ -550,6 +682,10 @@ vy máte tři hezké děvčata,
 
 můžem-li jednu dostat.
 
+</section>
+
+<section>
+
 Neber si, Jeníčku, takovou,
 
 která je tuze pyšná:
@@ -557,6 +693,10 @@ která je tuze pyšná:
 ona by snad ani za tebou
 
 ze dveří ven nevyšla.
+
+</section>
+
+<section>
 
 Neber si, Jeníčku, takovou,
 
@@ -579,6 +719,10 @@ a já nechci,
 musela bych chodit
 
 v bílým čepci.
+
+</section>
+
+<section>
 
 Mámť já vlásky
 
@@ -609,6 +753,10 @@ já nesměl do světnice –
 což jsem měl těžký srdce!
 
 Z Hradecka.
+
+</section>
+
+<section>
 
 (Nápěv 614, 715.)
 

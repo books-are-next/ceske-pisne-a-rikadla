@@ -624,6 +624,10 @@ K takovému vinšování
 
 Bůh dej slastné vykonání!
 
+</section>
+
+<section>
+
 Na stálé pak zdraví a štěstí
 
 pana ženicha i panny nevěsty,

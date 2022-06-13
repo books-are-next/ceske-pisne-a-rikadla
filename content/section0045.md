@@ -88,6 +88,10 @@ a šla do maštale
 
 pro oheň.
 
+</section>
+
+<section>
+
 Zavolala k sobě –
 
 Jeníčka,
@@ -95,6 +99,10 @@ Jeníčka,
 aby jí nasekal
 
 dřívička.
+
+</section>
+
+<section>
 
 Popad on sekyrku
 
@@ -104,6 +112,10 @@ vysekal kolíbku
 
 zelenou.
 
+</section>
+
+<section>
+
 Tu si máš, Aničko,
 
 kolíbej,
@@ -111,6 +123,10 @@ kolíbej,
 po jiných mládencích
 
 nehlídej!
+
+</section>
+
+<section>
 
 „Vždyť já ti po jiných
 
@@ -123,6 +139,10 @@ ráda mám.“
 Z Prachenska. – Srov. Čel. II, 18.
 
 V tom přižene se z komory babička, majíc na rukou děťátko z peřinek ustrojené, a běhajíc vůkol houpá je, konejší a zpívá:
+
+</section>
+
+<section>
 
 Hajej, dadej, hajej,
 
@@ -204,6 +224,10 @@ A vy muziky pozor dejte,
 
 pěknou písničku zahřejte.
 
+</section>
+
+<section>
+
 Někdy bývá na umyvadlo voda strojená voňavá, obyčejně růžová, ve které sobě každý omočí prsty a přitom do ní pustí peníz; řečník také mívá v ruce hůlku s citronem na hořejším konci nabodnutým, pod kterým uvázán jest bílý šátek neb ručník, jímž sobě hosté utírají omočené prsty. Mezi tím hudba hraje a ženy s družkami zpívají:
 
 ### 61.
@@ -220,6 +244,10 @@ přijel je k ní mládeneček  1)
 
 na vraném koni.
 
+</section>
+
+<section>
+
 A co děláš, má panenko,
 
 v vodě studený?
@@ -227,6 +255,10 @@ v vodě studený?
 „Čepce šiju, věnce viju  2)
 
 z růže červený.“
+
+</section>
+
+<section>
 
 Komu pak dáš, má panenko,
 
@@ -236,6 +268,10 @@ věnce zeleny?
 
 třetí družbovi.“
 
+</section>
+
+<section>
+
 Proč jsi mi ho dřív nedála,
 
 když jsem chodil k vám?
@@ -244,6 +280,10 @@ když jsem chodil k vám?
 
 který nynčko mám.“
 
+</section>
+
+<section>
+
 Zadrž ty mi, má panenko,
 
 koně vranýho,
@@ -251,6 +291,10 @@ koně vranýho,
 a já sobě půjdu nažit 3)
 
 ovsa zralýho.
+
+</section>
+
+<section>
 
 „Jak živa jsem nedržela
 
@@ -288,6 +332,10 @@ co se to tam, mé milé srdéčko,
 
 v poli zelená?
 
+</section>
+
+<section>
+
 „Zelená se, můj nejmilejší,
 
 otce mého hrách,
@@ -295,6 +343,10 @@ otce mého hrách,
 zelená se, mé milé srdečko,
 
 na našich drahách!“
+
+</section>
+
+<section>
 
 Nebudeme, má nejmilejší,
 
@@ -304,6 +356,10 @@ vezmeš srpeček a já kosičku,
 
 půjdem ho sekat.
 
+</section>
+
+<section>
+
 Co pak umíš, mi nejmilejši,
 
 v domě děliti?
@@ -311,6 +367,10 @@ v domě děliti?
 „Krávy dojil, oběd strojit,
 
 šaty vyprali.
+
+</section>
+
+<section>
 
 Také umím, můj nejmilejši,
 
@@ -342,6 +402,10 @@ jen jednou zatřesu,
 
 hned zase slezu.
 
+</section>
+
+<section>
+
 Jsou na ní jablíčka
 
 pěkný červeny:
@@ -351,6 +415,10 @@ já si jich natrhám
 pro potěšení.
 
 Z Táborska. – Srov. str. 108, č. 49.
+
+</section>
+
+<section>
 
 Jak mile dozpíváno, musí nevěsta stromkem zatřásli, jenž tak bývá nastrojen, aby jí ns talíř kolébka neb děťátko padlo, pro smích obecný. Ostatně hledí každý, aby z těch pamlsků něco ulovil, které pak mládenci dávají pannám a panny mládencům, a vdané ženy schovávají svým dělem. Když stromek jest obrán, vyhodí jej ven, načež družba homoli rozkrájí a po kousku mezi hosty rozdělí.
 

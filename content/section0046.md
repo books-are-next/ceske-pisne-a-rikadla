@@ -22,6 +22,10 @@ Posledně pak my služebníci svatby také za odpuštění žádáme, jest-li ž
 
 Místem hudebníci sami takto se omlouvají:
 
+</section>
+
+<section>
+
 My co partesy nosíme,
 
 také uctivě prosíme,
@@ -57,6 +61,10 @@ a klarinet proplachovat.
 Tak budem veseli zase,
 
 posloužíme naší kase.
+
+</section>
+
+<section>
 
 Konečně vezme řečník hni nějakou a zatluče ve světnici třikráte do trámu stropního, volaje silným hlasem:
 

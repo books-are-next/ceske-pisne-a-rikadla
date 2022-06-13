@@ -22,6 +22,10 @@ to je pán, to je pán,
 
 to je pravej kvardyán.
 
+</section>
+
+<section>
+
 Co vám povím ještě víc:
 
 vyplil on se na střevíc,
@@ -33,6 +37,10 @@ namazal si svou paruku:
 to je pán. to je pán,
 
 to je pravej kvardyán.
+
+</section>
+
+<section>
 
 Pocházíť on z Kosmonos,
 
@@ -48,6 +56,10 @@ to je pravej kvardyán.
 
 Z Hradecka. – Nechť písní touto nikdo se nepohoršuje; jestfť to památka s časů hnusných paruk, vysvědčujíc, v jakém opovržení lidu prostého ta nečistá móda bývala, kteréž místem ani vyšší duchovenstvo neodolalo.
 
+</section>
+
+<section>
+
 Hej, bej, povím vám:
 
 na Vraclavi Zejda pán, 
@@ -55,6 +67,10 @@ na Vraclavi Zejda pán, 
 má paruku s třema copy,
 
 hází nima sem a tam.
+
+</section>
+
+<section>
 
 Hej, hej, eště víc: 1)
 
@@ -104,6 +120,10 @@ než ten pár pantoflíček
 
 z dřeva lipového.
 
+</section>
+
+<section>
+
 Růženeček za pasem
 
 a breviář nosím:
@@ -111,6 +131,10 @@ a breviář nosím:
 za nevěrné děvčátka
 
 pána Boha prosím.
+
+</section>
+
+<section>
 
 „Když jsi páter Františkán,
 
@@ -135,6 +159,10 @@ podívat se na mou Babrličku:
 Babrličko, Babrle!
 
 pojď a potěš srdce mé.
+
+</section>
+
+<section>
 
 „Proč pak bych já srdce tvé těšila,
 
@@ -190,6 +218,10 @@ vedu na uličku,
 
 tam ji prodám.
 
+</section>
+
+<section>
+
 Koupím za ni
 
 hezkou paní:
@@ -216,6 +248,10 @@ neštěstí se nenadála,
 
 primas rozbil jí hlavu.
 
+</section>
+
+<section>
+
 „Adie, pane primase!
 
 já se s vámi teď loučím,
@@ -223,6 +259,10 @@ já se s vámi teď loučím,
 a vám mou chlupatou kůži
 
 na paruku poroučím.
+
+</section>
+
+<section>
 
 Paruku-li nenosíte,
 
@@ -256,6 +296,10 @@ a tam se radili,
 
 kdeby ji zas našli.
 
+</section>
+
+<section>
+
 Paruka je v lese,
 
 všecka rozškubána,
@@ -271,6 +315,10 @@ myslil že je sova:
 a ona paruka
 
 z rady primasova!
+
+</section>
+
+<section>
 
 Řásenskej myslivec
 
@@ -303,6 +351,10 @@ koupili si basu:
 nevěděli kam ji dáti,
 
 šli s ní ku primasu.
+
+</section>
+
+<section>
 
 A ta basa u primasa
 
@@ -430,6 +482,10 @@ nemá čím dříví vozit,
 
 musíš je v nůši nosit.
 
+</section>
+
+<section>
+
 Sedlák má tři čtyry koně,
 
 zapřáhne a jede pro ně:
@@ -501,6 +557,10 @@ cibuličku,
 budou ji prodávat
 
 po trojníčku.
+
+</section>
+
+<section>
 
 Cibulička sladká,
 
@@ -614,6 +674,10 @@ kdyby na mě hajnej přišel,
 
 on by mně vzal sekyru.
 
+</section>
+
+<section>
+
 Sekyřička za dva zlaty
 
 a topůrko za toral:
@@ -631,6 +695,10 @@ ty do lesa přec pudeš:
 jest-li na tě hajnej přijde,
 
 nic se ho bát nebudeš.
+
+</section>
+
+<section>
 
 Naší obci patří ten les:
 
@@ -666,6 +734,10 @@ hajnýho vlk nese:
 
 musíš dát sedmák!
 
+</section>
+
+<section>
+
 Dej mně drobet zelí,
 
 dám ti dřevo cely;
@@ -673,6 +745,10 @@ dám ti dřevo cely;
 dej mně drobet hub,
 
 dám ti celej dub.“
+
+</section>
+
+<section>
 
 Hajnej, hajnej, hajnej, 1)
 
@@ -724,6 +800,10 @@ ve dne v noci pracujete,
 
 máte těžký klapa.
 
+</section>
+
+<section>
+
 Ta neděle, krátká chvíle,
 
 tu se dobře vám daří,
@@ -731,6 +811,10 @@ tu se dobře vám daří,
 tu se pěkně vystrojíte,
 
 chodíte jak písaři.
+
+</section>
+
+<section>
 
 S pannama se vodíte,
 
@@ -776,6 +860,10 @@ Z Prachenska.
 
 prodal kabát, koupil karty.
 
+</section>
+
+<section>
+
 „Lepší karty nežli kabát:
 
 v karty můžeme si zahrát.“
@@ -816,6 +904,10 @@ veze kolomaz,
 
 kolo mu vrzá.
 
+</section>
+
+<section>
+
 Pane Kudrno!
 
 namaž si kolo,
@@ -833,6 +925,10 @@ vokolo Brna,
 nemaže kola,
 
 vono mu vrzá.
+
+</section>
+
+<section>
 
 Počkej Kudrno atd.
 
@@ -906,6 +1002,10 @@ dávno bys, komínku,
 
 v pisku ležel. –
 
+</section>
+
+<section>
+
 Co jste zedníci
 
 vy řemesníci!
@@ -917,6 +1017,10 @@ peníze jste napřed brali:
 to mám na vás zisku,
 
 komín leží v písku! –
+
+</section>
+
+<section>
 
 Komín sem, komín tam,
 
@@ -932,6 +1036,10 @@ však já jinej udělám!
 
 Z Prachenska.
 
+</section>
+
+<section>
+
 (Nápěv 316.)
 
 Kominíčku můj, můj, můj!
@@ -945,6 +1053,10 @@ vždycky jsem to slýchávala,
 kominíčku můj, můj, můj!
 
 jen mi v slibu stůj.
+
+</section>
+
+<section>
 
 „Řeči sem, řeči tam,
 
@@ -1210,13 +1322,25 @@ Hrbatá se s krejčím hádá,
 
 že jí ušil křivý záda.
 
+</section>
+
+<section>
+
 „Mlč, hrbatá! nehádej se,
 
 vem zrcadlo, podívej se.“
 
+</section>
+
+<section>
+
 Hrbatá se třese zlostí,
 
 až jí v těle chrastí kosti.
+
+</section>
+
+<section>
 
 „Nic ty mi se nevysmívej,
 
@@ -1254,15 +1378,31 @@ Vandroval Klimánek
 
 s Klimánkou na jarmark.
 
+</section>
+
+<section>
+
 Koupil si na šaty po pětadvaceti.
+
+</section>
+
+<section>
 
 Dal si šít kabátek
 
 od hlavy k patičce.
 
+</section>
+
+<section>
+
 Pak mu eště zbylo
 
 na dvě rukavice.
+
+</section>
+
+<section>
 
 Rukavice zbyly –
 
@@ -1306,6 +1446,10 @@ a ještě ho prosili,
 
 aby kleklo.
 
+</section>
+
+<section>
+
 Devět krejčů
 
 plavalo na lupínku
@@ -1325,6 +1469,10 @@ zavázanou hlavu máte!
 bolí vás? bolí vás?
 
 já jsem lékař, zhojím vás.
+
+</section>
+
+<section>
 
 „O lékaře já nestojím,
 
@@ -1350,6 +1498,10 @@ jsou mlynáři, jsou,
 
 když jim mlejny jdou.
 
+</section>
+
+<section>
+
 Když jim nechtí mlejny klapat,
 
 začnou jako šelmy plakat;
@@ -1360,6 +1512,10 @@ když jim mlejny jdou.
 
 Z Prachenska.
 
+</section>
+
+<section>
+
 Mlynáři jsou hodní chlapi,
 
 když jim kola: klapy, klapy!
@@ -1367,6 +1523,10 @@ když jim kola: klapy, klapy!
 jsou mlynáři, jsou,
 
 když jim kola jdou.
+
+</section>
+
+<section>
 
 Proto jsem si kámen koupil,
 
@@ -1411,6 +1571,10 @@ je-li doma Ančička?
 šla do mlejna,
 
 mele-li se pšenička?“
+
+</section>
+
+<section>
 
 Pšenička se nemele:
 
@@ -1470,13 +1634,25 @@ Po potoce chodila,
 
 drobné ryby lovila.
 
+</section>
+
+<section>
+
 Drobné ryby rybářům,
 
 hezké holky mlynářům.
 
+</section>
+
+<section>
+
 Sládkům ještě hezčejší,
 
 to jsou hoši pyšnéjší.
+
+</section>
+
+<section>
 
 Myslivcovi lecjakás,
 
@@ -1506,6 +1682,10 @@ vyjdi mu naproti
 
 na cestičku.
 
+</section>
+
+<section>
+
 Počkej, myslivečku!
 
 povím na tě,
@@ -1533,6 +1713,10 @@ Z Prachenska. – Srov. Čel. III, 41.
 Šla má milá na travičku,
 
 vzala srpek i plachtičku.
+
+</section>
+
+<section>
 
 Přišel na ni mysliveček,
 
@@ -1596,6 +1780,10 @@ přes zelenou louku;
 
 péro na klobouku.
 
+</section>
+
+<section>
+
 Skákal pes přes oves,
 
 po zaječí sledí:
@@ -1638,6 +1826,10 @@ pase je tam mysliveček
 
 v kamizolce zelený.
 
+</section>
+
+<section>
+
 Počkej, počkej, má milá!
 
 zastřelím ti jelena:
@@ -1646,6 +1838,10 @@ aby se ti zalíbila
 
 kamizolka zelená.
 
+</section>
+
+<section>
+
 Co, děvčátka, pravíte,
 
 jak to sobě myslíte:
@@ -1653,6 +1849,10 @@ jak to sobě myslíte:
 zdali radši kamizolku,
 
 neb myslivce vidíte?
+
+</section>
+
+<section>
 
 „Ne tak, ne tak, myslivce!
 
@@ -1746,6 +1946,10 @@ uhne na stranu.“
 
 Z Prachenska.
 
+</section>
+
+<section>
+
 Zajíček běží
 
 po pšenici,
@@ -1790,6 +1994,10 @@ ach já myslivečka
 
 bojím se!
 
+</section>
+
+<section>
+
 Sednu si v jeteli
 
 na kraji,
@@ -1809,6 +2017,10 @@ pospíchám –
 kam já se ubohý
 
 podít mám!
+
+</section>
+
+<section>
 
 Myslivec nadchází
 
@@ -1862,6 +2074,10 @@ přisel na ni střelec,
 
 střelil ji do boka.
 
+</section>
+
+<section>
+
 Urazil jí křídlo
 
 a pravou nožičku,
@@ -1870,6 +2086,10 @@ smutně zaplakala,
 
 spadla na vodičku.
 
+</section>
+
+<section>
+
 „Ach Bože můj milý!
 
 už jsem dolítala,
@@ -1877,6 +2097,10 @@ už jsem dolítala,
 už jsem těch svých dětí
 
 tady zanechala!
+
+</section>
+
+<section>
 
 Moje drobné děti
 
@@ -1938,6 +2162,10 @@ ony se mu všecky
 
 rozlítaly.
 
+</section>
+
+<section>
+
 Přišel domů,
 
 plakal pro ně:
@@ -1996,6 +2224,10 @@ až se dotřepala
 
 do zeleného hájku.
 
+</section>
+
+<section>
+
 Sedla si na jedličku,
 
 zpívala si písničku:
@@ -2024,6 +2256,10 @@ a jemu utekla
 
 do zeleného hájku.
 
+</section>
+
+<section>
+
 Chtěl ji myslivce zabit,
 
 neuměl na ni nabit:
@@ -2050,6 +2286,10 @@ Kdes, kukačko, kde jsi byla,
 
 volala jsem kukuku!
 
+</section>
+
+<section>
+
 Zakukala jsem panence,
 
 že se provdá za mládence:
@@ -2060,6 +2300,10 @@ volala jsem kukuku!“
 
 Z Hradecka.
 
+</section>
+
+<section>
+
 (Nápěv 798.)
 
 Žežuličko, kde jsi byla,
@@ -2067,6 +2311,10 @@ Z Hradecka.
 že’s tak dlouho nekukala?
 
 „Kuku! Kuku! kuku, kuku, kuku!“
+
+</section>
+
+<section>
 
 Seděla jsem na jedličce,
 
@@ -2090,6 +2338,10 @@ jeden dělal haf, haf, haf!
 
 a ten druhej ňaf, ňaf, ňaf!
 
+</section>
+
+<section>
+
 Půjdu s vámi, myslivci!
 
 nechte doma ty psy, psy;
@@ -2097,6 +2349,10 @@ nechte doma ty psy, psy;
 psů se bojím, ba, ba, ba,
 
 vás mám ráda, la, la, la!
+
+</section>
+
+<section>
 
 Chceš-li s námi na hony,
 
@@ -2122,6 +2378,10 @@ a já do komory,
 
 popad jsem paní.
 
+</section>
+
+<section>
+
 Hej, pane zemane!
 
 tu máš tu lani.
@@ -2145,6 +2405,10 @@ uhni svou flintičkou na stranu.
 „Nechci, neuhnu, až té zabiju,
 
 nechci, neuhnu, až té zabiju.“
+
+</section>
+
+<section>
 
 Pět peněz mám, komu je dám,
 
@@ -2170,6 +2434,10 @@ byla včera na trávě
 
 u zeleného háje.
 
+</section>
+
+<section>
+
 Šla má milá z trávy domů,
 
 panímáma přišla k tomu:
@@ -2177,6 +2445,10 @@ panímáma přišla k tomu:
 Ach dceruško, dcero má!
 
 kdes tak dlouho chodila?
+
+</section>
+
+<section>
 
 „Panímámo má zlatičká!
 
@@ -2202,6 +2474,10 @@ postřelil jsem holubičku,
 
 upadla mi v jalovec.
 
+</section>
+
+<section>
+
 Má milá ji viděla,
 
 pro ni tam běžela;
@@ -2209,6 +2485,10 @@ pro ni tam běžela;
 holubička s jalovečka
 
 na javůrek vletěla.
+
+</section>
+
+<section>
 
 A tu lístek s javora
 
@@ -2218,6 +2498,10 @@ vyprovoď mne, má panenko,
 
 až do našeho dvora.
 
+</section>
+
+<section>
+
 „Nechci, nechci, nepudu,
 
 vím že tvá nebudu:
@@ -2226,6 +2510,10 @@ tys bohatých rodičů syn,
 
 a já holka chudobná.“
 
+</section>
+
+<section>
+
 Z toho nic si nedělej,
 
 že jsem já bohatej:
@@ -2233,6 +2521,10 @@ Z toho nic si nedělej,
 však já si tě přece vemu,
 
 jen se na mé nehněvej.
+
+</section>
+
+<section>
 
 „Já se na tě nehněvám,
 
@@ -2264,6 +2556,10 @@ tovaryši můj, můj, můj,
 
 tovaryši můj!
 
+</section>
+
+<section>
+
 Běží, běží zajíc, zajíc,
 
 tovaryši můj:
@@ -2273,6 +2569,10 @@ chrty pusťme po voli,
 ať zajíčka uloví,
 
 tovaryši můj!
+
+</section>
+
+<section>
 
 Běží, běži srna, srna,
 
@@ -2284,6 +2584,10 @@ ať tn srnku uloví,
 
 tovaryši můj!
 
+</section>
+
+<section>
+
 Běži, běží jelen, jelen,
 
 tovaryši můj:
@@ -2293,6 +2597,10 @@ chrty pusťme po voli,
 ať jelínka uloví,
 
 tovaryši můj!
+
+</section>
+
+<section>
 
 Běží, běží panna, panna,
 
@@ -2304,6 +2612,10 @@ ať panenku uloví,
 
 tovaryši můj!
 
+</section>
+
+<section>
+
 Budeme se dělit, dělit,
 
 tovaryši můj:
@@ -2313,6 +2625,10 @@ tobě zajíc a srna,
 mně jelínek a panna,
 
 tovaryši můj!
+
+</section>
+
+<section>
 
 Zdá-li se ti málo, málo,
 
@@ -2346,6 +2662,10 @@ pusť mezi tenata
 
 tam na tu srnku.
 
+</section>
+
+<section>
+
 „Do tenat nepude,
 
 darmo všecko,
@@ -2360,6 +2680,10 @@ a se jí nespustím,
 
 až ji zastřelím.“
 
+</section>
+
+<section>
+
 Střelil jí smrtelně
 
 do srdéčka,
@@ -2373,6 +2697,10 @@ kterak střílí prudce
 zrovna v její srdce,
 
 spanilé srnky.
+
+</section>
+
+<section>
 
 Ještě utíkala
 
@@ -2410,6 +2738,10 @@ na zvěř pou, na srnce,
 
 jeleny a sajíce.
 
+</section>
+
+<section>
+
 Zajíc běží po dolině,
 
 srnec běží po háji;
@@ -2425,6 +2757,10 @@ jen že jsem se ho chybila:
 ach, můj Bože přemilý,
 
 kterak jsem to mířila!
+
+</section>
+
+<section>
 
 Nauč ty mne, myslivečku,
 
@@ -2458,6 +2794,10 @@ já jdu do háje
 
 zajíce honit.
 
+</section>
+
+<section>
+
 Zajíce honit,
 
 veverky chytat:
@@ -2465,6 +2805,10 @@ veverky chytat:
 vstávej, má milá!
 
 než bude svítat.
+
+</section>
+
+<section>
 
 „Vstávat nebudu,
 
@@ -2474,6 +2818,10 @@ jseš-li upřímnej,
 
 pojď zavaž mi ji.
 
+</section>
+
+<section>
+
 Hlavu jí vázal,
 
 ruce mu sklesly:
@@ -2481,6 +2829,10 @@ ruce mu sklesly:
 „Co jsi, můj milej,
 
 co’s tak uleklý?
+
+</section>
+
+<section>
 
 Ty jsi, můj milej!
 
@@ -2490,6 +2842,10 @@ ty jsi tím vinen,
 
 červeným vínem.
 
+</section>
+
+<section>
+
 Červeným vínem,
 
 bílou pálenkou:
@@ -2497,6 +2853,10 @@ bílou pálenkou:
 mohla jsem býti
 
 podnes panenkou.
+
+</section>
+
+<section>
 
 I já panenkou,
 
@@ -2506,6 +2866,10 @@ mohli jsme chodit
 
 oba pod věncem.“
 
+</section>
+
+<section>
+
 Ty jsi, má milá,
 
 ty jsi vinnější,
@@ -2513,6 +2877,10 @@ ty jsi vinnější,
 že’s mě vábila
 
 do síně vaší.
+
+</section>
+
+<section>
 
 Do síně vaší,
 
@@ -2522,6 +2890,10 @@ dávala’s mi tam
 
 sladké hubičky.
 
+</section>
+
+<section>
+
 O naší pouti,
 
 o posvícení
@@ -2529,6 +2901,10 @@ o posvícení
 budeme spolu
 
 už posvěceni.
+
+</section>
+
+<section>
 
 Pak si tě vemu
 
@@ -2552,6 +2928,10 @@ na zelené stráni –
 
 ach kdo ho zachrání!
 
+</section>
+
+<section>
+
 S zeleným kloboukem
 
 myslivec pod doubkem:
@@ -2559,6 +2939,10 @@ myslivec pod doubkem:
 můj milej holoubku,
 
 pryč ulítni s doubku!
+
+</section>
+
+<section>
 
 Pryč letí holoubek
 
@@ -2568,6 +2952,10 @@ myslivec s kloboukem
 
 vždy stojí pod doubkem.
 
+</section>
+
+<section>
+
 Myslivec pod doubkem
 
 s seleným kloboukem:
@@ -2575,6 +2963,10 @@ s seleným kloboukem:
 „Holoubku rozmilý!
 
 zalítni k mý milý.
+
+</section>
+
+<section>
 
 Zalítni k mý milý
 
@@ -2584,6 +2976,10 @@ za lesík na míli;
 
 že stojím u doubku.
 
+</section>
+
+<section>
+
 S zeleným kloboukem
 
 že stojím pod doubkem,
@@ -2591,6 +2987,10 @@ S zeleným kloboukem
 aby mi uvila,
 
 co mi přislíbila.
+
+</section>
+
+<section>
 
 Co mi přislíbila,
 
@@ -2686,6 +3086,10 @@ a já musím plout:
 
 šíf naloženej.
 
+</section>
+
+<section>
+
 Andulka vstala,
 
 snídani dala,
@@ -2738,6 +3142,10 @@ a já svou holí
 
 hájím stodoly.
 
+</section>
+
+<section>
+
 Jiný směle spí u ženušky svý;
 
 jiní mají dobry bydlo,
@@ -2762,11 +3170,19 @@ i Ježíše, jeho syna:
 
 odbila desátá (jedenáctá atd.) hodina.
 
+</section>
+
+<section>
+
 Opatrujte světlo, oheň,
 
 ať není žádnému škoden:
 
 odpočiňte s pánem Bohem!
+
+</section>
+
+<section>
 
 Po každé čtvrti:
 
@@ -2778,6 +3194,10 @@ ta přijde nenadále,
 
 sebere žebráka i krále.
 
+</section>
+
+<section>
+
 K ránu:
 
 Chval každý duch Hospodina,
@@ -2786,13 +3206,25 @@ i Ježíše, jeho syna:
 
 odbila třetí (čtvrtá) hodina.
 
+</section>
+
+<section>
+
 Vstávej, vstávej, duše věrná,
 
 a poklekni na kolena,
 
 vzývej Boha Hospodina!
 
+</section>
+
+<section>
+
 Tuto píseň zpívali do nedávná v Čechách obecně hlásní, a zpívají snad potud jeátě v městech některých, ěasu nočního při vy\* truboviní hodiu. Léta 1656 byla dekretem vlády zemské zapovězena, ze jména proto, „žeby tento veršíček od starého kacířství podezřelý byl,“ a místo ní takto spívati nařízeno:
+
+</section>
+
+<section>
 
 Chval každý duch Otce, Syna,
 
@@ -2823,6 +3255,10 @@ jede, jede
 do Rokycan.
 
 Z Berounska
+
+</section>
+
+<section>
 
 Jede, jede
 
@@ -2872,6 +3308,10 @@ pudeme na ně, vybereme je
 
 při měsíčku v noci.
 
+</section>
+
+<section>
+
 Ryby, ryby, ryby, rak, rak, rak!
 
 uděláme my to tak, tak, tak:
@@ -2879,6 +3319,10 @@ uděláme my to tak, tak, tak:
 uděláme na ně sobě sáček,
 
 uhlídáme, chytí-li se ráček.
+
+</section>
+
+<section>
 
 Vem, vem, má panenko, mošničku,
 
@@ -2912,6 +3356,10 @@ pudeme za Prahu
 
 pro jalovici.
 
+</section>
+
+<section>
+
 Já budu kupovat,
 
 ty budeš smlouvat,
@@ -2919,6 +3367,10 @@ ty budeš smlouvat,
 budem si panenky
 
 hezky namlouvat.
+
+</section>
+
+<section>
 
 Sedům grošů,
 
@@ -2929,6 +3381,10 @@ dělá to hromadu,
 čtyrycet pět krejcarů,
 
 půl tolaru.
+
+</section>
+
+<section>
 
 Půjdu do vsi,
 
@@ -3024,6 +3480,10 @@ Bohu povědomo,
 
 jak dále bude!
 
+</section>
+
+<section>
+
 Nyní se ve světě
 
 takto spatřuje:
@@ -3083,6 +3543,10 @@ nechci, nechci:
 chodějí za tebou
 
 ševci, ševci.
+
+</section>
+
+<section>
 
 Chodějí za tebou
 
@@ -3160,6 +3624,10 @@ ráno vstává, povolává,
 
 ševci nadává.
 
+</section>
+
+<section>
+
 „Pane mistře, satane!
 
 my štětiny nemáme:
@@ -3168,6 +3636,10 @@ ráno vstaň a pomodli se,
 
 a jdi do stáje.“
 
+</section>
+
+<section>
+
 Já do stáje nepudu,
 
 radši na pole pudu:
@@ -3175,6 +3647,10 @@ radši na pole pudu:
 náš pan slouha svině pase,
 
 prosit ho budu.
+
+</section>
+
+<section>
 
 Aby on mi dovolil,
 
@@ -3264,6 +3740,10 @@ máš-li něco roztrhaný,
 
 zašiju to koncem.“
 
+</section>
+
+<section>
+
 Kramflekovy šídlo,
 
 to dělalo dílo:
@@ -3271,6 +3751,10 @@ to dělalo dílo:
 vyskočilo na verpánek,
 
 přerazilo bidlo.
+
+</section>
+
+<section>
 
 Ten kulatej kámen,
 
@@ -3296,6 +3780,10 @@ ať je zima nebo horko,
 
 do díla jít musíme.
 
+</section>
+
+<section>
+
 Ráno vstáném, do díla jdem,
 
 dřív než slunce vychází:
@@ -3303,6 +3791,10 @@ dřív než slunce vychází:
 moje ze všech nejmilejší
 
 po rynku se prochází.
+
+</section>
+
+<section>
 
 Tu mně nese snídaníčko,
 
@@ -3384,6 +3876,10 @@ já nechci kováře,
 
 on je černý.
 
+</section>
+
+<section>
+
 Já radši zedníka,
 
 jsem hodné veliká:
@@ -3408,6 +3904,10 @@ my můžeme vandrovati
 
 třeba do cizích zemi.
 
+</section>
+
+<section>
+
 A vy bratří kamarádi!
 
 můj pinkl mně spakujte,
@@ -3415,6 +3915,10 @@ můj pinkl mně spakujte,
 potom s veselou muzikou
 
 kousek mě vyprovoďte.
+
+</section>
+
+<section>
 
 Už je pinkl spakovaný,
 
@@ -3424,6 +3928,10 @@ vynes mi ho, má panenko,
 
 vynes mi ho ze dveří.
 
+</section>
+
+<section>
+
 Pinkl vzala, ven vynesla,
 
 žalostně zaplakala:
@@ -3432,6 +3940,10 @@ Pinkl vzala, ven vynesla,
 
 byla radš nepoznala!“
 
+</section>
+
+<section>
+
 Bylo lásky, bylo lásky
 
 čtyry fůry formansky:
@@ -3439,6 +3951,10 @@ Bylo lásky, bylo lásky
 už jí není a nebude
 
 za náprstek krejčovský.
+
+</section>
+
+<section>
 
 Ten náprstek je bezedný,
 
@@ -3534,6 +4050,10 @@ viděl jsem devět
 
 košil na plotě.
 
+</section>
+
+<section>
+
 Pět jsem jich sebral
 
 a pryč jsem jechal;
@@ -3542,6 +4062,10 @@ a pryč jsem jechal;
 
 na plotě nechal.
 
+</section>
+
+<section>
+
 Když jsem docházel
 
 k černýmu lesu,
@@ -3549,6 +4073,10 @@ k černýmu lesu,
 podíval jsem se,
 
 kolik jich nesu.
+
+</section>
+
+<section>
 
 Bodejž do toho
 
@@ -3569,6 +4097,10 @@ Z Bydžovska.
 My jsme dvá z jedný vesnice,
 
 krademe husy, slepice.
+
+</section>
+
+<section>
 
 Kdyby byl rychtář taky pes,
 
@@ -3605,6 +4137,10 @@ nesla žida zmachanýho:
 šelma žid
 
 nechtěl jít!
+
+</section>
+
+<section>
 
 Šla Židovka podlé krámu,
 
@@ -3662,6 +4198,10 @@ se židem zahrává:
 
 „Nemůžu, mám šábes.
 
+</section>
+
+<section>
+
 Kdybych já s tebou šla,
 
 o šábes bych přišla;
@@ -3671,6 +4211,10 @@ přišel by za mnou muž,
 vrazil by do mne nůž.“
 
 Z Čáslavska.
+
+</section>
+
+<section>
 
 Židovko, pojď k nám dnes!
 
@@ -3700,6 +4244,10 @@ ajvaj! ajvaj!
 
 philnej phozor dejthe.
 
+</section>
+
+<section>
+
 Já vám budu phovím,
 
 budethe se dhivím:
@@ -3707,6 +4255,10 @@ budethe se dhivím:
 še mám rát ze mlejna Kháčo,
 
 vy nevíthe, já vím.
+
+</section>
+
+<section>
 
 Já se Khačenkhu pthám,
 
@@ -3716,6 +4268,10 @@ bude-li dhoma sám,
 
 še bych jí ne co dhám.
 
+</section>
+
+<section>
+
 Já seknu: Khačenkhu!
 
 můj zlathej milenkhu
@@ -3723,6 +4279,10 @@ můj zlathej milenkhu
 já vám dhám thureckhej šátkhy,
 
 neb hezkhej pláthynkhu.
+
+</section>
+
+<section>
 
 Vona mně thak tho šíct,
 
@@ -3732,6 +4292,10 @@ dyž se dhám drobátkho phokštit,
 
 še mě phak bude chtít.
 
+</section>
+
+<section>
+
 Dybych se phokštit dhal,
 
 kde phak bych šivnost vzal?
@@ -3739,6 +4303,10 @@ kde phak bych šivnost vzal?
 bhodejš si Khačenkhu phukla,
 
 abych tě nephoznal!
+
+</section>
+
+<section>
 
 Ny! dyš uš má bhejt thak,
 
@@ -3780,13 +4348,25 @@ Prodala pole, luka vše,
 
 dala si hádat cikánce.
 
+</section>
+
+<section>
+
 Ach, cikánečko má milá!
 
 přičaruj ty mně manžela.
 
+</section>
+
+<section>
+
 „Až já ti budu čarovat,
 
 musíš mně za to darovat:
+
+</section>
+
+<section>
 
 Žejdlík dukátů nebo dvá,
 
@@ -3809,6 +4389,10 @@ narodilo se nám v neděli,
 aby o tom všickni věděli.
 
 Z Berounska.
+
+</section>
+
+<section>
 
 (Nápěv 430.)
 
@@ -3835,6 +4419,10 @@ cikán, cikán,
 přece já vám vaši dceru
 
 zfikám, zfikám.
+
+</section>
+
+<section>
 
 Zfikám já vám Anduličku
 
