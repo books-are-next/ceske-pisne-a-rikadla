@@ -10,6 +10,8 @@ meta:
   identifier: urn:uuid:2b67e203-0d83-408a-adc0-ef62ac4b8d25
   modified: '2022-02-28T12:17:59.706Z'
   publisher: mkp
+  edition: poezie
+  publisherShort: mkp
 readingOrder:
   - promo.html
   - section0001.html
