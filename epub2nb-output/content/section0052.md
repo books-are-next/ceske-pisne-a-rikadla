@@ -1,6 +1,8 @@
 ---
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 ## V domě ženichově.
 
@@ -28,6 +30,10 @@ kde pak je družba můj,
 
 ať sem pro mě ‘de.
 
+</section>
+
+<section>
+
 Kde pak jsi? družbo můj!
 
 poď už mě ssadit:
@@ -35,6 +41,10 @@ poď už mě ssadit:
 mně už se tu stejská
 
 za stolem sedit!
+
+</section>
+
+<section>
 
 Kde pak jsi? družbo můj!
 
@@ -59,6 +69,10 @@ jak humíš,
 jak ty mejm nožičkám
 
 rozumíš!
+
+</section>
+
+<section>
 
 Hudeček zahudal
 
@@ -92,6 +106,10 @@ co pak mě nechcete,
 
 vy chlapci Stražsky?
 
+</section>
+
+<section>
+
 Jak jsem já družička
 
 ako malina;
@@ -109,6 +127,10 @@ až ty vod nás pudeš,
 jen si zavejskej!
 
 Z Domažlicka.
+
+</section>
+
+<section>
 
 Po té ji družba ssadí a vezme do kola. Když s ní zatancoval jednou, pustí ji. Družka se otočí, řkouc: že o jedné nebude jezdit, to že jezdí pohodný! – Družba ji vezme podruhé do kola a zase pustí. Ona: že o dvou taky nebude jezdit, tak že se jezdí na robotu! – A tak dál až do šesti.
 
@@ -145,6 +167,10 @@ srdce mý!
 nedej sobě hourat
 
 čepeni.
+
+</section>
+
+<section>
 
 Es-li si čepení
 
@@ -191,6 +217,10 @@ pentle ti svundají,
 čepeček ti dají,
 
 na to se podíváš!
+
+</section>
+
+<section>
 
 „Nebojím se toho
 
@@ -267,3 +297,5 @@ proto, proto, proto pláču,
 pláču, pláču tak tuze.“
 
 Z Prachenska.
+
+</section>

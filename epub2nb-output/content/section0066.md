@@ -1,6 +1,8 @@
 ---
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 # Říkadla v nemocech.
 
@@ -33,6 +35,10 @@ od svatého Jana
 při křtu Krista Pána:
 
 buď mi ke zdraví nápomocna.
+
+</section>
+
+<section>
 
 A pak se té vody napije.
 
@@ -75,6 +81,10 @@ Z Berounska. – 1) Jméno toho, jenž na stříle trpí.
 ### Na stříle.
 
 Nemocný ať položí hlavu na stůl neb na postel, uchem zhůru, ve kterém trpí bolesti. Potom vezmi misku a tři špičky, t. nůžky o dvou špičkách a špičatý nůž. Misku polož rovné nemocnému na ucho, vlož otevřené nůžky do ni, a potom lej do misky vodu křížem, řka: „Ve jménu Boha Otce, Boha Syna a Boha Ducha svatého.“ Pak vezmi špetku ovsa a syp jej též křížem na tu misku řka: „Ve jménu Boha Otce atd.“ Jsou-li to skutečně stříle, postaví se oves ve vodě špičkami zhůru, pakli nejsou, padne ke dnu. Na to vezmi nůž a udělej špičkou v misce křiž, táž slova řka: „Ve jménu Boha atd.“ † † † , a jezdi po dně nožem do kola od levé raky ku pravé, říkaje přitom jménem nemocného takto:
+
+</section>
+
+<section>
 
 Já N. (jméno nemocného) svým
 
@@ -773,3 +783,5 @@ Pfí z očka
 do potočka!
 
 Z Hradecka.
+
+</section>

@@ -1,6 +1,8 @@
 ---
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 ## d) Žerty a posměšky.
 
@@ -16,7 +18,9 @@ potkal on ji – ach můj Bože!
 
 potkal on ji Vavřina.
 
-  
+</section>
+
+<section>
 
 „Pojď, Vavřino, pojď ty k nám,
 
@@ -24,7 +28,9 @@ já tě ráda – ach můj Bože!
 
 já tě ráda uhlídám.“
 
-  
+</section>
+
+<section>
 
 Přišla domu k mateři:
 
@@ -32,7 +38,9 @@ Přišla domu k mateři:
 
 stroj maměnko večeři.
 
-  
+</section>
+
+<section>
 
 K tej večeři džbán piva:
 
@@ -40,7 +48,9 @@ přijde on k nám – ach můj Bože!
 
 přijde k nám dnes Vavřina.“
 
-  
+</section>
+
+<section>
 
 „Však já ti dám Vavřinu,
 
@@ -48,7 +58,9 @@ vezmu-li já – ach můj Bože!
 
 vezmu-li já pružinu.
 
-  
+</section>
+
+<section>
 
 Však já ti to vdavadlo
 
@@ -72,7 +84,9 @@ a pro ty daremny
 
 stolice bez nohy.
 
-  
+</section>
+
+<section>
 
 Pro hodny mládence
 
@@ -96,7 +110,9 @@ když nás holky nechtějí?
 
 nechtějí?
 
-  
+</section>
+
+<section>
 
 „Nechrne my je, Martine!
 
@@ -154,7 +170,9 @@ kdyby nám ji chtěli vrátit,
 
 chtěl bych za ni tejden mlátit.
 
-  
+</section>
+
+<section>
 
 Neřku tejden, dvě neděle,
 
@@ -212,7 +230,9 @@ má milá se za mě stydí,
 
 že mě vždycky v jedny vidí.
 
-  
+</section>
+
+<section>
 
 Nestyď ty se, holka, za mě,
 
@@ -222,7 +242,9 @@ na dvě tenky, na dvě tlusty,
 
 však nás pán Bůh neopustí.
 
-  
+</section>
+
+<section>
 
 Třebas já byl bez čepice,
 
@@ -232,7 +254,9 @@ třebas já byl bez klobouku,
 
 jen když já mám hezkou holku.
 
-  
+</section>
+
+<section>
 
 Já jsem chlapík ošacenej,
 
@@ -242,7 +266,9 @@ vem ty si mě, nebo nevem,
 
 já mám kabát jenom jeden.
 
-  
+</section>
+
+<section>
 
 Kdybych já byl sedláků syn,
 
@@ -274,7 +300,9 @@ dej mi ji, Bože!
 
 hej župy, župy, žup.
 
-  
+</section>
+
+<section>
 
 Kdybych ji dostal,
 
@@ -286,7 +314,9 @@ bych s ní vyzejskal!
 
 hej župy, župy atd.
 
-  
+</section>
+
+<section>
 
 Hezká ženuška,
 
@@ -298,7 +328,9 @@ v krytém kočáru;
 
 hej župy, župy atd.
 
-  
+</section>
+
+<section>
 
 Lokaje napřed,
 
@@ -514,7 +546,9 @@ praly se děvečky
 
 o vojáka.
 
-  
+</section>
+
+<section>
 
 Mý zlatý panenky,
 
@@ -556,7 +590,9 @@ potom v Budějicích
 
 darmo dáme.
 
-  
+</section>
+
+<section>
 
 V Budějicích na ně
 
@@ -574,7 +610,9 @@ budem je prodávat
 
 za vřhlice.
 
-  
+</section>
+
+<section>
 
 Když se nás budou ptát,
 
@@ -708,7 +746,9 @@ jak ohlapce uhlídá,
 
 hned se jí líbí.
 
-  
+</section>
+
+<section>
 
 Nechtěla nic dělat,
 
@@ -742,7 +782,9 @@ ta je hodná holka,
 
 ta se hodí mně.
 
-  
+</section>
+
+<section>
 
 Která nechce mlátit,
 
@@ -768,7 +810,9 @@ na neděli ráno,
 
 chasy bylo málo.
 
-  
+</section>
+
+<section>
 
 Panen bylo více: 1)
 
@@ -802,7 +846,9 @@ umyla se mlíkem,
 
 aby byla pěkná.
 
-  
+</section>
+
+<section>
 
 Přeci pěkná není,
 
@@ -828,7 +874,9 @@ dala si vyšívat
 
 na zádech zajíce.
 
-  
+</section>
+
+<section>
 
 Na zádech zajíce
 
@@ -844,7 +892,9 @@ Z Prachenska.
 
 co je to za dívčku.
 
-  
+</section>
+
+<section>
 
 (Nápěv 79.)
 
@@ -856,7 +906,9 @@ dala si malovat
 
 na puntě zajíce.
 
-  
+</section>
+
+<section>
 
 Na puntě zajíce,
 
@@ -882,7 +934,9 @@ ona nic nedělá,
 
 jen se z okna kouká.
 
-  
+</section>
+
+<section>
 
 Ve čtvrtek zašívá,
 
@@ -908,7 +962,9 @@ měla jsem milého,
 
 přišel mi k zmaření.
 
-  
+</section>
+
+<section>
 
 Měla jsem milého,
 
@@ -934,7 +990,9 @@ máš hezkou hubičku,
 
 můžeš mě vyprosit.
 
-  
+</section>
+
+<section>
 
 Nenech mne, má milá,
 
@@ -984,7 +1042,9 @@ mají děvky ucourany –
 
 rády by se vdaly.
 
-  
+</section>
+
+<section>
 
 Jedna má kováře,
 
@@ -994,7 +1054,9 @@ třetí stojí na ulici,
 
 čeká šindeláře.
 
-  
+</section>
+
+<section>
 
 Když se ho dočkala,
 
@@ -1004,7 +1066,9 @@ hubičku mu dala:
 
 já jsem se už vdala.“
 
-  
+</section>
+
+<section>
 
 Ta jedna se vdala,
 
@@ -1062,7 +1126,9 @@ roztrhanej kabát máš,
 
 já se za tě stydím.
 
-  
+</section>
+
+<section>
 
 Nechoď k nám až v neděli,
 
@@ -1072,7 +1138,9 @@ pak se můžeš chlubívat,
 
 že jsi ty můj milej.
 
-  
+</section>
+
+<section>
 
 Nechoď k nám až ve svátek,
 
@@ -1098,7 +1166,9 @@ klobouk měl premovanej
 
 jako ňákej císař.
 
-  
+</section>
+
+<section>
 
 V jednej ruce kalamář,
 
@@ -1108,7 +1178,9 @@ chtěl abych ho zapsala
 
 do srdéčka svého.
 
-  
+</section>
+
+<section>
 
 Kdybys ty byl mládenec,
 
@@ -1118,7 +1190,9 @@ dala bych ti ten věnec,
 
 kterej nosím sama.
 
-  
+</section>
+
+<section>
 
 Můj věneček zelenej
 
@@ -1144,7 +1218,9 @@ v zahradách se nerodíš,
 
 v poli té nesejou.
 
-  
+</section>
+
+<section>
 
 Kdyby se ta poctivost
 
@@ -1282,7 +1358,9 @@ spálila si mezulánku
 
 vo uhel, vo uhel.
 
-  
+</section>
+
+<section>
 
 Vandrovala má panenka
 
@@ -1324,7 +1402,9 @@ pálili tam kořaličku
 
 třikrát za tejden.
 
-  
+</section>
+
+<section>
 
 Žádná se jim nepovedla
 
@@ -1334,7 +1414,9 @@ po které se Adamojic
 
 Marje opila.
 
-  
+</section>
+
+<section>
 
 Ona vyšla mezi vrátka:
 
@@ -1344,7 +1426,9 @@ naše vrátka uevrzaji,
 
 já je zalejvám.
 
-  
+</section>
+
+<section>
 
 Zalejvám je teplým mlíkem,
 
@@ -1354,7 +1438,9 @@ aby nikdy nevrzaly,
 
 když k nám chlapci jdou.
 
-  
+</section>
+
+<section>
 
 Paní máma ráno vstala:
 
@@ -1364,7 +1450,9 @@ Když vy jste, ho nepoznala,
 
 já vám nepovím.
 
-  
+</section>
+
+<section>
 
 Nebyl-tě tu žádná šelma,
 
@@ -1390,7 +1478,9 @@ vyběhne si na kopeček,
 
 na hochy si zavolá.
 
-  
+</section>
+
+<section>
 
 „Pojďte, hoši, pojďte k nám!
 
@@ -1400,7 +1490,9 @@ naše dvířka nevrzaji,
 
 já je pilně zalívám.
 
-  
+</section>
+
+<section>
 
 Dopoledne teplým mlíčkem,
 
@@ -1426,7 +1518,9 @@ má panenka modrooká
 
 z okenecka kouká.
 
-  
+</section>
+
+<section>
 
 Nekoukej ty z okenecka,
 
@@ -1436,7 +1530,9 @@ jest-li že mi dáš hubičku,
 
 já ti jich dám sedům.
 
-  
+</section>
+
+<section>
 
 Než bych já ti jednu dala,
 
@@ -1486,7 +1582,9 @@ Z Kouřimska.
 
 (Nápěv 608.)
 
-  
+</section>
+
+<section>
 
 Stojí hruška v širém poli
 
@@ -1496,7 +1594,9 @@ rejho-rej, ritum-rej,
 
 listu zeleného.
 
-  
+</section>
+
+<section>
 
 Pod ní stojí má panenka
 
@@ -1506,7 +1606,9 @@ rejho-rej, ritum-rej,
 
 líčka červeného.
 
-  
+</section>
+
+<section>
 
 Šel tam tudy její milej:
 
@@ -1516,7 +1618,9 @@ rejho-rej, ritům rej,
 
 pozdrav pán Bůh, děvče!
 
-  
+</section>
+
+<section>
 
 Ona mu poděkovala:
 
@@ -1526,7 +1630,9 @@ rejho-rej, ritum-rej,
 
 dejž to pán Bůh, ševče!“
 
-  
+</section>
+
+<section>
 
 Jsem-li ševcem, za to ševcem
 
@@ -1536,7 +1642,9 @@ rejho-rej, ritům rej,
 
 budeš míti muže.
 
-  
+</section>
+
+<section>
 
 „Dřív mně musíš střevíčky šít
 
@@ -1546,7 +1654,9 @@ rejho-rej, ritum-rej,
 
 z komárovy kůže.“
 
-  
+</section>
+
+<section>
 
 Ty mně musíš košilku šít
 
@@ -1556,7 +1666,9 @@ rejho-rej, ritum-rej,
 
 bez niti, bez jehly.
 
-  
+</section>
+
+<section>
 
 „Ty mně musíš sámek stavět
 
@@ -1566,7 +1678,9 @@ rejho-rej, ritum-rej
 
 na zelným košťáli.“
 
-  
+</section>
+
+<section>
 
 Košťál zvadne, zámek spadne,
 
@@ -1592,7 +1706,9 @@ jsou tu malí trpaslíci
 
 a jsou tuze pyšní.
 
-  
+</section>
+
+<section>
 
 Jeden je tu trpaslíček
 
@@ -1602,7 +1718,9 @@ ten si počal vybírati
 
 v těch zdejších holčičkách.
 
-  
+</section>
+
+<section>
 
 Kde ramena, tu kolena,
 
@@ -1612,7 +1730,9 @@ Bože, rač nás uchovati
 
 od takovy duše!
 
-  
+</section>
+
+<section>
 
 Lecjakýs trpaslíček
 
@@ -1622,7 +1742,9 @@ chtěl by sobě vybírati
 
 v hezounkých holčičkách.
 
-  
+</section>
+
+<section>
 
 Vždyť má nožky jako hůlky,
 
@@ -1648,7 +1770,9 @@ on si mysli, hadronoška,
 
 že hned si ho vezmu!
 
-  
+</section>
+
+<section>
 
 Vždyť pak nemá nic jiného,
 
@@ -1658,7 +1782,9 @@ a ty, kdo ví, jsou-li jeho?
 
 zeptáme se otce.
 
-  
+</section>
+
+<section>
 
 Táta praví, že jsou, že jsou,
 
@@ -1670,7 +1796,9 @@ budou do kapusty!
 
 Z Prachenska. – Srov. Krol. I, 575, 601.
 
-  
+</section>
+
+<section>
 
 Šel mimo mne, okolo mne,
 
@@ -1680,7 +1808,9 @@ on si mysli, netopírek,
 
 že já si ho vezmu!
 
-  
+</section>
+
+<section>
 
 Punčošky má po Nymbursko,
 
@@ -1706,7 +1836,9 @@ kabát měl jsem papírovej,
 
 slaměny kalhoty.
 
-  
+</section>
+
+<section>
 
 Klobouk měl jsem z pavučiny,
 
@@ -1732,7 +1864,9 @@ Když jsem já šel do Moravy
 
 musil jsem se vrátit.
 
-  
+</section>
+
+<section>
 
 Líbil bych tě, líbil bych tě, 1)
 
@@ -1758,7 +1892,9 @@ abys potom nedostala,
 
 cobys pak nerada.
 
-  
+</section>
+
+<section>
 
 Hrabě pro tě nepřijede,
 
@@ -1768,7 +1904,9 @@ nemysli si tak vysoko,
 
 tu ti dávám radu.
 
-  
+</section>
+
+<section>
 
 Jest-li myslíš na hejtmana,
 
@@ -1778,7 +1916,9 @@ nedostaneš důchodního,
 
 ani obročního.
 
-  
+</section>
+
+<section>
 
 Písař když tě pomiluje,
 
@@ -1788,7 +1928,9 @@ napíše ti ceduličku:
 
 „Hledej sobě jinde!“
 
-  
+</section>
+
+<section>
 
 A když po všech naposledy
 
@@ -1798,7 +1940,9 @@ potom si ho ráda veme,
 
 sic na ocet zbyde!
 
-  
+</section>
+
+<section>
 
 Jak ho bude milovali,
 
@@ -1808,7 +1952,9 @@ budou spolu chodívali
 
 na ty pansky mlaty. –
 
-  
+</section>
+
+<section>
 
 Naposledy po všech všudy
 
@@ -1818,7 +1964,9 @@ Chce-li si mě panna vzíti,
 
 budu její manžel.
 
-  
+</section>
+
+<section>
 
 „Můj pán není žádnej slouha,
 
@@ -1828,7 +1976,9 @@ nosí péro na rameně,
 
 když vyhání z města.
 
-  
+</section>
+
+<section>
 
 On to péro ráno vezme,
 
@@ -1854,7 +2004,9 @@ vzal jsem já si novej klobouk,
 
 bíly rukavičky.
 
-  
+</section>
+
+<section>
 
 Potkal jsem tam dvě panenky,
 
@@ -1864,7 +2016,9 @@ já jsem jim dal pozdraveni,
 
 ony se mi smály.
 
-  
+</section>
+
+<section>
 
 Vzal jsem já je za ručičku,
 
@@ -1874,7 +2028,9 @@ Pojď Toničko! pojď Pepičko!
 
 sedněme si k sobě.
 
-  
+</section>
+
+<section>
 
 „A já nechci, já nepůjdu,
 
@@ -1884,7 +2040,9 @@ já se na tě hněvám,
 
 teď já žádnej nemám.“
 
-  
+</section>
+
+<section>
 
 Mlč a nemluv, nepovídej,
 
@@ -1894,7 +2052,9 @@ vždyť tu nejsi sama.
 
 jako já jsem panna!“
 
-  
+</section>
+
+<section>
 
 Necht si nejsem, ať si nejsem,
 
@@ -1920,7 +2080,9 @@ měl jsem děvče modrooký,
 
 vzala mně je voda.
 
-  
+</section>
+
+<section>
 
 A já podu do kláštera,
 
@@ -1932,7 +2094,9 @@ ta zpátečně voda.
 
 Z Hradecka.
 
-  
+</section>
+
+<section>
 
 (Nápěv 285.)
 
@@ -1946,7 +2110,9 @@ krásnou holubinku,
 
 vzala mně ji voda!
 
-  
+</section>
+
+<section>
 
 Ach vodo, vodičko!
 
@@ -1958,7 +2124,9 @@ jest-li nenavrátíš,
 
 namluvím si jinou.
 
-  
+</section>
+
+<section>
 
 Šel jsem do kostela
 
@@ -1970,7 +2138,9 @@ holku roztomilou,
 
 navrátila voda.
 
-  
+</section>
+
+<section>
 
 Z kostela jsem přišel,
 
@@ -2024,7 +2194,9 @@ jeden mužskej za tisíce –
 
 ještě není k dostání!
 
-  
+</section>
+
+<section>
 
 Kdo to praví, ten je blázen,
 
@@ -2054,7 +2226,9 @@ doběhnu si do kasáren,
 
 milého si přivedu!
 
-  
+</section>
+
+<section>
 
 „Čerta, holka, ne milého,
 
@@ -2080,7 +2254,9 @@ ona se tak pěkně nosí
 
 jako ňáká hraběnka.
 
-  
+</section>
+
+<section>
 
 Vždycky lidé povídají,
 
@@ -2090,7 +2266,9 @@ vy jste lidi všickni blázni –
 
 ona je tak bohatá.
 
-  
+</section>
+
+<section>
 
 Má na zádech spakováno,
 
@@ -2132,7 +2310,9 @@ volá: Hoši, pojďte jsem,
 
 já už v klášteře nejsem.
 
-  
+</section>
+
+<section>
 
 V klášteře mne nic netěší,
 
@@ -2158,7 +2338,9 @@ jak jen na okýnko zaklepal,
 
 já jsem mu otevřela.
 
-  
+</section>
+
+<section>
 
 „Máš-li ty hezkyho milyho,
 
@@ -2204,7 +2386,9 @@ holka roztomilá,
 
 pěknou kytičku.
 
-  
+</section>
+
+<section>
 
 A v té kytičce
 
@@ -2216,7 +2400,9 @@ holka roztomilá,
 
 šelma veliká.
 
-  
+</section>
+
+<section>
 
 „Ty‘s ještě větší,
 
@@ -2282,7 +2468,9 @@ po schodech v noci
 
 k děvčeti švárnému.
 
-  
+</section>
+
+<section>
 
 Jen jednou jsem tak lez,
 
@@ -2330,7 +2518,9 @@ boubelatou všecku –
 
 já mám ji tuze rád.
 
-  
+</section>
+
+<section>
 
 Vzadu je buclatá,
 
@@ -2416,7 +2606,9 @@ kravičce ji dala
 
 k pojedení.
 
-  
+</section>
+
+<section>
 
 Když je ji dojila,
 
@@ -2450,7 +2642,9 @@ však já mou Marjánku znám,
 
 ona má v hospodě krám.
 
-  
+</section>
+
+<section>
 
 Však já mou Marjánku znám:
 
@@ -2466,7 +2660,9 @@ ona má na čele šrám.
 
 Z Plzeňska.
 
-  
+</section>
+
+<section>
 
 Však já mou Andulku znám,
 
@@ -2500,7 +2696,9 @@ Káča má, Káča má
 
 šněrovačku s prýmama.
 
-  
+</section>
+
+<section>
 
 Káča má, Káča má
 
@@ -2636,7 +2834,9 @@ kdybych chtěla mluvit,
 
 vím dobře kery.
 
-  
+</section>
+
+<section>
 
 A ten Adamojic,
 
@@ -2766,7 +2966,9 @@ já ji nechal na pavlači,
 
 když jsem hledal Madlenu:
 
-  
+</section>
+
+<section>
 
 Madlenu jsem nenašel,
 
@@ -2800,7 +3002,9 @@ hlavu měla zavázanou
 
 v roztrhaný zástěře.
 
-  
+</section>
+
+<section>
 
 A já jsem si postěžoval,
 
@@ -2960,7 +3164,9 @@ a já vždycky pláču
 
 pro mou Káču!
 
-  
+</section>
+
+<section>
 
 A já vždycky pláču
 
@@ -3046,7 +3252,9 @@ já celá ztrápená
 
 pro milého.
 
-  
+</section>
+
+<section>
 
 „Já celý ztrápený,
 
@@ -3096,7 +3304,9 @@ pověz ty mně, hadroplete,
 
 má-li topol taky květ?
 
-  
+</section>
+
+<section>
 
 Topol květe v zimě, v letě,
 
@@ -3107,3 +3317,5 @@ abys viděl, hadroplete,
 že má topol taky květ!
 
 Z Klatovska.
+
+</section>

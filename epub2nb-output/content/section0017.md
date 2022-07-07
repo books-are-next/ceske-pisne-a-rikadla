@@ -1,12 +1,16 @@
 ---
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 ## Helské písně.
 
 Písně a hry Helské, polské „Haiłki“, tak nazvané, zpívaly a provozovaly se v pondělí a v úterý velikonoční po polední po službách božích; nyni však i v jiné prázdné dni jarní se zpívají a hrávají.
 
-  
+</section>
+
+<section>
 
 ### 1.
 
@@ -155,3 +159,5 @@ ten tu pannu míti bude.
 Héla! Héla! helilalou!
 
 Z Jičínska.
+
+</section>

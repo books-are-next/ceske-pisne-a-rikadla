@@ -1,6 +1,8 @@
 ---
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 Praví se, že píseň národní jest kvítko na luzích vlastenských vyrostlé, ježto příroda sama vychovala. Dobré to sice podobenství, ale věc sama při něm zůstává temná. Jakož snadno jest k věci známé najíti podobenství, tak zase velmi těžko nezkušenému z podobenství i sebe zdařilejšího neznámou věc určití. Co jest píseň národní? Všickni znatelé básnictví druhu toho v tom za jednoho se srovnávají, že každá píseň, kterou lid obecný zpívá, proto ještě národní není, a byt i celé století se zpívala; a naopak, že pravá píseň národní této cnosti své nikdy neztratí, byt byla již přede sty lety v ústech i v paměti lidské zahynula. I také to nic na váhu nepřidá, jest-li píseň více nebo méně v národu rozšířena, ano kdyby se i jen na jednom místě zpívala, může vždy předce pravou národní, písní býti. Známky, po kterých píseň národní od jiných ro-zeznati lze jest, musejí tedy v něčem jiném ležeti. Pravda, že otázka, co jest píseň národní? na otázce jiné a to hlavní tak visí, jako list na kmenu svém, totiž na té: co jest národ? kterak se zjevuje bytost jeho vůbec, a co do písní zvláště? Odpověd na tyto důležité otázky zanechána fysiologům a filosofům; já však pokusil jsem se nyní jen o to, abych v krátkosti ustanovil rozdíl mezi písní národní a jinou tak nazvanou umělou písní, a to jen podlé osobního mého citu a přesvědčení, doufaje, že toto mé slovo vždy býti může stupněm k veliké té vědě poznání národa; a byt i jiný tuto mou práci zvrátil, jen když na místo ní sám něco důkladnějšího vystaví, vždy těšiti se budu tím, že jsem snad jemu dal k tomu podnět.
 
@@ -12,6 +14,10 @@ Konečně má-li píseň slouti národní, třeba jest, aby žádnému jistému 
 
 Až potud praveno jen o slovu písně, t. j. o řečním jejím obsahu. Podlé slova, a v jistém ohledu i nad ním, stojí hlas písně, kterýž se vůbec nota (v Domažlicku vejslov), v písemní pak řeči nápěv nazývá. Slovo spolu s hlasem písně u vykonávání slově zpěv. Co nahoře o slovu písně národní řečeno, totéž o její hlasu čili nápěvu platí. Má-li hlas ten býti národní, musí v sobě míti národního ducha, na sobě národní formu, a musí z národa vůbec vycházeti. Známa jest obzvláštní náklonnost národa slovanského k hudbě. Celý národ slovanský zpívá, avšak písně ty u rozličných větví téhož jednoho kmene jsou velmi rozdílné. Podle rozličných okolností, s nimiž každá větev daleko rozšířeného národa slovanského během času se potkala i v nich žije, a kterýmiž duch její rozličně přibarven jest, působí na ducha i na formu písní národních slovanských nejvíce i nejpatrněji zvuk hudebního nástroje, kterýž právě té které větvi národa jest oblíben. Zkušeno jest, že každý hudební nástroj svou zvláštní moc nad duchem lidským projevuje: jeden mile, druhý nemile naň působí; jeden k veselosti zbuzuje, jiný zádumčivým činí a t. d. Jaký hudební nástroj, taková hudba, takový zpěv i takový v písni duch. Čím více rozličných citů hudební nástroj národu oblíbený v člověku může zbuditi, t. j. čím dokonalejší jest, tím větší rozmanitosti, co do ducha, nabývají národní písně. Totéž o jich formě platí. Nebude od místa, položím-li tuto jeden příklad o vyjití písně národní z hudby. Dívka uslyší v hospodě housti jednu notu, na př. č. 93 sbírky této. Jemněbolestné tyto zvuky – kteréž se dle domnění mého nejlépe z houslí vyvoditi dají, jakož i forma jich na dokonalejší nastroj ukazuje – vtisknou se dívce do paměti; celá její duše jimi se naplní a barvu jich na se vezme, ve dne i v noci jí ta nota na mysli leží, kudy chodí, pozvukuje si jí, hledajíc toliko slov, jimiž by to, čímž duše i srdce její oplývá, ústy mohla vyliti. Tu náhodou padnou oči její na rozpuklé červené poupě růžového keře v zahrádce pod oknem. Toť jiskra do duše její, v poupěti tom vidí skutečný obraz citu toho, jejž hudba v duši její způsobila. I hned se příležitosti té uchopíc počátek písně své učiní porozvitou růží; nota ustanoví pořádek slov, formu řádků, i vede rým, a děvče spustí:
 
+</section>
+
+<section>
+
 Červená růžičko, proč se nerozvíjíš?
 
 proč k nám, můj holečku, proč k nám už nechodíš?
@@ -19,6 +25,10 @@ proč k nám, můj holečku, proč k nám už nechodíš?
 „Kdybych k vám chodíval, ty bysi plakala,
 
 červeným šátečkem oči utírala.“
+
+</section>
+
+<section>
 
 Slovo podává slovo, myšlénka myšlénku, a spůsob života národního přivádí obrazy. Tak i podobným spůsobem vznikly národní písně i podnes ještě vznikají. Sotva že se některá hudba k tanci stane oblíbenou, již i hned najdou se k ní náležitá slova. Slova pravé národní písně jsou jen smysl a výklad hudebního její hlasu. Nepravím, žeby slova písně národní vždy teprv podle již hotové melodie utvořena býti musila, můžet také dobře básník oboje najednou z duše své vyníti: nikdy však se nepřihází, aby byl básník národní nejprve slova své písně shotovil a potom teprv aby k nim hledal nápěvu. V tomť se také liší píseň národní od jiných písní uměleckých, že v písni národní slovo z hudby anebo spolu s hudbou vzniká, v uměleckých pak obyčejně hudba ze slova vychází. Vždy také nápěv národní ráz hudby nástroje toho na sobě nese, jemuž ucho básníkovo bylo přivyklo. Čím národ k hudbě čilejší a čím ohebnější formy jazyka jeho, aby slovo krok za krokem mohlo hudbu následovati, brzo váhati, brzo pospíšiti, s ní se vraceti, za-hýbati i na stejno vycházeti: tím způsobilejší jest k národnímu básnictví. Tyto přednosti národu slovanskému i jazyku jeho ovšem upříti se nedají, a tím vysvětluje se také to veliké množství národních písní slovanských. V duchu národním, t. j. v tom vlastním zalíbení Slovanů v hudbě, i v ohebnosti jazyka slovanského leží jistota, dokud Slované Slovany budou, že písně jich národní nikdy nevyhynou. Znamenitá jest také poměra slova písně k jeho hlasu: čím skvělejší hlas, tím ničemnější, zvláště v plodech novějších, bývá obsah slova; kdež naproti tomu staré písně dobrého slova, jakož i nejpěknější zpěvy epické jiných Slovanů, hlas velmi jednotvárný mívají. Zdá se, jako by byl duch národní do písní slovanských vespolek jakousi rovnováhu vložiti chtěl, tak aby, čeho písni na jedné straně se nedostává, na druhé jí bylo nahrazeno.
 
@@ -37,3 +47,5 @@ Na konec tuto vzdávám srdečné díky milým přátelům svým, ze jména: v. 
 V Praze dne 26. Listopadu 1863.
 
 K. J. E.
+
+</section>

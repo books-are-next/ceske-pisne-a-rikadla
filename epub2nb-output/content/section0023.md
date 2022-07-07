@@ -1,6 +1,8 @@
 ---
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 ## Jahodníci.
 
@@ -56,7 +58,9 @@ plny hrnky jako trnky
 
 jahod sobě nesou.
 
-  
+</section>
+
+<section>
 
 Až já přidu domů,
 
@@ -68,17 +72,23 @@ a jahody k tomu.
 
 Z Bydžovska.
 
-  
+</section>
+
+<section>
 
 ### 4 Července.
 
 Svatého Prokopa den nešťastný den.
 
-  
+</section>
+
+<section>
 
 Toho dne musí se jich 9 utopiti, 9 oběsiti a 9 zabili.
 
-  
+</section>
+
+<section>
 
 Svatý Prokop
 
@@ -94,7 +104,9 @@ aneb:
 
 vhodila srp do žita.
 
-  
+</section>
+
+<section>
 
 Ženci na pote,
 
@@ -104,13 +116,17 @@ včely s pole.
 
 S které strany sv. Jakub fouká, v té straně bude drahá mouka.
 
-  
+</section>
+
+<section>
 
 Parno o Jakubě,
 
 zima o Vánocích.
 
-  
+</section>
+
+<section>
 
 Co do sv. Jakuba (vína) odkvěte,
 
@@ -120,7 +136,9 @@ do Havla uzraje.
 
 Svatá Anna chladno z rána.
 
-  
+</section>
+
+<section>
 
 Svatá Anna žito žala.
 
@@ -158,7 +176,9 @@ ať jsou pěkný červeny,
 
 k našemu pánovi podobny.
 
-  
+</section>
+
+<section>
 
 (Nápěv 537.)
 
@@ -220,7 +240,9 @@ Kdo chce vědět, kerá je:
 
 Mařenka šenkýřojc – hezká je!
 
-  
+</section>
+
+<section>
 
 (Nápěv 537.)
 
@@ -236,7 +258,9 @@ Kdo chce vědět, kerej je:
 
 Honzíček rychlá roje – hezkej je!
 
-  
+</section>
+
+<section>
 
 (Nápěv 685.)
 
@@ -264,7 +288,9 @@ Pavlouškovi nejmilejší,
 
 Ouvej! nejmilejší.
 
-  
+</section>
+
+<section>
 
 U Šohaju pěknej javor –
 
@@ -292,7 +318,9 @@ tej šenkýřojic Madlence.
 
 Kdo při polní práci za jinými pozadu zůstává, jest „na koze“.
 
-  
+</section>
+
+<section>
 
 1. 
 
@@ -306,7 +334,9 @@ na kozu se dostanete.
 
 Z Berounska. – Sr Suš. 557.
 
-  
+</section>
+
+<section>
 
 2. 
 
@@ -318,7 +348,9 @@ kerak pak jí pomaže,
 
 když von tam k ní nemože?
 
-  
+</section>
+
+<section>
 
 3.
 
@@ -340,13 +372,17 @@ Už je sluníčko za horou,
 
 Lhotečtí ženci s pole jdou.
 
-  
+</section>
+
+<section>
 
 Panmámo, neste večeři,
 
 už vám jdou ženci do dveří.
 
-  
+</section>
+
+<section>
 
 Náš hospodář je hodnej pán,
 
@@ -369,3 +405,5 @@ kerej nám pivíčko dává!
 za zdraví celýho domu,
 
 že máme pečeni k tomu!
+
+</section>

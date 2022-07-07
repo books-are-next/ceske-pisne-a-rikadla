@@ -1,6 +1,8 @@
 ---
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 ## Zimní hry.
 
@@ -48,7 +50,9 @@ Při tom sáhne té, na kterou hádala, do rukou pro prsten. Jest-li že uhodla,
 
 Z Bydžovska.
 
-  
+</section>
+
+<section>
 
 V některých místech slově tato hra: „Na makovec“. Rozdavačka při rozdávání říká: „Schovávám, schovávám makovec!“ a nebo:
 
@@ -162,7 +166,9 @@ pacholata jdou, jdou,
 
 pacholátka jdou!
 
-  
+</section>
+
+<section>
 
 Kotek leží na vrch kamen,
 
@@ -176,7 +182,9 @@ pacholata jdou, jdou,
 
 pacholátka jdou!
 
-  
+</section>
+
+<section>
 
 Kotek běhá po stodole,
 
@@ -201,3 +209,5 @@ Málo nás, málo nás,
 pojďte hoši (holky) mezi nás.
 
 Srov. Jíč. Zpěvník, č. 449; Krolm. II, 123; Sug. 618.
+
+</section>

@@ -1,6 +1,8 @@
 ---
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 ## Oddavky.
 
@@ -34,6 +36,10 @@ o jeden obrázek
 
 prosit budu.
 
+</section>
+
+<section>
+
 Ten zdejší pan farář:
 
 milostivej,
@@ -49,6 +55,10 @@ kam já ho dám,
 když pro něj místečka
 
 nikde nemám!
+
+</section>
+
+<section>
 
 Dám-li ho za rámek, 2)
 
@@ -108,6 +118,10 @@ pane páter!
 
 co jsem já chtěl.
 
+</section>
+
+<section>
+
 Dali jste mně ženu
 
 Kateřinu:
@@ -117,3 +131,5 @@ a já si ji schovám
 pod peřinu.
 
 Z Domažlicka.
+
+</section>

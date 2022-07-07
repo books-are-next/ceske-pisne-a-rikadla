@@ -1,6 +1,8 @@
 ---
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 ## Přástvy.
 
@@ -40,40 +42,54 @@ děvče jak růžička, 
 
 můj kuželíček naději.
 
-  
+</section>
+
+<section>
 
 Dá-li pán Bůh, v outerej
 
 můj kuželiček hotovej.
 
-  
+</section>
+
+<section>
 
 Dá-li pán Bůh, ve středu
 
 můj kuželíček opředu.
 
-  
+</section>
+
+<section>
 
 Dá-li pán Bůh, ve čtvrtek
 
 můj kuželíček jak chrtek.
 
-  
+</section>
+
+<section>
 
 Dá-li pán Bůh, na pátek
 
 můj kuželiček má svátek.
 
-  
+</section>
+
+<section>
 
 Dá-li pán Bůh, v sobotu
 
 přadena budou na plotu.
 
-  
+</section>
+
+<section>
 
 Dá-li pán Bůh, v neděli,
 
 aby to všichni věděli.
 
 Z Boleslavska a z Klatovska.
+
+</section>

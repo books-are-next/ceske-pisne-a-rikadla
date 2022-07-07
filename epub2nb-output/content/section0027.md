@@ -1,6 +1,8 @@
 ---
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 ## Babí léto.
 
@@ -10,7 +12,9 @@ Bude asi toho tepla,
 
 jako ho má stará bába.
 
-  
+</section>
+
+<section>
 
 poké husy na odletu,
 
@@ -24,13 +28,17 @@ na bílém koni
 
 (t. padává sníh).
 
-  
+</section>
+
+<section>
 
 Na svatého Martina
 
 kouřívá se z komína.
 
-  
+</section>
+
+<section>
 
 O svatém Martině
 
@@ -38,7 +46,9 @@ husa nejpěkněji zpívá
 
 (t. jídají se husy).
 
-  
+</section>
+
+<section>
 
 Chodí-li husa o Martině
 
@@ -52,7 +62,9 @@ Na svatou Kateřinu
 
 schovej se pod peřinu.
 
-  
+</section>
+
+<section>
 
 Zima-li na Kateřinu,
 
@@ -64,7 +76,9 @@ Od sv. Kateřiny do st. Ondřeje
 
 sotva že se pod peřinou ohřeje.
 
-  
+</section>
+
+<section>
 
 O půl noci před sv. Ondřejem děvčata vstanou a jdou zaklepat na kurník, takto při lom řkouce:
 
@@ -96,7 +110,9 @@ splachuje břehy
 
 (pršívá).
 
-  
+</section>
+
+<section>
 
 Prší-li o sv. Mikuláši
 
@@ -119,3 +135,5 @@ Lucie, Lucie,
 ta nám noci upije –
 
 a dne nepřidá (dokládají žertovně).
+
+</section>

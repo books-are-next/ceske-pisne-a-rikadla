@@ -1,6 +1,8 @@
 ---
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 # Marnost světská, smrt a pohřeb.
 
@@ -20,6 +22,10 @@ do ní budu zakopán –
 
 potěš mne pán Bůh sám!
 
+</section>
+
+<section>
+
 Kde jsou ty zlaty ručičky
 
 moji nebožky mamičky,
@@ -29,6 +35,10 @@ co mě kolíbávaly,
 k srdci přitiskávaly,
 
 když jsem byl maličký?
+
+</section>
+
+<section>
 
 Není jich už, není, není –
 
@@ -63,6 +73,10 @@ a nebudou:
 to trápí hlavu mou
 
 šepou.
+
+</section>
+
+<section>
 
 Když jsem já bejvával
 
@@ -126,6 +140,10 @@ nebývalo jindy lak
 
 všecko naopak.
 
+</section>
+
+<section>
+
 Kde jsi který z starých Čechů,
 
 pohleď trochu z hřbitova;
@@ -141,6 +159,10 @@ v tom zmateném světě:
 vždyť to nebývalo tak
 
 všecko naopak.
+
+</section>
+
+<section>
 
 Rozum lidský na se béře,
 
@@ -158,6 +180,10 @@ myslí, že je dobře tak,
 
 zatím naopak.
 
+</section>
+
+<section>
+
 Víry, lásky, upřímnosti
 
 ani jiskra nedoutná;
@@ -174,6 +200,10 @@ nebývalo jindy tak
 
 všecko naopak.
 
+</section>
+
+<section>
+
 Kde upřímnost staročeská,
 
 která někdy bývala?
@@ -189,6 +219,10 @@ nyní lež, podvodnost;
 jest to na tom světě tak
 
 všecko naopak.
+
+</section>
+
+<section>
 
 Na starého pána Boha
 
@@ -312,6 +346,10 @@ bílou košiličku,
 
 to mně dáte.
 
+</section>
+
+<section>
+
 Na tu truhlu
 
 slovo boží:
@@ -319,6 +357,10 @@ slovo boží:
 aby každý věděl,
 
 kdo tu leží.
+
+</section>
+
+<section>
 
 Leží, leží
 
@@ -344,6 +386,10 @@ dal bych si dělat
 
 dubovou truhlu.
 
+</section>
+
+<section>
+
 Dubovou truhlu,
 
 lipové víko,
@@ -351,6 +397,10 @@ lipové víko,
 aby to bylo
 
 panenkám líto.
+
+</section>
+
+<section>
 
 A na to víko
 
@@ -360,6 +410,10 @@ aby věděli,
 
 že jsem mládenec.
 
+</section>
+
+<section>
+
 Do toho věnce
 
 růžovou mašli,
@@ -367,6 +421,10 @@ růžovou mašli,
 aby mne tady
 
 panenky našly.
+
+</section>
+
+<section>
 
 Tu by mě vzali,
 
@@ -376,6 +434,10 @@ moji rodiče
 
 ti by plakali.
 
+</section>
+
+<section>
+
 Po každé straně
 
 šest krásných panen,
@@ -383,6 +445,10 @@ Po každé straně
 a šest mládenců
 
 neslo by mě ven.
+
+</section>
+
+<section>
 
 Neste mě, neste,
 
@@ -392,6 +458,10 @@ a černou hlínou
 
 mě zasypejte.
 
+</section>
+
+<section>
+
 Na hrob postavte
 
 široký kámen,
@@ -400,6 +470,10 @@ a tato slova
 
 napište na něm:
 
+</section>
+
+<section>
+
 „Leží, ach leží
 
 tu mladé tělo,
@@ -407,6 +481,10 @@ tu mladé tělo,
 kteréžto rádo
 
 děvčátka mělo.
+
+</section>
+
+<section>
 
 Hezké panenky,
 
@@ -417,6 +495,10 @@ za jeho duši
 se pomodlete!“
 
 Z Plzeňska. – Srov. Suš. 500; Kol. II, 299.
+
+</section>
+
+<section>
 
 (Nápěv 376.)
 
@@ -435,6 +517,10 @@ a lipové víko,
 aby toho bylo
 
 všem mládencům líto.
+
+</section>
+
+<section>
 
 Na vrch na to víko
 
@@ -468,6 +554,10 @@ na Obděnském hřbitově
 
 je, matičko, místo mé!
 
+</section>
+
+<section>
+
 Na hřbitově za stěnou
 
 tam mi postel ustelou;
@@ -476,6 +566,10 @@ místo peřin prachových
 
 dají třísek borových.
 
+</section>
+
+<section>
+
 Ti Obděnští zvoníci,
 
 to jsou slavní mužici:
@@ -483,6 +577,10 @@ to jsou slavní mužici:
 ti mne budou pěkně hrát,
 
 a já budu tvrdě spát.
+
+</section>
+
+<section>
 
 Kdyby hráli sto hodin,
 
@@ -494,35 +592,67 @@ všecko není plátno nic!
 
 Z Berounska.
 
+</section>
+
+<section>
+
 (Nápěv 91)
 
 Starala se matka má,
 
 kde mně pán Bůh místo dá.
 
+</section>
+
+<section>
+
 Na Oujezdském hřbitově
 
 mám já lůžko hotové.
+
+</section>
+
+<section>
 
 Místo peřin prachových
 
 trochu třísek borových.
 
+</section>
+
+<section>
+
 Místo vrchní peřiny
 
 trochu písku a hlíny.
+
+</section>
+
+<section>
 
 Žáci budou zpívali
 
 a přátelé plakali.
 
+</section>
+
+<section>
+
 Zvony budou pěkně hrát
 
 a má hlava bude spát.
 
+</section>
+
+<section>
+
 Kdyby hrály sto hodin,
 
 já se smutný nezbudím.
+
+</section>
+
+<section>
 
 Kdyby hrály i dvě stě –
 
@@ -544,6 +674,10 @@ co do tebe sejou
 
 ty drahy semena.
 
+</section>
+
+<section>
+
 Pořád je tam sejou,
 
 a žádny nevzchází:
@@ -552,6 +686,10 @@ snad že je zahradník
 
 hluboko zahází.
 
+</section>
+
+<section>
+
 Nasila jsem routy
 
 širokého listí:
@@ -559,6 +697,10 @@ Nasila jsem routy
 brzy-li můj milý,
 
 brzy-li se vyspí.
+
+</section>
+
+<section>
 
 Routa už odkvetla,
 
@@ -580,29 +722,57 @@ Pane Bože všemohoucí!
 
 umřel sedlák v Holomouci.
 
+</section>
+
+<section>
+
 V Prostějově mu zvonili,
 
 do Brna ho pohřebili.
+
+</section>
+
+<section>
 
 V Kyjevě mu truhlu dáli,
 
 z Jihlavi přinesli máry.
 
+</section>
+
+<section>
+
 Příkrov z města Kojetína,
 
 hrobař přišel od Budína.
+
+</section>
+
+<section>
 
 Kněze vzali z Hustopeče
 
 a kantora od Proseče
 
+</section>
+
+<section>
+
 Ministranty od Třebíče,
 
 chlapce s křižem z Meziříče.
 
+</section>
+
+<section>
+
 Ti pak, kteří jsou ho nesli,
 
 byli rádi, že se sešli:
+
+</section>
+
+<section>
 
 Tři byli až od Krakova,
 
@@ -675,3 +845,5 @@ za oltářem –
 bombi – lombi – bom!
 
 Z Klatovska.
+
+</section>

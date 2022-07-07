@@ -1,6 +1,8 @@
 ---
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 ## Máj.
 
@@ -20,31 +22,41 @@ staré baby za kamna,
 
 mladý ještě za nima.
 
-  
+</section>
+
+<section>
 
 Trnopuk:
 
 s kamen fuk.
 
-  
+</section>
+
+<section>
 
 Studený Máj,
 
 v stodole ráj.
 
-  
+</section>
+
+<section>
 
 Jest-li že v Máji neprší,
 
 tehdy to červen převrší.
 
-  
+</section>
+
+<section>
 
 Suchý Březen, mokrý Máj,
 
 bude humno jako ráj.
 
-  
+</section>
+
+<section>
 
 Když se ozve v Máji hrom,
 
@@ -52,7 +64,9 @@ chyť kámen anebo strom
 
 (a třes jím, abys byl silný).
 
-  
+</section>
+
+<section>
 
 Který roj se v Máji rojí,
 
@@ -86,7 +100,9 @@ falešní lidi
 
 Z Klatovska.
 
-  
+</section>
+
+<section>
 
 Toho dne vyvolávají děti:
 
@@ -102,7 +118,9 @@ Co nám léto přinese,
 
 zima nám zas odnese.
 
-  
+</section>
+
+<section>
 
 Potom v první neděli májovou po polední sejdou se mládenci v hospodě, a vezmouce s sebou hudbu a pivo, chodí po vsi dům od domu, kde děvčatům byly májky postaveny. Jeden jich, nesa májku fáborem ozdobenou, je vede. Když přijdou do stavení, vezme mládenec, jenž toho domu dceři postavil máji, děvče své k tanci, a potancovav podá jí na talíři poctu, t. s pivem sklenici, řka:
 
@@ -192,7 +210,9 @@ Na Urbanův den
 
 pospěš síti len.
 
-  
+</section>
+
+<section>
 
 Havlovo žito,
 
@@ -202,7 +222,9 @@ co z toho bude,
 
 potom mi pověz.
 
-  
+</section>
+
+<section>
 
 Když květe bez,
 
@@ -362,7 +384,9 @@ prosíme, žádáme
 
 naší chudé královně!
 
-  
+</section>
+
+<section>
 
 Naše královna osiřelá,
 
@@ -372,7 +396,9 @@ prosíme, žádáme
 
 naši chudé královně!
 
-  
+</section>
+
+<section>
 
 Kdyby královna měla otce,
 
@@ -382,7 +408,9 @@ prosíme, žádáme
 
 naší chudé královně!
 
-  
+</section>
+
+<section>
 
 Kdyby královna měla matku,
 
@@ -394,7 +422,9 @@ naší chudé královně!
 
 Z Budějovická.
 
-  
+</section>
+
+<section>
 
 Naše králka bosa chodí,
 
@@ -406,7 +436,9 @@ prosíme, pomozte
 
 naší chudé králce!
 
-  
+</section>
+
+<section>
 
 Královna a služka bosa,
 
@@ -418,7 +450,9 @@ prosíme, pomozte
 
 naší chudé králce!
 
-  
+</section>
+
+<section>
 
 Královnou obyčejné bývá děvčátko nejmenší, kteréž ostatní mezi sebou schovávají tak, aby jí nebylo viděli. Až když potom po skončené písni selka se otáže: „A kde máte královnu?“ děvčata se rozstoupí, královna vyjde a několikkrát se otočí.
 
@@ -432,7 +466,9 @@ koníčky stavíme,
 
 za dary prosíme.
 
-  
+</section>
+
+<section>
 
 Vyjděte, matičko,
 
@@ -440,7 +476,9 @@ Vyjděte, matičko,
 
 králíčky nadělte.
 
-  
+</section>
+
+<section>
 
 Čím nás nadělíte,
 
@@ -448,7 +486,9 @@ králi, králce dáme,
 
 zámků naděláme.
 
-  
+</section>
+
+<section>
 
 Králi vystavíme
 
@@ -456,7 +496,9 @@ z kamení drahého,
 
 ze zlata ryzého.
 
-  
+</section>
+
+<section>
 
 Králce vystavíme
 
@@ -464,7 +506,9 @@ z peří pávového,
 
 z kvítí májového.
 
-  
+</section>
+
+<section>
 
 Vyšla hospodyně,
 
@@ -472,10 +516,14 @@ krále pozdravila,
 
 králku přivítala.
 
-  
+</section>
+
+<section>
 
 Kázala jim dáti
 
 vajec sedum košů,
 
 a tři kopy grošů.
+
+</section>

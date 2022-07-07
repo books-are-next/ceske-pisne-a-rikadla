@@ -1,6 +1,8 @@
 ---
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 # Písně společenské.
 
@@ -58,6 +60,10 @@ oni málo zachovali,
 
 my nic mít nebudem.
 
+</section>
+
+<section>
+
 Pobudem, nebudem,
 
 světa nepřebudem;
@@ -65,6 +71,10 @@ světa nepřebudem;
 a co po nás zůstane,
 
 kdo ví, kdo to dostane!
+
+</section>
+
+<section>
 
 Však já nevím mnoho-li?
 
@@ -116,6 +126,10 @@ předce si v povětří
 
 zazpívá vesele.
 
+</section>
+
+<section>
+
 Pominem, nebudem,
 
 světa nepřebudem;
@@ -140,6 +154,10 @@ ve dne, v noci pracuje,
 
 pána Boha chválí.
 
+</section>
+
+<section>
+
 Dělejme my taky tak,
 
 jako ten skřivánek: ‚
@@ -163,6 +181,10 @@ budem pívat:
 dokud je pivíčko v sudě,
 
 šenkýřka nalejvat bude.
+
+</section>
+
+<section>
 
 Alou vívat!
 
@@ -203,6 +225,10 @@ dokud teče ze soudečku:
 píme pivo, píme je,
 
 šenkýřka nám naleje.
+
+</section>
+
+<section>
 
 Třebas já byl otrhánek,
 
@@ -249,6 +275,10 @@ my se máme pěkně,
 peníze ty tam!
 
 Z Klatovska.
+
+</section>
+
+<section>
 
 (Nápěv 302.)
 
@@ -328,6 +358,10 @@ však máš hezkou holku:
 
 pí bratříčku, pí!
 
+</section>
+
+<section>
+
 Pí bratříčku, pí,
 
 jen se neopí!
@@ -339,6 +373,10 @@ kdybys propil čtyry zlaty,
 pí bratříčku, pí!
 
 Z Bydžovska. – Srov. Kol. II, 99.
+
+</section>
+
+<section>
 
 (Nápěv 289.)
 
@@ -353,6 +391,10 @@ Pi, Honzíčku, pí,
 pí jen, Honzo, pí!
 
 Vezme sklenici do ruky, houpá ji nad hlavou a zpívá:
+
+</section>
+
+<section>
 
 (Nápěv 517.)
 
@@ -380,6 +422,10 @@ hodím čbánkem o trámeček,
 
 na kusy ho rozbiju!
 
+</section>
+
+<section>
+
 Pivo sem, pivo tam,
 
 muzikanti hřejte!
@@ -404,6 +450,10 @@ Z Hradecka.
 
 že ho taky rozbiju.
 
+</section>
+
+<section>
+
 Že to pivo nevypiju?
 
 že to pivo vypiju!
@@ -427,6 +477,10 @@ pí, synáčku, pomalu:
 máš maličkou stodoličku,
 
 máš maličkou stodolu!
+
+</section>
+
+<section>
 
 Pivo sem, pivo tam!
 
@@ -453,6 +507,10 @@ my svy pivo zaplatíme,
 žádnýho se nebojíme,
 
 kamarád a já!
+
+</section>
+
+<section>
 
 My jsme tady dvá,
 
@@ -528,6 +586,10 @@ když už je hnedlínko
 
 má sklenička prázdná.
 
+</section>
+
+<section>
+
 Nalévej, nečekej,
 
 krásná šenkýřečko!
@@ -551,6 +613,10 @@ plechovec suchej!
 nalej mi, nalej,
 
 však je dost malej.
+
+</section>
+
+<section>
 
 Šenkýřko hluchá –
 
@@ -582,6 +648,10 @@ a já mám peníze,
 
 zaplatím ho.
 
+</section>
+
+<section>
+
 Jen ty mně, šenkýřko,
 
 piva nalej,
@@ -608,6 +678,10 @@ však já ti zaplatím
 
 do halíře.
 
+</section>
+
+<section>
+
 (Nápěv 206.)
 
 Jen ty mi, šenkýřko,
@@ -615,6 +689,10 @@ Jen ty mi, šenkýřko,
 piva nalej, na to se nekoukej,
 
 že jsem malej.
+
+</section>
+
+<section>
 
 Jsem-li já v hospodě
 
@@ -655,6 +733,10 @@ ta je maličká:
 tou se mi opila
 
 moje Anička.
+
+</section>
+
+<section>
 
 Já jich vypil pět,
 
@@ -762,6 +844,10 @@ za tou, hezkou dívčicí,
 
 kdyby mně ji pán Bůh dal!
 
+</section>
+
+<section>
+
 Nepůjdu já přes ten les,
 
 kudy řezník ovci nes‘:
@@ -848,6 +934,10 @@ hrachovinou.
 
 Z Hradecka.
 
+</section>
+
+<section>
+
 (Nápěv 501)
 
 Já mám chaloupku
@@ -895,6 +985,10 @@ osmikrejcarová!
 kdo se tě přidrží,
 
 ten nic nezachová.
+
+</section>
+
+<section>
 
 Já se tě přidržel,
 
@@ -976,6 +1070,10 @@ dává nám na světě pivíčko
 
 a po smrti nebe.
 
+</section>
+
+<section>
+
 Proč bychom veseli nebyli,
 
 když už smrt utekla?
@@ -1046,6 +1144,10 @@ nezůstane.
 
 Z Prachenska.
 
+</section>
+
+<section>
+
 Já jsem synáček
 
 marnotratný,
@@ -1063,6 +1165,10 @@ pivíčko vypiju –
 zas nic nemám!
 
 Z Táborska.
+
+</section>
+
+<section>
 
 1) co já nepropiju,
 
@@ -1094,17 +1200,33 @@ Napi se, synu marnotratný!
 
 nejsou ti peníze tak nic platny.
 
+</section>
+
+<section>
+
 Co je ti platna mladá žena,
 
 když celej tejden nejseš doma?
+
+</section>
+
+<section>
 
 Co jsou ti platny pěkný koně,
 
 když celej tejden nedbáš o ně?
 
+</section>
+
+<section>
+
 Co je ti platnej hezkej statek?
 
 když pořád hejříš, jde na zmatek.
+
+</section>
+
+<section>
 
 Celičkej tejden nejdeš domů,
 
@@ -1133,6 +1255,10 @@ toby mě těšilo,
 toby bylo k mému
 
 vyražení.
+
+</section>
+
+<section>
 
 Když jsem dost šajnů měl,
 
@@ -1306,6 +1432,10 @@ zahrabou tě do díry,
 
 že tak maly máš míry.
 
+</section>
+
+<section>
+
 Šenkýři! co děláš,
 
 že tak špatně dolejváš?
@@ -1329,6 +1459,10 @@ vofouk, vofouk,
 že jsem já mu z řadu
 
 vyfouk, vyfouk.
+
+</section>
+
+<section>
 
 Proto jsem mu z řadu
 
@@ -1380,6 +1514,10 @@ drží na pořádek,
 
 za to chvalme ho.
 
+</section>
+
+<section>
+
 Jen kdyby ženy
 
 neškaredily,
@@ -1394,6 +1532,10 @@ křiky, nepořádky
 
 nikdy nebyly.
 
+</section>
+
+<section>
+
 Vždyť my mlčíme,
 
 když kávu pijou,
@@ -1407,6 +1549,10 @@ a nám k snídaníčku
 ňákou drobeničku
 
 ráno přinesou.
+
+</section>
+
+<section>
 
 Co vždy bývalo
 
@@ -1442,6 +1588,10 @@ pojďme tam a píme ho
 
 až do rána bílého!
 
+</section>
+
+<section>
+
 Pivo píme, ať to zvíme,
 
 zdali sobě rozumíme;
@@ -1454,6 +1604,10 @@ pojďme tam a píme ho
 
 až do rána bílého!
 
+</section>
+
+<section>
+
 Pivo piti, vesel býti,
 
 hezké děvče v lásce míti,
@@ -1465,6 +1619,10 @@ blaží každou chvíli:
 pojďme tam a píme ho
 
 až do rána bílého!
+
+</section>
+
+<section>
 
 Pivo píti, vlasti žiti,
 
@@ -1520,6 +1678,10 @@ doma nelíhal,
 
 že se smrti bál.
 
+</section>
+
+<section>
+
 Ach má milá ženo!
 
 přijde-li ta smrt,
@@ -1533,6 +1695,10 @@ dopí, ženo, dopí, dopí!
 do pytle mě vstrč,
 
 přijde-li ta smrť.
+
+</section>
+
+<section>
 
 „Ach můj slátej muži!
 
@@ -1548,6 +1714,10 @@ do té já tě dám,
 
 když pytle nemám.
 
+</section>
+
+<section>
+
 Ach má milá ženo!
 
 nůše děravá:
@@ -1561,6 +1731,10 @@ uhlí-, uhlí-, uhlí-, uhlí-,
 vždyť mě uhlídá,
 
 a bude bída!
+
+</section>
+
+<section>
 
 „Ach můj zlatej muži!
 
@@ -1610,6 +1784,10 @@ až ráno,
 
 až bude den.
 
+</section>
+
+<section>
+
 Mázíček za mázem
 
 líbezně chutná,
@@ -1623,6 +1801,10 @@ sklenci zdvihá,
 pěkně zpívá:
 
 Nepudeme domů atd.
+
+</section>
+
+<section>
 
 Ženuška přiběhne:
 
@@ -1638,6 +1820,10 @@ pan manžel váš!“
 
 Nepudeme domů atd.
 
+</section>
+
+<section>
+
 Žena počne zpívat
 
 píseň bez noty:
@@ -1651,6 +1837,10 @@ prach nic nedbáš,
 jenom zpíváš:
 
 Nepudeme domů atd.
+
+</section>
+
+<section>
 
 Pivíčko pěkně se
 
@@ -1692,6 +1882,10 @@ et in secula seculorum,
 
 amen.
 
+</section>
+
+<section>
+
 Blahoslavený šenkýř,
 
 který pijákům věří:
@@ -1700,7 +1894,15 @@ ale zlořečená šelma,
 
 který jim pěnou měří!
 
+</section>
+
+<section>
+
 Sicnt erat in principio atd.
+
+</section>
+
+<section>
 
 Blahoslavený šenkýř,
 
@@ -1728,6 +1930,10 @@ až já budu v hrobě hnít?
 
 trávo, trávo, trávo zelená!
 
+</section>
+
+<section>
+
 Pivo, pivo, pivo červené!
 
 kdo tě bude pivo pít,
@@ -1735,6 +1941,10 @@ kdo tě bude pivo pít,
 až já budu v hrobě hnít?
 
 pivo, pivo, pivo červené!
+
+</section>
+
+<section>
 
 Děvče, děvče, děvče rozmilé!
 
@@ -1760,6 +1970,10 @@ až já budu v hrobě hnít?
 
 pivo, pivo! kdo tě bude pít?
 
+</section>
+
+<section>
+
 Bratři, bratří! vy budete pít!
 
 kdo je ale bude pít,
@@ -1767,6 +1981,10 @@ kdo je ale bude pít,
 až i vy budete hnít?
 
 bratří, bratří! kdo je bude pít?
+
+</section>
+
+<section>
 
 Pak je budou naši kluci pít:
 
@@ -1791,6 +2009,10 @@ voda ať si teče mimo:
 vodou my se umejeme
 
 a piva se napijeme.
+
+</section>
+
+<section>
 
 Co před námi živi byli,
 
@@ -1836,6 +2058,10 @@ Nic nedělá, pořád pije,
 
 domů přijde, ženu bije.
 
+</section>
+
+<section>
+
 Ženu bije, děti taky,
 
 budou na něj naříkati!
@@ -1873,6 +2099,10 @@ zůstanou ti děti:
 neohod tam, nepí ho,
 
 toho piva hořkýho!
+
+</section>
+
+<section>
 
 „Kamaráde! jen pí,
 
@@ -1924,6 +2154,10 @@ ještě se napijem,
 
 s pánem Bohem půjdem.
 
+</section>
+
+<section>
+
 S pánem Bohem půjdem,
 
 zpomínat si budem:
@@ -1934,6 +2168,10 @@ rádi nás viděli,
 
 po druhé zas přijdem.
 
+</section>
+
+<section>
+
 Podruhé zas přijdem,
 
 déle tu pobudem:
@@ -1943,6 +2181,10 @@ ty lásko bratrská,
 a ne farizejská,
 
 zůstaň s námi, amen.
+
+</section>
+
+<section>
 
 Zůstaň s námi, amen! 1)
 
@@ -1955,6 +2197,10 @@ jemuž bud chvála, čest
 věčně věkův, amen!
 
 Z Čáslavska.
+
+</section>
+
+<section>
 
 1) Zůstaň s námi, amen!
 
@@ -1982,6 +2228,10 @@ my pijem, my pijem,
 
 my pijem ve dne i v noci.
 
+</section>
+
+<section>
+
 Kdyby to pivíčko skonalo,
 
 coby nás, coby nás,
@@ -1989,6 +2239,10 @@ coby nás, coby nás,
 coby nás, coby nás,
 
 coby nás sirotků zůstalo!
+
+</section>
+
+<section>
 
 Pivo svůj obyčej mívá,
 
@@ -1998,6 +2252,10 @@ z nemoudrých že moudrých,
 
 že z moudrých bláznů nadělá.
 
+</section>
+
+<section>
+
 Dva ho vedou za ramena,
 
 aby ne-, aby ne-,
@@ -2005,6 +2263,10 @@ aby ne-, aby ne-,
 aby ne-, aby ne-,
 
 aby nekop do kamena.
+
+</section>
+
+<section>
 
 Třetí mu nohy srovnává,
 
@@ -2014,6 +2276,10 @@ tu levou přes pravou,
 
 nohu přes nohu přendává.
 
+</section>
+
+<section>
+
 Kaluže jako dláždění,
 
 sloupům – pům – pům,
@@ -2021,6 +2287,10 @@ sloupům – pům – pům,
 pům – pům – sloupům,
 
 sloupům dává pozdravení.
+
+</section>
+
+<section>
 
 Lidi koukají z oken ven,
 
@@ -2124,6 +2394,10 @@ aby měl Martinek
 
 před ženou kuráž!
 
+</section>
+
+<section>
+
 Už ho vedou přes zahradu,
 
 jeden napřed, druhej zadu:
@@ -2137,6 +2411,10 @@ aby měl Martinek
 před ženou kuráž!
 
 Z Čáslavska. – Srov. Jič. Zpěv. str. 384.
+
+</section>
+
+<section>
 
 (Nápěv 17.)
 
@@ -2180,6 +2458,10 @@ vždyť jsem já z Podmoklé
 
 bednář, bednář.
 
+</section>
+
+<section>
+
 Pobíjím na pivo 1)
 
 sudy, sudy,
@@ -2189,6 +2471,10 @@ znají mne šenkýři
 všudy, všudy.
 
 Z Chrudimska.– Srov. Čel. I, 222; Suš. 291; Žeg. P. 188; Vojć. II, 265.
+
+</section>
+
+<section>
 
 1) Udělám já tobě
 
@@ -2252,6 +2538,10 @@ klepal jsem na svou ženu:
 
 já už jdu domů.“
 
+</section>
+
+<section>
+
 Tu mne začls má ženuška
 
 smutně vítati,
@@ -2267,6 +2557,10 @@ do božího svítání,
 tu jsem dostal od své ženy
 
 trpké snídaní.
+
+</section>
+
+<section>
 
 Smutně zpomínal jsem sobě
 
@@ -2304,6 +2598,10 @@ abych trochu vesel pobyl,
 
 a své peníze propil!
 
+</section>
+
+<section>
+
 Kdybych třebas dukát propil,
 
 šenkýřka se nehněvá;
@@ -2313,6 +2611,10 @@ Kdybych třebas dukát propil,
 pivička mi nalívá:
 
 tak jako bych hoden nebyl atd.
+
+</section>
+
+<section>
 
 Alou, páni muzikanti!
 
@@ -2324,6 +2626,10 @@ a mne obveselujte:
 
 tak jako bych atd.
 
+</section>
+
+<section>
+
 Veselosti plná hlava,
 
 v kapse ani krejcaru;
@@ -2333,6 +2639,10 @@ má-li žena jaké groše,
 všechny jí je poberu:
 
 tak jako bych atd.
+
+</section>
+
+<section>
 
 Šel jsem včera do hospody,
 
@@ -2344,6 +2654,10 @@ už se do mne pustila:
 
 tak jako bych atd.
 
+</section>
+
+<section>
+
 Vždycky jenom mně vyčítá –
 
 věřte mi na mou víru –
@@ -2353,6 +2667,10 @@ věřte mi na mou víru –
 kalhoty samou díru:
 
 tak jako bych atd.
+
+</section>
+
+<section>
 
 Ach, moje zlatá ženuško!
 
@@ -2369,3 +2687,5 @@ abych trochu vesel pobyl
 a se pivíčka napili
 
 Z Berounska.
+
+</section>

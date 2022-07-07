@@ -1,6 +1,8 @@
 ---
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 * * *
 
@@ -21,3 +23,5 @@ Prostonárodní české písně a říkadla \[online\]. V MKP 1. vyd. Praha : M
 ![](../Images/88x31.png)  
 
 Vydání (obálka, grafická úprava), jehož autorem je Městská knihovna v Praze, podléhá licenci Creative Commons Uveďte autora-Nevyužívejte dílo komerčně-Zachovejte licenci 3.0 Česko (http://creativecommons.org/licenses/by-nc-sa/3.0/cz/).
+
+</section>

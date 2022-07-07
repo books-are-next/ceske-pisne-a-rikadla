@@ -1,6 +1,8 @@
 ---
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 ## Tanec v hospodě.
 
@@ -64,6 +66,10 @@ uměly by vyšívat.
 
 Z Berounska.
 
+</section>
+
+<section>
+
 Kdyby moje nožky
 
 nebyly lenošky,
@@ -91,6 +97,10 @@ dej si pozor na družičku;
 jest-li ty si pozor nedáš,
 
 přijdeš o ni, než se nadáš.
+
+</section>
+
+<section>
 
 Družbo, co’s udělal družce?
 
@@ -136,6 +146,10 @@ My jsme ženy všecky hezky,
 
 proto že jsme Varvažovsky.
 
+</section>
+
+<section>
+
 Kalouskova taky hezká,
 
 když už bude Varvažovská.
@@ -152,9 +166,17 @@ My jsme ženy od Sušice,
 
 rády bysme kořalice.
 
+</section>
+
+<section>
+
 My jsme ženy z Protivína,
 
 rády bysme holbu vína.
+
+</section>
+
+<section>
 
 Holbu vína, holbu vody:
 
@@ -202,6 +224,10 @@ neměl jsem na ni
 
 žádnú paletu.
 
+</section>
+
+<section>
+
 A ta blešička
 
 byla maličká:
@@ -235,3 +261,5 @@ jsem, jsem věru rád,
 že jsem dostal Bělohrad.
 
 Z Kouřimska.
+
+</section>

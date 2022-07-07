@@ -5,12 +5,16 @@ contentType: prose
 languageCode: cs
 meta:
   languageCode: cs
+  author: ...
   contentType: poetry
   title: Prostonárodní české písně a říkadla
   identifier: urn:uuid:2b67e203-0d83-408a-adc0-ef62ac4b8d25
   modified: '2022-02-28T12:17:59.706Z'
   publisher: mkp
+  edition: poezie
+  publisherShort: mkp
 readingOrder:
+  - promo.html
   - section0001.html
   - section0002.html
   - section0003.html
@@ -91,5 +95,6 @@ static:
   - fonts
   - resources
   - template-images
+  - assets
   - favicon.png
 ---

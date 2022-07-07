@@ -1,6 +1,8 @@
 ---
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 ## Selská strava.
 
@@ -65,6 +67,10 @@ něco hladky,
 něco kyselýho,
 
 něco sladky.
+
+</section>
+
+<section>
 
 Hrášek kulovatej,
 
@@ -222,6 +228,10 @@ já ji prosil o kousíček –
 
 ona: že jsou horky.
 
+</section>
+
+<section>
+
 Ona vždycky pomaloučku:
 
 „Jdi Honzíčku odtad!“
@@ -245,6 +255,10 @@ sypala je perníkem,
 házela je Houzíčkovi 1)
 
 votevřeným vokýnkem:
+
+</section>
+
+<section>
 
 „Jez, Honzíčku! jsou dobry,
 
@@ -298,6 +312,10 @@ nechtěla jídat
 
 chleba černýho.
 
+</section>
+
+<section>
+
 Vlezla na půdu,
 
 špoulila hubu:
@@ -306,6 +324,10 @@ pane polesnej!
 
 já tu nebudu.
 
+</section>
+
+<section>
+
 Já budu radší
 
 ve mlejně sloužit,
@@ -313,6 +335,10 @@ ve mlejně sloužit,
 tam po dolečku
 
 nebudu toužit.
+
+</section>
+
+<section>
 
 Všední den buchly,
 
@@ -353,6 +379,10 @@ a v neděli dolečky:
 bodejž bábu kati sprali,
 
 že dělá tak maličký!
+
+</section>
+
+<section>
 
 Celej tejden buchty s sejrem,
 
@@ -466,6 +496,10 @@ předce je chválily,
 
 že dobry budou.
 
+</section>
+
+<section>
+
 Přišla tam Narjána
 
 s dlouhými prsty,
@@ -517,6 +551,10 @@ vedla si stížnost velkou,
 že ji bije tuze
 
 až do devátý kůže.
+
+</section>
+
+<section>
 
 Ta druhá se jí ptala:
 
@@ -610,6 +648,10 @@ nejstarší Luciper
 
 pek‘ si tam erpetle.
 
+</section>
+
+<section>
+
 A já jsem ho pěkně
 
 vo ňákou požádal:
@@ -631,3 +673,5 @@ Tluču, tluču na buben:
 vyjdi, dchořt, z domu ven!
 
 Z Boleslavska.
+
+</section>

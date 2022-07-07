@@ -1,10 +1,16 @@
 ---
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 ## Příchod.
 
 Přijdouce k domu, kde nevěsta přebývá, naleznou dvéře zavřené; družba jde a klepe, aby otevříno bylo. V písni následující zpívají svatebčané, kteří přicházejí s ženichem, venku před domem první slohu, á hosté, kteří jsou ve stavení s nevěstou, odpovídají slohou druhou.
+
+</section>
+
+<section>
 
 ### 23.
 
@@ -27,6 +33,10 @@ dáte-li nám vaši ceru,
 dáte-li nám vaši ceru,
 
 dáte-li ji nám?
+
+</section>
+
+<section>
 
 „Dáme, dáme, dáme rádi,
 
@@ -70,6 +80,10 @@ pokud jsme na cestě.
 
 Z Prachenska.
 
+</section>
+
+<section>
+
 Na to vyjdou rodiče nevěstiny ven hostův uvítat, a družba promluví k nim takto:
 
 „Vzácně vážený pane otče a paní matko! zdraví a všeho dobrého vám od Boha srdečně přejeme, i abyste mně s těmito poctivými pány, paními, panici a pannami do příbytku vašeho do volit i vstoupiti, za to vás všickni vespolek uctivě žádáme.“
@@ -92,6 +106,10 @@ matičko moje,
 
 do domu?
 
+</section>
+
+<section>
+
 „Kdy jsi se jim chtěla
 
 schovávat,
@@ -101,6 +119,10 @@ neměla jsi jim,
 dceruško moje,
 
 slibovat.“
+
+</section>
+
+<section>
 
 Já neslíbila jen
 
@@ -112,6 +134,10 @@ roztomilému,
 
 věrnému.
 
+</section>
+
+<section>
+
 Kdo pak mě tam bude
 
 šidívat?
@@ -121,6 +147,10 @@ vždyť já k vám budu,
 matičko moje,
 
 chodívat!
+
+</section>
+
+<section>
 
 „Přijdeš sem jen jednou
 
@@ -132,6 +162,10 @@ a lidi řeknou,
 
 každej den!“
 
+</section>
+
+<section>
+
 Dvanácte trubačů
 
 troubilo,
@@ -142,6 +176,10 @@ a krásných panen
 
 sloužilo.
 
+</section>
+
+<section>
+
 Hrajte mně muziky
 
 vesele,
@@ -151,6 +189,10 @@ dokud mám ještě
 zelenej věnec
 
 na hlavě!
+
+</section>
+
+<section>
 
 Až toho věnečku
 
@@ -192,6 +234,10 @@ kde jsem já co měla.“
 
 Z Táborska. – Srov. Suš. 60.
 
+</section>
+
+<section>
+
 Když hosté do světnice vejdou, promluví družba, maje ženicha po pravé ruce své, k rodičům nevěstiným takto:
 
 „Slovutný, vzácně vážený pane otče a paní matko! jakož vám povědomo jest, že tuto přítomný pan ženich před některým časem s malým počtem lidu navštívil vás, v příčině té, že jest umínil sobě v stav svatého manželstva s vaši nejmilejši dceruškou vstoupiti; protož dnes « větším počtu s těmito poctivými pány hosty přichází, aby ten sňatek svatební tím více k jeho i k vaší radosti byl ozdoben. Což aby se tím spíše vykonalo, a já abych ctnou a šlechetnou pannu nevěstu sem mohl přivesti, uctivě za povolení žádám.“
@@ -212,6 +258,10 @@ bolí mě, bolí hlavička
 
 pro mé potěšení!
 
+</section>
+
+<section>
+
 Teče voda, teče
 
 na ty novy mlejny:
@@ -219,6 +269,10 @@ na ty novy mlejny:
 což je těžko milovali,
 
 co k libosti není!
+
+</section>
+
+<section>
 
 Co k libosti bylo,
 
@@ -228,6 +282,10 @@ v dalekých širých krajinách
 
 mne je zanechalo.
 
+</section>
+
+<section>
+
 Chodil jsem po horách
 
 v dalekých krajinách,
@@ -235,6 +293,10 @@ v dalekých krajinách,
 všude volal jsem: Má milá!
 
 kam jsi se poděla?
+
+</section>
+
+<section>
 
 Přijdu v tu krajinu,
 
@@ -244,6 +306,10 @@ slyšel jsem novinu,
 
 zde tuto hodinu.
 
+</section>
+
+<section>
+
 Andulko má milá!
 
 jsi-li tak upřímná,
@@ -251,6 +317,10 @@ jsi-li tak upřímná,
 vyjdi ty ven na slovíčko,
 
 tvoj milej tě volá!
+
+</section>
+
+<section>
 
 Tuším, tuším, tuším,
 
@@ -260,6 +330,10 @@ kterou jsem pannu miloval,
 
 tu opustit musím.
 
+</section>
+
+<section>
+
 Snadno ji opustím,
 
 a když jinou nemám,
@@ -267,6 +341,10 @@ a když jinou nemám,
 vyjdu si já na vršíček,
 
 na jinou zavolám!
+
+</section>
+
+<section>
 
 Rybičky v hlubinách,
 
@@ -276,6 +354,10 @@ a moje zlaté panenky
 
 v hlubokých komorách.
 
+</section>
+
+<section>
+
 Kuřátka na hůře,
 
 děvčátka v komoře:
@@ -283,6 +365,10 @@ děvčátka v komoře:
 a vy zlaté panímámy,
 
 otevřete dvéře!
+
+</section>
+
+<section>
 
 Dvéře jsou zavřeny,
 
@@ -292,6 +378,10 @@ a ty zlaté panímámy
 
 otevřít nechtějí.
 
+</section>
+
+<section>
+
 Ale se nestarám,
 
 výplatu v roce mám:
@@ -299,6 +389,10 @@ výplatu v roce mám:
 jen mi nevěstu vydejte,
 
 dobře zaplatím vám.
+
+</section>
+
+<section>
 
 Jsem družba zjednaný,
 
@@ -308,6 +402,10 @@ chci si nevěstu vyplatit
 
 tvrdými tolary.
 
+</section>
+
+<section>
+
 Dvéře otevřete,
 
 nevěstu vydejte,
@@ -316,6 +414,10 @@ ať ji odevzdám ženichu,
 
 víc neprodlívejte.
 
+</section>
+
+<section>
+
 Nevěsto, pojďte k nám,
 
 ať vás ženichu dám:
@@ -323,6 +425,10 @@ ať vás ženichu dám:
 už žádný vás nerozvede,
 
 až někdy pán Bůh sám.
+
+</section>
+
+<section>
 
 Už vás nerozvede,
 
@@ -350,6 +456,10 @@ pěkným bílým šátkem sobě
 
 hutírá vočička vobě.
 
+</section>
+
+<section>
+
 Vem ji jenom za ručičku,
 
 přiveď ty ji před mamičku,
@@ -360,7 +470,15 @@ v čem vona jí hublížila.
 
 Z Domažlicka.
 
+</section>
+
+<section>
+
 Místo písní a hudby mluví někdy družba, ťukaje na dvéře, k zavřeným družkám i ženám takto:
+
+</section>
+
+<section>
 
 Ctné a šlechetné panny družičky
 
@@ -369,6 +487,10 @@ i mnoho vzácné paničky!
 prosím, nám za zlé nemějte
 
 a na mou řeč pozor dejte:
+
+</section>
+
+<section>
 
 jezdili jsme přes bory a doliny,
 
@@ -411,6 +533,10 @@ doufám, že nám ten váš poklad dáte.
 Jen nezdržujte dlouho naši žádost,
 
 ať se rozmnoží všech přítomných radost.
+
+</section>
+
+<section>
 
 Na to sousedka některá v komoře odpoví:
 
@@ -462,6 +588,10 @@ ale když to uhlídáme,
 
 teprv vám ten poklad dáme.
 
+</section>
+
+<section>
+
 Po mnohém smlouvání ženy, přijmouce výplatu, dvéře otevrou, a družba vejda do komory řekne:
 
 „Ctné a šlechetné panny družičky i také vzácné paní matky! uctivě a šetrně vás žádám, aby tato ctná panna nevěsta mně byla vydána a laskavě vámi doprovozena.“
@@ -482,6 +612,10 @@ ty budeš naříkat,
 
 až pudeš vod mámy.
 
+</section>
+
+<section>
+
 Vod mámy, vod mámy,
 
 vod zlatý mamičky:
@@ -489,6 +623,10 @@ vod zlatý mamičky:
 ty budeš hutírat
 
 svý černý vočičky.
+
+</section>
+
+<section>
 
 Vod mámy, vod mámy,
 
@@ -499,6 +637,10 @@ ty budeš spomjnat
 na jeho slovíčka!
 
 Z Domažlicka.
+
+</section>
+
+<section>
 
 Ve světnici klekne ženich s nevěstou před rodiči nevěstinými, kteří u prostřed hostu stojí, a družba promluví takto:
 
@@ -538,6 +680,10 @@ pěkně děkuju.
 
 Z Domažlicka.
 
+</section>
+
+<section>
+
 Nemá-li nevěsta již otce nebo matky na živě, bratr její neb sestra jí požehná; pakli ani těch není, vykoná tu službu nejbližší příbuzný nebo příbuzná.
 
 ### 31.
@@ -554,6 +700,10 @@ už na něm vyrůstá
 
 zelený trávníček.
 
+</section>
+
+<section>
+
 Zelený trávníček,
 
 žlutý karafiját:
@@ -561,6 +711,10 @@ Zelený trávníček,
 škoda vás tatíčku,
 
 škoda vás nastokrát!
+
+</section>
+
+<section>
 
 Bože mne polituj!
 
@@ -570,6 +724,10 @@ už na ní vyrůstá
 
 zelená travička!
 
+</section>
+
+<section>
+
 Zelená travička
 
 bílým kvítkem květe:
@@ -577,6 +735,10 @@ bílým kvítkem květe:
 už mne, má mamičko,
 
 vdávat nebudete!
+
+</section>
+
+<section>
 
 Ach nemám mamičky,
 
@@ -586,6 +748,10 @@ mám jenom sestřičku
 
 a toho bratříčka.
 
+</section>
+
+<section>
+
 Bože mne polituj!
 
 kam se obrátit mám?
@@ -593,6 +759,10 @@ kam se obrátit mám?
 komu požaluju,
 
 když rodičů nemám?
+
+</section>
+
+<section>
 
 Požalovala bych
 
@@ -602,6 +772,10 @@ přec to tak nebude
 
 jako tatíčkovi!
 
+</section>
+
+<section>
+
 Požalovala bych
 
 své milé sestřičce:
@@ -610,6 +784,10 @@ přec to tak nebude,
 
 jako své mamičce.
 
+</section>
+
+<section>
+
 Za kamenným plotem
 
 zpívá tam slavíček:
@@ -617,6 +795,10 @@ zpívá tam slavíček:
 že tam odpočívá
 
 můj zlatej tatíček.
+
+</section>
+
+<section>
 
 Za kamenným plotem
 
@@ -638,17 +820,29 @@ och můj tatíčku! z hrobu vstávejte,
 
 požehnání nám dejte.
 
+</section>
+
+<section>
+
 Och mamičko, vstávejtel
 
 och má mamičko! z hrobu vstávejte,
 
 požehnání nám dejte.
 
+</section>
+
+<section>
+
 „Dcero, dcero, nevolej! 
 
 och má dcero! na ně nevolej, 
 
 těžkosti mi nedělej.
+
+</section>
+
+<section>
 
 Jsem od tebe daleko,
 
@@ -662,6 +856,10 @@ Z Klatovska.
 
 Prvé než odejdou do kostele, přinese družička ženichovi na bílém talíři pěkný kapesní šátek, uměle složený, ve kterém zastrčen jest dlouhý prut rozmaríny, pozlátkem polepený a barevnými stužkami obvázaný, řkouc:
 
+</section>
+
+<section>
+
 „Vítám vás vlečky ve spole,
 
 jak domácí tak i přes pole:
@@ -674,11 +872,19 @@ a kdyby tu byl můj znejmilejší,
 
 dostal by tu nejhezkejší!
 
+</section>
+
+<section>
+
 A vy pane ženichu! tu hle vám posílá vsáe znejmilejší ten šáteček s tu kytičku. Co vám je milejší: ten šáteček a ta kytička, anebo panna nevěstička?“
 
 Ženich odpoví: „Všecko vespolek.“
 
 Družka: „To mi se, psne ženichu! ns vás libí, že ode mne všecko vespolek přijímáte a ničím nepohrdáte:
+
+</section>
+
+<section>
 
 tu máte šáteček,
 
@@ -687,6 +893,10 @@ a v tom šátečku kvítí,
 ať se vás ta láska chytí
 
 i ať se drží vás až do smrti.
+
+</section>
+
+<section>
 
 A dej vám pán Bůh štěstí – s mně taky tak! – A vy páni muzikanti, zostra zahrajte!“
 
@@ -697,3 +907,5 @@ Mezi tím, co hudci hrají, připne družička ženichovi kytku na klobouk. Poto
 „A vy pane družbo! tu vám dávám ten šáteček a to kytičku; a nemáte-li dost, ještě vám dám sž ns večer sladkou hubičku.“
 
 A pak i také jemu kytku připne. Ostatní hosté, mužští i ženské, jen po malém proutku rozmaríny dostanou.
+
+</section>

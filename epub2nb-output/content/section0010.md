@@ -1,6 +1,8 @@
 ---
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 ## Dětská počítadla.
 
@@ -34,6 +36,10 @@ věřte mi to nebo ne,
 
 že napíšu třicet dvě.
 
+</section>
+
+<section>
+
 2.
 
 Chodím, chodím kolem lesa,
@@ -58,6 +64,10 @@ Odříkávajíce tato počitadla, píší křídou anebo tužkou při každé st
 
 Prvé než děti začnou hráti, obyčejně se počítají, aby určily, kdo má začíti aneb jistý úkol v té hře na se vzítí. Hráči postaví se totiž těsně jeden vedle druhého kruhem, a jeden jich odříkává některé z následujících počítadel, stopy každého verše hlasitěji vyrážeje, a po stopách rukou znamená hráče, jednoho po druhém pořadem vůkol, počav od sebe. Na koho padne poslední stopa, aneb jak říkají, poslední „slovo“, ten odstoupí. Ostatní potom opět se počítají buď týmž aneb jiným počítadlem, a tak pořád, až naposledy zůstane jeden sám.
 
+</section>
+
+<section>
+
 1. 
 
 Jeden, dva, tři –
@@ -72,6 +82,10 @@ ten, ten, nebo ten,
 
 vyhoďme ho z kola ven.
 
+</section>
+
+<section>
+
 2. 
 
 Jeden, dva, tři, čtyry, pět –
@@ -81,6 +95,10 @@ kovář kuje hřebíček,
 dítě pláče bude, den:
 
 a ty vari z kola ven!
+
+</section>
+
+<section>
 
 3. 
 
@@ -100,6 +118,10 @@ Hupity, cupity,
 
 z kuchyně ven!
 
+</section>
+
+<section>
+
 4. 
 
 Jeden, dva, tři, čtyry, pět, šest,
@@ -109,6 +131,10 @@ sedům, vosům, devět:
 kominík měl hezkou dceru,
 
 unes mu ji nedvěd.
+
+</section>
+
+<section>
 
 5. 
 
@@ -150,6 +176,10 @@ zůstal viset:
 
 a to jsi ty!
 
+</section>
+
+<section>
+
 6. 
 
 Jedna, dvanda,
@@ -176,6 +206,10 @@ do klobouka,
 
 cuky, boky, flok.
 
+</section>
+
+<section>
+
 7. 
 
 Unus, duo, tres –
@@ -185,6 +219,10 @@ ty jsi malej pes,
 ty jsi malá veveřice,
 
 ty si zůstaň kdes.
+
+</section>
+
+<section>
 
 8. 
 
@@ -200,6 +238,10 @@ jeptišku my prodáme,
 
 koupíme si korále.
 
+</section>
+
+<section>
+
 9. 
 
 Andělíky, dva špalíky,
@@ -209,6 +251,10 @@ cvoky boky ven:
 nepudeš-li, vyrazím tě
 
 zlatým kamenem.
+
+</section>
+
+<section>
 
 10. 
 
@@ -222,6 +268,10 @@ basa bručí: ryc ryc ryc!
 
 jdi ty, Janku, od nás pryč!
 
+</section>
+
+<section>
+
 11. 
 
 Reje, reje černá svině
@@ -232,6 +282,10 @@ kdo jej bude vybirati?
 
 tu hle je to len!
 
+</section>
+
+<section>
+
 12. 
 
 Stojí javor u potoka,
@@ -241,6 +295,10 @@ Stojí javor u potoka,
 na koho to slovo padne,
 
 ten musí jít pryč!
+
+</section>
+
+<section>
 
 13.
 
@@ -262,6 +320,10 @@ do roboty –
 
 fuk z hrady ven!
 
+</section>
+
+<section>
+
 14.
 
 Rak leze z díry,
@@ -275,6 +337,10 @@ haklice, bukvice,
 kopeček, lesejček,
 
 čtyry oka ven!
+
+</section>
+
+<section>
 
 15. 
 
@@ -298,6 +364,10 @@ hospodář poprdář –
 
 a ty, Janku, jdi od nás.
 
+</section>
+
+<section>
+
 16. 
 
 Kováříčku! kovej kola,
@@ -319,6 +389,10 @@ třetí sotva ocas nosí.
 Hospodyňka, hospodář –
 
 a ty, hochu, var od nás.
+
+</section>
+
+<section>
 
 17.
 
@@ -343,6 +417,10 @@ pro zlaty věnce
 naší Mařence.
 
 Hej, z hrady ven!
+
+</section>
+
+<section>
 
 18.
 
@@ -372,6 +450,10 @@ zaplácanej tvarohem:
 
 jdi ty z kola ven.
 
+</section>
+
+<section>
+
 19. 
 
 Běžela rejna
@@ -393,6 +475,10 @@ stojí za tři česky.
 Hupky, hupky do polívky,
 
 a z polívky ven!
+
+</section>
+
+<section>
 
 20. 
 
@@ -430,6 +516,10 @@ mládenec je hezký,
 
 stojí za tří česky.“
 
+</section>
+
+<section>
+
 21. 
 
 Páv sedí pod dubem,
@@ -439,6 +529,10 @@ hraje v karty s holubem,
 holubička pláče,
 
 že jí sněd koláče.
+
+</section>
+
+<section>
 
 22. 
 
@@ -453,6 +547,10 @@ až tvá matka tu bude;
 přiveze ti pěkný věnec,
 
 bude z tebe mládenec.
+
+</section>
+
+<section>
 
 23. 
 
@@ -476,6 +574,10 @@ a na basu: rum – dzum!
 
 a na bubny: drum –bum!
 
+</section>
+
+<section>
+
 24. 
 
 Čáp sedí pod dubem,
@@ -493,6 +595,10 @@ koupím ti tam korále;
 až já přijdu z ráje,
 
 přivedu ti krále.
+
+</section>
+
+<section>
 
 25. 
 
@@ -516,6 +622,10 @@ však já umím zašívali.
 
 Čtyry oka, haklík ven!
 
+</section>
+
+<section>
+
 26. 
 
 Běží liška k Táboru,
@@ -530,6 +640,10 @@ Ježek za ní pospíchá,
 
 že jí pytel rozpíchá.
 
+</section>
+
+<section>
+
 27.
 
 Vlk sedí v rokli,
@@ -539,6 +653,10 @@ uši mu zmokly;
 on vyšel na vršek,
 
 aby mu uschly.
+
+</section>
+
+<section>
 
 28.
 
@@ -576,6 +694,10 @@ na mou svatbu nepudeš,
 
 ty zůstaneš doma!
 
+</section>
+
+<section>
+
 29.
 
 Leze ježek podlé meze,
@@ -591,6 +713,10 @@ kmotra liška povídala:
 však já umím choditi,
 
 však já přejedu.““
+
+</section>
+
+<section>
 
 30. 
 
@@ -618,6 +744,10 @@ ty poletíš do karbanu,
 
 prohráš halenu.““
 
+</section>
+
+<section>
+
 31. 
 
 Přiletěla vrána,
@@ -643,3 +773,5 @@ do stodoly k mámě,
 aneb:
 
 v stodole po slámě.
+
+</section>

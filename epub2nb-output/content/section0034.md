@@ -1,6 +1,8 @@
 ---
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 ## f) Ženěni a vdáváni.
 
@@ -18,7 +20,9 @@ ani si namlouvat
 
 neumíte!
 
-  
+</section>
+
+<section>
 
 Dáte-li na pivo,
 
@@ -28,7 +32,9 @@ o jednom kořínku
 
 na louce vím.
 
-  
+</section>
+
+<section>
 
 Olšový, bezový,
 
@@ -38,7 +44,9 @@ kdo se chce oženit,
 
 musí ho sníst.
 
-  
+</section>
+
+<section>
 
 Já jsem se oženil,
 
@@ -64,7 +72,9 @@ my vám poradíme,
 
 že se vdáte.
 
-  
+</section>
+
+<section>
 
 My jsme to Rojickým
 
@@ -74,7 +84,9 @@ ony se do roka
 
 všecky vdaly!
 
-  
+</section>
+
+<section>
 
 Natrhejte vy si
 
@@ -84,7 +96,9 @@ nastrkejte si ho
 
 za hlavičku.
 
-  
+</section>
+
+<section>
 
 Já jsem to koření
 
@@ -114,7 +128,9 @@ až jí ňákej zkáze.
 
 Z Klatovska.
 
-  
+</section>
+
+<section>
 
 (Nápěv 30.)
 
@@ -164,7 +180,9 @@ kdo si nerozumí,
 
 ať se ožení.
 
-  
+</section>
+
+<section>
 
 Ožeň se, Jeníčku!
 
@@ -230,7 +248,9 @@ mezi nimi roste
 
 až vyroste, bude mé.
 
-  
+</section>
+
+<section>
 
 Můj synečku mladý,
 
@@ -314,7 +334,9 @@ radši mám tu jednu chudobnou,
 
 než ty bohaty obě.
 
-  
+</section>
+
+<section>
 
 Bohatá ta jenom hezká je,
 
@@ -340,7 +362,9 @@ Já bych se rád ženil,
 
 jde mi to těžce.
 
-  
+</section>
+
+<section>
 
 Panenky i vdovy,
 
@@ -350,7 +374,9 @@ každá se bojí,
 
 dubovou holí.
 
-  
+</section>
+
+<section>
 
 Vždyť já nejsem Turek,
 
@@ -418,7 +444,9 @@ ožením se.
 
 ošidíš se.“
 
-  
+</section>
+
+<section>
 
 Má zlatá matičko,
 
@@ -428,7 +456,9 @@ neošidím.
 
 vždyť to vidím.“
 
-  
+</section>
+
+<section>
 
 Má zlatá matičko,
 
@@ -438,7 +468,9 @@ je bohatá.
 
 je hubatá.“
 
-  
+</section>
+
+<section>
 
 Má zlatá matičko,
 
@@ -448,7 +480,9 @@ pěkně si je.
 
 hodně pije.“
 
-  
+</section>
+
+<section>
 
 Má zlatá matičko,
 
@@ -458,7 +492,9 @@ košiličky.
 
 rosoličky.“
 
-  
+</section>
+
+<section>
 
 Má zlatá matičko,
 
@@ -484,7 +520,9 @@ já mám hezkou holku,
 
 já pro ni pudu.
 
-  
+</section>
+
+<section>
 
 „Můj zlatej kolečku, 1)
 
@@ -494,7 +532,9 @@ však budeš litovat,
 
 nevíš co činíš!
 
-  
+</section>
+
+<section>
 
 Počkej jen, co na tě
 
@@ -504,7 +544,9 @@ až budeš vyplácet
 
 bábu i kněze.
 
-  
+</section>
+
+<section>
 
 Bábě dáš dva zlaty,
 
@@ -524,7 +566,9 @@ nic dělat neumíš,
 
 což se nestydíš?“
 
-  
+</section>
+
+<section>
 
 Já na to nic nedbám,
 
@@ -588,7 +632,9 @@ kdyby mně pán Bůh dal
 
 ženu Lidušku!
 
-  
+</section>
+
+<section>
 
 Na našem prahu
 
@@ -630,13 +676,17 @@ Co pak ti naši dělají,
 
 že se mně ženit nedají?
 
-  
+</section>
+
+<section>
 
 Mně je tak ženy potřeba,
 
 jako formánku nevěra.
 
-  
+</section>
+
+<section>
 
 Forman si přeci pomůže,
 
@@ -668,7 +718,9 @@ postýlku stlávala;
 
 Z Budějovicka.
 
-  
+</section>
+
+<section>
 
 Ženu, ženu potřebuju,
 
@@ -788,7 +840,9 @@ dávali mně starou bábu –
 
 já bych bábu čertu dal! 
 
-  
+</section>
+
+<section>
 
 Stará bába jako žába
 
@@ -798,7 +852,9 @@ mladá holka jak peřina
 
 v zimě, v létě zahřívá.
 
-  
+</section>
+
+<section>
 
 Staré bábě dáme hrábě,
 
@@ -856,7 +912,9 @@ po mně smutně, můj holečku,
 
 ohlížet se budeš!
 
-  
+</section>
+
+<section>
 
 A když přijdeš do hospody,
 
@@ -962,7 +1020,9 @@ do ostrého trní lehla,
 
 tak je mně, ach! tak je mně.
 
-  
+</section>
+
+<section>
 
 Žádnej neví, jak je mně,
 
@@ -986,31 +1046,41 @@ Ach kýž jsem slavíčkem,
 
 tím malým ptačíčkem.
 
-  
+</section>
+
+<section>
 
 Letěl bych přes hory
 
 k milej do komory.
 
-  
+</section>
+
+<section>
 
 Poslouchal bych zticha,
 
 proč má milá vzdychá.
 
-  
+</section>
+
+<section>
 
 Vzdychá pro mladého,
 
 nerada starého.
 
-  
+</section>
+
+<section>
 
 Starej smrdí potem,
 
 co kopřiva plotem.
 
-  
+</section>
+
+<section>
 
 Mladej voní tuze,
 
@@ -1040,7 +1110,9 @@ a vdovec vzpomíná
 
 na nebožku
 
-  
+</section>
+
+<section>
 
 Lepší je pivečko
 
@@ -1074,7 +1146,9 @@ pročby mládenec opustil
 
 svou pannu pro vdovu?
 
-  
+</section>
+
+<section>
 
 Vždy! je panna pěkná bílá,
 
@@ -1084,7 +1158,9 @@ a vdova je ve dva konce
 
 shrbená, shrbená.
 
-  
+</section>
+
+<section>
 
 Jak živa jsem neviděla
 
@@ -1094,7 +1170,9 @@ proč by panna opustila
 
 mládence pro vdovce?
 
-  
+</section>
+
+<section>
 
 Mládenec je pěkný bílý,
 
@@ -1126,7 +1204,9 @@ on je se mnou rozdělí.
 
 Z Hradecka.
 
-  
+</section>
+
+<section>
 
 Paňmáma povídala,
 
@@ -1176,19 +1256,25 @@ Nechce mne panenka žádná,
 
 že je má kapsička prázdná.
 
-  
+</section>
+
+<section>
 
 Půjdu od panenky k vdově,
 
 Naplním kapsičky obě.
 
-  
+</section>
+
+<section>
 
 Do jedné nasypu hrachu,
 
 nadělám panenkám strachu.
 
-  
+</section>
+
+<section>
 
 Do druhé si nacpu zelí,
 
@@ -1210,7 +1296,9 @@ stavějí tam krmník,
 
 že je budou krmit.
 
-  
+</section>
+
+<section>
 
 Ta Kolínskejch dala sukni,
 
@@ -1234,7 +1322,9 @@ teď jsem myslil opravdu,
 
 musím jíti na faru.
 
-  
+</section>
+
+<section>
 
 Pane páter! prosím,
 
@@ -1246,7 +1336,9 @@ s mou milou mě oddejte.
 
 Z Hradecka.
 
-  
+</section>
+
+<section>
 
 Já jsem, já jsem, já jsem!
 
@@ -1256,7 +1348,9 @@ když jsem začal opravdu,
 
 musil jsem jít na faru.
 
-  
+</section>
+
+<section>
 
 Faláře jsem prosil,
 
@@ -1266,7 +1360,9 @@ aby mi to odpustil,
 
 čeho jsem se dopustil.
 
-  
+</section>
+
+<section>
 
 On odpustit nechce,
 
@@ -1292,7 +1388,9 @@ skrovnou, nevysokou,
 
 švárnon, černookou.
 
-  
+</section>
+
+<section>
 
 Já se ji počal vyptávat,
 
@@ -1302,7 +1400,9 @@ brzo-li se bude vdávat?
 
 kdyby mně máma dala.
 
-  
+</section>
+
+<section>
 
 Můj zlatej Jeničku hezkej,
 
@@ -1318,7 +1418,9 @@ Z Berounska.
 
 že si mne neveme.
 
-  
+</section>
+
+<section>
 
 Počala ode mne běžet,
 
@@ -1352,7 +1454,9 @@ začala se vymlouvat,
 
 že je o ně zle.
 
-  
+</section>
+
+<section>
 
 Pšeničku jsem zašil,
 
@@ -1388,7 +1492,9 @@ pak budu celý tvůj,
 
 má holubičko.
 
-  
+</section>
+
+<section>
 
 Lásku si slíbíme,
 
@@ -1442,7 +1548,9 @@ rozmarínka roste;
 
 ona neporoste. 
 
-  
+</section>
+
+<section>
 
 Až já tudy půjdu,
 
@@ -1514,7 +1622,9 @@ neboj se, má milá,
 
 však nezahynem.
 
-  
+</section>
+
+<section>
 
 Neboj se, má milá,
 
@@ -1568,7 +1678,9 @@ až ti zuby vypadají,
 
 nebudou tě bolet.
 
-  
+</section>
+
+<section>
 
 Sila vičku na vršíčku,
 
@@ -1732,7 +1844,9 @@ nic nedbej, jen se vdej,
 
 dokuds mladá!
 
-  
+</section>
+
+<section>
 
 Nic nedbej, jen se vdej,
 
@@ -1766,7 +1880,9 @@ toho já si nevemu,
 
 je jako střízlíček.
 
-  
+</section>
+
+<section>
 
 Ach, maminko! jede k nám
 
@@ -1856,7 +1972,9 @@ naši mi nedají,
 
 kde chleba nemají.
 
-  
+</section>
+
+<section>
 
 Kde chleba nemají,
 
@@ -1906,7 +2024,9 @@ pravila jsem, pravila,
 
 že mě láska ranila.
 
-  
+</section>
+
+<section>
 
 Půjdu se ptát rychtáře,
 
@@ -1920,7 +2040,9 @@ půjdu se ptát rychtáře,
 
 kdo má platit lékaře.
 
-  
+</section>
+
+<section>
 
 Ach rychtáři! bolí mě;
 
@@ -1934,7 +2056,9 @@ kdo má platit lékaře,
 
 když se rána dokáže?
 
-  
+</section>
+
+<section>
 
 „Vemte sobě lékaře,
 
@@ -1948,7 +2072,9 @@ ten, kdo ranil, platit má,
 
 tak mi právo povídá.“
 
-  
+</section>
+
+<section>
 
 Vy se, pane, mejlíte,
 
@@ -1962,7 +2088,9 @@ kterak pak mně pomůže?
 
 srdce vázat nemůže.
 
-  
+</section>
+
+<section>
 
 „Má panenko rozmilá!
 
@@ -2010,7 +2138,9 @@ co já mám, co já mám
 
 v hrobový truhle:
 
-  
+</section>
+
+<section>
 
 Mám tam tři homolky
 
@@ -2044,7 +2174,9 @@ a kdo koli za mnou přijde,
 
 nábytek mu všechen dám.
 
-  
+</section>
+
+<section>
 
 Starý necky, dvě vařečky,
 
@@ -2078,7 +2210,9 @@ ráda bych ti dala
 
 svoji ručičko.
 
-  
+</section>
+
+<section>
 
 Já jsem holka mladá
 
@@ -2088,7 +2222,9 @@ lidem jsem podobná,
 
 nestarej se nic.
 
-  
+</section>
+
+<section>
 
 Andulka mně říkaj‘,
 
@@ -2098,7 +2234,9 @@ neboj se, Honzíčku,
 
 mý panímámy.
 
-  
+</section>
+
+<section>
 
 Nebudeš nic dělat,
 
@@ -2108,7 +2246,9 @@ jenom špacírovat,
 
 jako kavalír.
 
-  
+</section>
+
+<section>
 
 Panímáma přála,
 
@@ -2118,7 +2258,9 @@ bych se nestarala,
 
 co pro mě chová.
 
-  
+</section>
+
+<section>
 
 Devět liber mrkve,
 
@@ -2128,7 +2270,9 @@ dva pytlíky viky,
 
 čtyry homolky.
 
-  
+</section>
+
+<section>
 
 Rozkřapanej hrnec,
 
@@ -2138,7 +2282,9 @@ mísu planejch jablek,
 
 zlámaný necky.
 
-  
+</section>
+
+<section>
 
 Jednu starou truhlu
 
@@ -2148,7 +2294,9 @@ kerou mně slíbila
 
 kmotra Hedvíka.
 
-  
+</section>
+
+<section>
 
 Na tu naši svatbu
 
@@ -2158,7 +2306,9 @@ jednu starou vránu,
 
 rohy od vola.
 
-  
+</section>
+
+<section>
 
 Budem zpívat, Honzo,
 
@@ -2188,7 +2338,9 @@ tátoji neříkej nic,
 
 Ančičko šafářojic!
 
-  
+</section>
+
+<section>
 
 „Honzíčku! příď jenom k nám
 
@@ -2202,7 +2354,9 @@ jen řekni tátoji sám,
 
 až přídeš, Honzíčku, k nám.“
 
-  
+</section>
+
+<section>
 
 Ančičko! přec se lekám,
 
@@ -2216,7 +2370,9 @@ když si na to zpomínám,
 
 Andulko, vždy se lekám!
 
-  
+</section>
+
+<section>
 
 „Proč by tě nepřivítal,
 
@@ -2230,7 +2386,9 @@ sám panímámě říkal –
 
 proč by tě nepřivítal?“
 
-  
+</section>
+
+<section>
 
 Jest-li že ty budeš má,
 
@@ -2245,3 +2403,5 @@ jak štastni budem obá,
 až budeš, Ančičko, má!
 
 Z Klatovska. – Srov. str. 130 pís. 160.
+
+</section>

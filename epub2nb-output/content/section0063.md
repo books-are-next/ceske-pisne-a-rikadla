@@ -1,6 +1,8 @@
 ---
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 # Zpomínky historické
 
@@ -29,6 +31,10 @@ co propijou, zaplatějí,
 ouvě – traladritum
 
 ouvěrou.
+
+</section>
+
+<section>
 
 Dali sobě privileje
 
@@ -68,6 +74,10 @@ po Labi jezdíval –
 
 kde jsou ty časy!
 
+</section>
+
+<section>
+
 Když on plul tudy, tudy,
 
 hrály mu dudy;
@@ -77,6 +87,10 @@ všude po všem břehu
 stály v velkém sběhu
 
 lidí hromady.
+
+</section>
+
+<section>
 
 Na obě strany, strany
 
@@ -170,6 +184,10 @@ zle matičko, zle matičko,
 
 zle matičko, zle!
 
+</section>
+
+<section>
+
 Zle matičko, zle matičko,
 
 zle matičko, zle!
@@ -238,6 +256,10 @@ nejeden synáček
 
 u tebe zahyne.
 
+</section>
+
+<section>
+
 Kolíne, Kolíne!
 
 nejsi hoden státi:
@@ -245,6 +267,10 @@ nejsi hoden státi:
 nejedna matička
 
 synáčka tam ztratí.
+
+</section>
+
+<section>
 
 Matička synáčka,
 
@@ -302,6 +328,10 @@ jen když Brandeburk nespálil
 
 naše vesnice.
 
+</section>
+
+<section>
+
 Stejskejme si, jak jen chceme,
 
 co to zpomůže?
@@ -338,6 +368,10 @@ císař pán povídal,
 
 že rozbourá všecko.
 
+</section>
+
+<section>
+
 Turek mu odepsal,
 
 že se ho nebojí:
@@ -346,6 +380,10 @@ Turek mu odepsal,
 
 samá voda stojí.
 
+</section>
+
+<section>
+
 Bělohrad, Bělohrad,
 
 turecké pomezí:
@@ -353,6 +391,10 @@ turecké pomezí:
 nejednej mamičky
 
 synáček tam leží.
+
+</section>
+
+<section>
 
 Nejeden synáček,
 
@@ -400,6 +442,12 @@ až se generál navrátí,
 
 někdo to smrti zaplatí.
 
+</section>
+
+<section>
+
 Léta 1814 ležel pluk jistého ruského generála v kraji Berounském. Jeden důstojník, jeho příbuzný, byl se svým oddělením ubytován v jistém městě blíže Berouna a velmi tam byl oblíben, až i bály jemu k vůli strojili. Důstojník při takových příležitostech nešetřil peněz, a když se mu jich jednou nedostávalo, pomohl sobě z vojenské pokladnice, kteráž mu byla svěřena. I nezůstalo to tajno, a důstojník byl vojenským soudem odsouzen. Na tento příběh
 
 vztahuje se písnička svrchu položená, kterou pak v tom městě zpívali. Některé zpomínky historické nalézají se již také napřed mezi písněmi vojenskými, totiž: ze sedmileté války na str. 448 č. 336 a na str. 464 č. 868; z turecké války na str. 441 č. 309 a na str. 455 č. 366: z války francouzské na str. 443 č. 818 a z války maďarské (1849) na str. 443 č. 319.
+
+</section>

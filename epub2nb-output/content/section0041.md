@@ -1,6 +1,8 @@
 ---
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 ## Cesta s kostela.
 
@@ -14,25 +16,49 @@ Pověz ty mně, hvězdičko má, 1)
 
 jsi-li jasná, nebo tmavá?
 
+</section>
+
+<section>
+
 Jsi-li tmavá, vyjasni se:
 
 má panenko, rozmysli se.
+
+</section>
+
+<section>
 
 „Já jsem se už rozmyslila,
 
 otce, matku opustila.
 
+</section>
+
+<section>
+
 Otce, matku i přátele,
 
 zvolila si jenom tebe.
+
+</section>
+
+<section>
 
 A ne na rok, na dvě léta:
 
 ale do skonání světa.
 
+</section>
+
+<section>
+
 Do skonání mého, tvého,
 
 nepohlednout na žádného.
+
+</section>
+
+<section>
 
 Nepohlednout, nezasmát se,
 
@@ -43,6 +69,10 @@ Z Berounska – Srov. Čel. II, 25: Suš. 310: Kol. I, 225; II, 332; Vójc. I, 6
 1) Proč, kalino, v struze stojíš?
 
 snad se tuze sucha bojíš?
+
+</section>
+
+<section>
 
 Stoj, kalino! neboj ty se:
 
@@ -63,6 +93,10 @@ cos myslila,
 před božskou tváří
 
 přísahala?
+
+</section>
+
+<section>
 
 „Nechtěla jsem,
 
@@ -96,6 +130,10 @@ přesmutná děvečka!
 
 Z Prachenska.
 
+</section>
+
+<section>
+
 Cos, Andulko, myslila
 
 před velkým oltářem,
@@ -103,6 +141,10 @@ před velkým oltářem,
 že jsi ruku podala
 
 před panem farářem?
+
+</section>
+
+<section>
 
 Hleď, Andulko, hleď, hleď,
 
@@ -112,6 +154,10 @@ co jsi chtěla, už to máš,
 
 už se tomu neschováš!
 
+</section>
+
+<section>
+
 Kdybysi se schovala,
 
 on tě bude hledat,
@@ -119,6 +165,10 @@ on tě bude hledat,
 s když psk tě dostane,
 
 tu se bude hněvat.
+
+</section>
+
+<section>
 
 Hleď, Andulko, hleď, hleď,
 
@@ -144,6 +194,10 @@ pojď sem, můj holečku,
 
 a zavaž mi ji.
 
+</section>
+
+<section>
+
 Hlavičku váže,
 
 ruce mu klesly:
@@ -151,6 +205,10 @@ ruce mu klesly:
 co jsi, můj holečku,
 
 co’s tak uleklý?
+
+</section>
+
+<section>
 
 „Já jsem se nelek‘,
 
@@ -160,6 +218,10 @@ ale jsem se bál,
 
 v rukou umírá.“
 
+</section>
+
+<section>
+
 Já neumírám,
 
 ale se trápím:
@@ -168,6 +230,10 @@ pro tebe, holečku,
 
 svou krásu tratím.
 
+</section>
+
+<section>
+
 „A když ji tratíš
 
 pro mě samého,
@@ -175,6 +241,10 @@ pro mě samého,
 chci já tě milovat
 
 do dne soudného.“
+
+</section>
+
+<section>
 
 Do dne soudného,
 
@@ -232,6 +302,10 @@ měla jsi do stavu
 
 dost těžkou cestu.
 
+</section>
+
+<section>
+
 Ty jsi se spolehla
 
 na své růžičky:
@@ -247,6 +321,10 @@ ti neubráni,
 musíš vzít čepeček
 
 a býti paní.
+
+</section>
+
+<section>
 
 Ještě se s panenským
 
@@ -280,6 +358,10 @@ aby se vás nechytily
 
 nikdy žádny stesky.
 
+</section>
+
+<section>
+
 Vy manželé mladí!
 
 mějte se vždy rádi:
@@ -287,6 +369,10 @@ mějte se vždy rádi:
 chcete-li bejt spolu šťastni,
 
 varujte se vády.
+
+</section>
+
+<section>
 
 Varujte se vády,
 
@@ -312,6 +398,10 @@ proč pak tám, mládenci, chodíte,
 
 když vás tám není třeba?
 
+</section>
+
+<section>
+
 „Kdyby nás tu třeba nebylo,
 
 my bysme sem nepřišli:
@@ -322,6 +412,10 @@ my jsme si pro ně přišli.“
 
 Z Domažlicka.
 
+</section>
+
+<section>
+
 Z oddavek ubírají se všickni obyčejně do hospody, kdež tancem a zpěvem se baví, dokud jich nepovolají do příbytku nevěstina k obědu, což teprve k večeru bývá.
 
 ### Oběd u nevěsty.
@@ -329,6 +423,10 @@ Z oddavek ubírají se všickni obyčejně do hospody, kdež tancem a zpěvem se
 Při obědě sedí nevěsta za hlavním stolem, jenž proto slově „stůl nevěstin“, na předním místě, totiž v koutě nejzáze ode dveří, podlé ní ženich, s druhé strany starosvatbí a , dále družičky. U stolu nevěstina sedí také všickni vzácnější hosti. Z rozkrájeného chleba dostane nevěsta skrojek, aby nebyla žádostivá chleba.
 
 Když řečník první jídlo přinese, zastaví se maličko ve dveřích a řekne:
+
+</section>
+
+<section>
 
 Různo, různo, chaso!
 
@@ -350,6 +448,10 @@ k těmto ctným a šlechetným pannám.
 
 Muzikanti tuš!
 
+</section>
+
+<section>
+
 A postaviv jídlo na stul, počne mluviti takto:
 
 „Slovutní, vzácné poctivosti páni, mnoho vážené paní, ctní a šlechetní panicové a panny! pan otec s paní mateří, pan ženich s pannou nevěstou laskavě a přátelsky vás vítají z chrámu Páně do příbytku tohoto, přitom co nejuctivěji děkujíce za tu lásku jim dnešního dne prokázanou, že jste se za ně nestyděli a tento dnešní manželský sňatek i přátelský oběd svými vzácnými osobami ozdobili; za kteroužto lásku chtějí se zase vším dobrým, a zvláště v podobném spůsobu odsloužiti. A poněvadž je pán linii dnešního dne, mimo jiné dary Ducha svatého, obzvláště také darem síly obdařiti ráčil, kterýžto dar ve spůsobu některých pokrmů a nápojů námi dožádanými služebníky pred vaše vzácné osoby nyní bude postaven; protož vás uctivě žádají, abyste jeho v bázní boží s chutí a veselostí požívali. Dříve však, než se to stane, slušná a chvalitebná věc jest, abychom pánu Bohu čest a chválu vzdali a jeho za požehnání těch pokrmů a nápojů kratičkou modlitbou i písní srdečuě požádali.“
@@ -367,6 +469,10 @@ Potom se řečník obrátí zas k hostům, řka:
 Vysoce váženi páni hostil oznamuju vám s uctivostí, abyste při této veselosti v své nějaké potřebnosti na mě se vždy domluvili – jen nikdy neuhodili 1 chcit já všecko obstarati a vám ochotné podati. I také mládenci moji všem na službu pilně stojí, obzvláště pannám družičkám, červeným, bílým růžičkám. Kdo chce mít nějakou službu, jen ať zavolá na družbu!
 
 Hostina svatební trvá někdy až do pozdní noci. Nejobyčejnější jídla při ní bývají tato: polívka hovězí s kroupami, kaše pšenná neb jahelná s medem nebo s perníkem a s rozinkami, hovězí maso s křenem ve smetaně vařeným, hrách s perníkem, podsvinče nadité jablky, skopové s turínem, vepřové se zelím, slepice s nudlemi a s rozinkami, pečené te-lecí a skopová, vepřovina s nakyslou omáčkou a s rozinkami, pečené husy a kachny, potom koláče a naposled buchta neb homole. Při každém jídle, které družba nese na stůl, propoví něco k smíchu; nesa maso, řekne ku př. takto:
+
+</section>
+
+<section>
 
 Různo, různo, různo, chaso!
 
@@ -476,6 +582,10 @@ já vám to chci napravili,
 
 před vás plnou postaviti.
 
+</section>
+
+<section>
+
 Ještě to máme dvanáct uherských volů,
 
 pro ty pošleme šest vozů spolu,
@@ -556,6 +666,10 @@ do své plné smrti
 
 musím jeho býti.
 
+</section>
+
+<section>
+
 Aj, vy muzikanti!
 
 hrajte mi vesele,
@@ -571,6 +685,10 @@ což truchlivá budu!
 kterak já lu na vás
 
 smutná zapomenu!
+
+</section>
+
+<section>
 
 Má matička milá
 
@@ -588,6 +706,10 @@ brzo mne ztratíte,
 
 jako strom jablíčko!
 
+</section>
+
+<section>
+
 Což tak, vy družičky!
 
 tiše tu sedíte
@@ -603,6 +725,10 @@ promluvte slovíčko;
 brzo mne ztratíte
 
 co z klásku zrníčko!
+
+</section>
+
+<section>
 
 Už mně budou vínek,
 
@@ -642,6 +768,10 @@ máte mě vodtud ztratit
 
 jako strom jablíčko.
 
+</section>
+
+<section>
+
 Pře-má milá matička
 
 za stolečkem sedí,
@@ -657,6 +787,10 @@ promluvte slovíčko;
 máte mé vodtad ztratit
 
 jako strom jablíčko.
+
+</section>
+
+<section>
 
 Pře-můj milej bratříček
 
@@ -674,6 +808,10 @@ máš brzy na mně ztratit
 
 z prstenu vočíčko.
 
+</section>
+
+<section>
+
 Pře-má milá sestřička
 
 za stolečkem sedí,
@@ -690,6 +828,10 @@ máš brzy na mně ztratit
 
 z prstenu vočíčko.
 
+</section>
+
+<section>
+
 Pře-můj milej ženíšek
 
 za stolečkem sedí,
@@ -705,6 +847,10 @@ promluv jen slovíčko:
 máš ty mě k sobě přimnout
 
 za ženu brzičko.
+
+</section>
+
+<section>
 
 Pře-mý mily muziky!
 
@@ -723,3 +869,5 @@ svejch milejch a hupřímnejch
 na věky pozbudu!
 
 Z Domažlicka.
+
+</section>

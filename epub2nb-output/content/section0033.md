@@ -1,6 +1,8 @@
 ---
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 ## e) Hudba a tanec.
 
@@ -20,7 +22,9 @@ za kamny v košíčku
 
 chocholatou.
 
-  
+</section>
+
+<section>
 
 Tatíčku, hraj!-
 
@@ -48,7 +52,9 @@ aby mně zabřinkal
 
 večír u vokýnka.
 
-  
+</section>
+
+<section>
 
 Večír u vokýnka,
 
@@ -60,7 +66,9 @@ aby každý věděl,
 
 Z Berounska.
 
-  
+</section>
+
+<section>
 
 (Nápěv 775.)
 
@@ -88,7 +96,9 @@ dokud jsem nevhodil
 
 dolar do cimbála.
 
-  
+</section>
+
+<section>
 
 Tolar do cimbála,
 
@@ -98,7 +108,9 @@ ještě jsem si k tomu
 
 novy boty koupil.
 
-  
+</section>
+
+<section>
 
 Sobě novy boty,
 
@@ -208,7 +220,9 @@ Pískejte ještě
 
 po celým městě.
 
-  
+</section>
+
+<section>
 
 Kačerovy dudy
 
@@ -234,7 +248,9 @@ Strakonické dudy hučí,
 
 já jsem holka od Strakonic.“
 
-  
+</section>
+
+<section>
 
 V Strakonicích za oltářem
 
@@ -256,55 +272,73 @@ Je-li pak to pravda, nebo ne,
 
 že plyne dudáček po vodě?
 
-  
+</section>
+
+<section>
 
 Jakpak by to pravda nebylo?
 
 modrooké děvče pravilo.
 
-  
+</section>
+
+<section>
 
 Běžte, lidi, běžte s hákama,
 
 vytáhněte ho i s dudama.
 
-  
+</section>
+
+<section>
 
 Zabili dudáčka, zabili, 1)
 
 kdo nám bude hrávat na dudy?
 
-  
+</section>
+
+<section>
 
 Ještě je tu jeden takovej:
 
 toho nám tu pán Bůh zachovej!
 
-  
+</section>
+
+<section>
 
 Zadudej, dudáčku, zadudej!
 
 nebo mi ty zlaté dudy dej.
 
-  
+</section>
+
+<section>
 
 „Než bych já ty zlaté dudy dal,
 
 radši bych ti na ně zadudal.“
 
-  
+</section>
+
+<section>
 
 Zadudej dudáčku, jak umíš,
 
 však ty tomu dobře rozumíš.
 
-  
+</section>
+
+<section>
 
 „Kterak pak bych dobře zadudal?
 
 ještě jsem pivička nebubal!
 
-  
+</section>
+
+<section>
 
 Až já se pivička nabubám,
 
@@ -316,19 +350,25 @@ Z Táborska. – Srov. Čel. III, 57; Suš. 152.
 
 tak nám na ty dudy zadudli.
 
-  
+</section>
+
+<section>
 
 „Jak pak bych na dudy zndudlal,
 
 když jsem ještě pivo nebumbal?
 
-  
+</section>
+
+<section>
 
 Až já se pivička nabumbám,
 
 pak vám na ty dudy zadudlám.“
 
-  
+</section>
+
+<section>
 
 Zadudej dudáčku, jak umíš,
 
@@ -426,25 +466,33 @@ Muzikanti! co děláte?
 
 pivo máte a nehráte.
 
-  
+</section>
+
+<section>
 
 Zahrajte mně na housličky,
 
 rozveselte ty holčičky.
 
-  
+</section>
+
+<section>
 
 Zahrajte mně na tu basu,
 
 rozveselte všecku chasu.
 
-  
+</section>
+
+<section>
 
 Zahrajte mně na ty dudy,
 
 rozveselte všechny všudy.
 
-  
+</section>
+
+<section>
 
 Zahrajte mně všickni spolu,
 
@@ -484,7 +532,9 @@ jakou já na mysli mám,
 
 takovou vám zazpívám.
 
-  
+</section>
+
+<section>
 
 Měl jsem holku vedle ze vsi,
 
@@ -494,7 +544,9 @@ měl jsem ji rád dvě léta –
 
 už po lásce je veta!
 
-  
+</section>
+
+<section>
 
 Dva mily za sebou vodí,
 
@@ -504,7 +556,9 @@ ona oba ráda má,
 
 a tu láska přestává!
 
-  
+</section>
+
+<section>
 
 Vždyť si můžu ještě vybrat
 
@@ -514,7 +568,9 @@ z trní růže pichlavá,
 
 jako panna podvodná.
 
-  
+</section>
+
+<section>
 
 Z trní růže píchá ruce,
 
@@ -536,19 +592,25 @@ Zahrajte mně, muzikanti,
 
 a já budu vám zpívati.
 
-  
+</section>
+
+<section>
 
 Zahrajte vy mně písničku:
 
 že mně odvedli Ančičku.
 
-  
+</section>
+
+<section>
 
 Z toho já si nic nedělám,
 
 klobouček si na stranu dám.
 
-  
+</section>
+
+<section>
 
 Vždyť je panen všude dosti,
 
@@ -642,7 +704,9 @@ jenom naše dobry meno,
 
 že se dobře chováme.
 
-  
+</section>
+
+<section>
 
 Alou, hoši kamarádi!
 
@@ -732,7 +796,9 @@ podme se tam podívat,
 
 kdo to tam tancuje.
 
-  
+</section>
+
+<section>
 
 Tancujou tam vojáci,
 
@@ -798,7 +864,9 @@ já si hledám potěšení,
 
 jehož doma nemám.
 
-  
+</section>
+
+<section>
 
 Však jste vy se, má matičko,
 
@@ -826,7 +894,9 @@ Bohu tě poručím,
 
 ať si tě má, kdo chce.
 
-  
+</section>
+
+<section>
 
 Kýž je mi tak vždycky,
 
@@ -872,7 +942,9 @@ lepší je ta malá holka,
 
 nežli je ta veliká.
 
-  
+</section>
+
+<section>
 
 Ta malá se sama točí,
 
@@ -936,7 +1008,9 @@ vzkažte je, mládenci, pozdravit,
 
 aby šly radši domů.
 
-  
+</section>
+
+<section>
 
 „Nepudem, truc na truc nepudem,
 
@@ -962,7 +1036,9 @@ stejskají si čtyry panny,
 
 že je k tanci neberou.
 
-  
+</section>
+
+<section>
 
 Vzal bych já si z nich tu jednu,
 
@@ -972,7 +1048,9 @@ vzal bych já si z nich tu druhou,
 
 ta mne tluče kolenem.
 
-  
+</section>
+
+<section>
 
 Vzal bych já si z nich tu třetí,
 
@@ -982,7 +1060,9 @@ má nožičky jak obroučky
 
 a bradičku na stranu.
 
-  
+</section>
+
+<section>
 
 Vzal bych já si třeba čtvrtou,
 
@@ -1038,7 +1118,9 @@ bodejž tebe šlaci vzali,
 
 jakej jsi to pacholek!
 
-  
+</section>
+
+<section>
 
 Nezáleží na děvečce,
 
@@ -1072,7 +1154,9 @@ bolí hlava mě,
 
 potěšení mé.
 
-  
+</section>
+
+<section>
 
 Když se hněvá, ať se hněvá,
 
@@ -1100,7 +1184,9 @@ ten se v kole točí
 
 jako z růží věnec.
 
-  
+</section>
+
+<section>
 
 Poznám, poznám, poznám,
 
@@ -1110,7 +1196,9 @@ ta se v kole točí
 
 jako rozmarínka.
 
-  
+</section>
+
+<section>
 
 Poznám, poznám, poznám,
 
@@ -1120,7 +1208,9 @@ ta se v kole točí jako
 
 holubička.
 
-  
+</section>
+
+<section>
 
 Poznám, poznám, poznám,
 
@@ -1132,7 +1222,9 @@ jako pán bohatý.
 
 Z Prachenska.
 
-  
+</section>
+
+<section>
 
 Z daleka se pozná,
 
@@ -1142,7 +1234,9 @@ má klobouk na stranu,
 
 na něm z růží věnec.
 
-  
+</section>
+
+<section>
 
 Z daleka se pozná,
 
@@ -1152,7 +1246,9 @@ chodí vystrojena
 
 jako majolenka.
 
-  
+</section>
+
+<section>
 
 Z daleka se pozná,
 
@@ -1162,7 +1258,9 @@ chodí nevyspalý,
 
 celý jeřabatý.
 
-  
+</section>
+
+<section>
 
 Z daleka se pozná,
 
@@ -1196,7 +1294,9 @@ mládenci s děvčaty
 
 pěkné tancujou.
 
-  
+</section>
+
+<section>
 
 Pěkně se mnou tancuj,
 
@@ -1230,7 +1330,9 @@ přijde do hospody,
 
 předce tam stojí.
 
-  
+</section>
+
+<section>
 
 Lecjakás Němkyně,1)
 
@@ -1270,7 +1372,9 @@ tvá milá!
 
 Z Klatovska.
 
-  
+</section>
+
+<section>
 
 (Nápěv 830.)
 
@@ -1396,7 +1500,9 @@ koza se ti okozlila,
 
 není tomu dávno.
 
-  
+</section>
+
+<section>
 
 Komu se tak podařilo,1)
 
@@ -1460,7 +1566,9 @@ to je jí.
 
 Z Bydžovska.
 
-  
+</section>
+
+<section>
 
 (Nápěv 201.)
 
@@ -1472,7 +1580,9 @@ Ukradli jí sukni
 
 zloději.
 
-  
+</section>
+
+<section>
 
 Ukradli jí taky
 
@@ -1482,7 +1592,9 @@ aby nechodila
 
 k muzice.
 
-  
+</section>
+
+<section>
 
 Ukradli jí taky
 
@@ -1548,7 +1660,9 @@ nepudeme domů, až ráno,
 
 až bude den.
 
-  
+</section>
+
+<section>
 
 Nepudeme domů, až ráno,
 
@@ -1586,7 +1700,9 @@ dokud si děvčátko
 
 nenamluvím.
 
-  
+</section>
+
+<section>
 
 Až si ho namluvím,
 
@@ -1612,7 +1728,9 @@ až mne vyprovodí
 
 moje tanečnice.
 
-  
+</section>
+
+<section>
 
 Nepůjdu z hospody,
 
@@ -1622,7 +1740,9 @@ až mne vyprovodí
 
 moje potěšení.
 
-  
+</section>
+
+<section>
 
 Moje potěšení,
 
@@ -1632,7 +1752,9 @@ až mne vyprovodí
 
 před ty naše vrata.
 
-  
+</section>
+
+<section>
 
 Nepůjdu z hospody
 
@@ -1642,7 +1764,9 @@ až pro mne má milá
 
 v kočáře přijede.
 
-  
+</section>
+
+<section>
 
 Kočár malovanej,
 
@@ -1652,7 +1776,9 @@ až si mne odveze
 
 potěšení moje.
 
-  
+</section>
+
+<section>
 
 Nepůjdu z hospody
 
@@ -1662,7 +1788,9 @@ až ty stary panny
 
 všecky vlk pobere.
 
-  
+</section>
+
+<section>
 
 Ty stary pobere,
 
@@ -1672,7 +1800,9 @@ jako když vyroste
 
 jeteličks s rosou.
 
-  
+</section>
+
+<section>
 
 Jetelička s rosou
 
@@ -1682,7 +1812,9 @@ jako když se děvče
 
 ve svátek obleče.
 
-  
+</section>
+
+<section>
 
 Ve svátek obleče,1)
 
@@ -1716,7 +1848,9 @@ kdož je ji maloval?
 
 mládenci s pannama.
 
-  
+</section>
+
+<section>
 
 Mládenci s pannama,
 
@@ -1742,7 +1876,9 @@ kdo nemá peníze,
 
 ať do ní nechodí.
 
-  
+</section>
+
+<section>
 
 Já sic peněz nemám,
 
@@ -1752,7 +1888,9 @@ přece do ní pudu,
 
 namlouvat si budu.
 
-  
+</section>
+
+<section>
 
 Ta zdejší hospoda
 
@@ -1762,7 +1900,9 @@ přeletěla přes ni
 
 husička poká.
 
-  
+</section>
+
+<section>
 
 Nebyla to husa,
 
@@ -1788,7 +1928,9 @@ nemohla přeletět,
 
 padla do potoka.
 
-  
+</section>
+
+<section>
 
 Padla do potoka,
 
@@ -1798,7 +1940,9 @@ aby jí šenkýři
 
 nelili do piva.
 
-  
+</section>
+
+<section>
 
 Nelili do piva,
 
@@ -1888,7 +2032,9 @@ on se mnou zahrává,
 
 tadl-dy tadl-dy dydl-dá.
 
-  
+</section>
+
+<section>
 
 Venclíčka mám radší,
 
@@ -1946,7 +2092,9 @@ já jsem malá, ty jsi velkej,
 
 já se k tobě nešiknu.
 
-  
+</section>
+
+<section>
 
 Koupil jsem si v Praze břitvu,
 
@@ -2012,7 +2160,9 @@ to je kroužek.
 
 Z Táborska.
 
-  
+</section>
+
+<section>
 
 Žádnej neví, co je kroužek:
 
@@ -2052,7 +2202,9 @@ napilo se kořaličky,
 
 vono je vopily.
 
-  
+</section>
+
+<section>
 
 A já vždycky, a já vždycky,
 
@@ -2122,7 +2274,9 @@ počkej, já to na tě povím.
 
 Z Boleslavska.
 
-  
+</section>
+
+<section>
 
 (Nápěv 526)
 
@@ -2270,7 +2424,9 @@ Holka boty mazala,
 
 až jí bota vrzala.
 
-  
+</section>
+
+<section>
 
 Hej, holka, ty jsi škytla,
 
@@ -2388,7 +2544,9 @@ kocour jí chytit nemůže.
 
 Z Berounska.
 
-  
+</section>
+
+<section>
 
 Hutíkej, Káče, hutíkej,
 
@@ -2414,7 +2572,9 @@ zeptám se tě při muzice,
 
 máš-li ke mně věrné srdce?
 
-  
+</section>
+
+<section>
 
 Kolik jsi mně šátků dala,
 
@@ -2486,7 +2646,9 @@ takhle v Rokycanech
 
 po maloučku pracujou.
 
-  
+</section>
+
+<section>
 
 Má milá máti!
 
@@ -2496,7 +2658,9 @@ hubičku nebo dvě,
 
 že mi je vrátí.
 
-  
+</section>
+
+<section>
 
 „Mé zlaté dítě!
 
@@ -2644,7 +2808,9 @@ popad ženu,
 
 tancoval s ní maděru.
 
-  
+</section>
+
+<section>
 
 Náš pan Matěj
 
@@ -2706,7 +2872,9 @@ já ne, to ty
 
 koupila´s mi je.
 
-  
+</section>
+
+<section>
 
 Já ne, to ty
 
@@ -2874,7 +3042,9 @@ kde jsem já včera byl,
 
 nečesal, nekrmil?
 
-  
+</section>
+
+<section>
 
 Mý koníčky vraný
 
@@ -2902,7 +3072,9 @@ vlk tam sedí v cestě.
 
 Z Prachenska.
 
-  
+</section>
+
+<section>
 
 Zpíval bych, já neumím,
 
@@ -2980,7 +3152,9 @@ uvážu koníčka
 
 vedle vrat.
 
-  
+</section>
+
+<section>
 
 Uvážu koníčka
 
@@ -3006,7 +3180,9 @@ Janečkovi,
 
 Holečkovi!
 
-  
+</section>
+
+<section>
 
 Nic se neptejte,
 
@@ -3017,3 +3193,5 @@ Janečkovi,
 holečkovi!
 
 Z Plzeňska.
+
+</section>

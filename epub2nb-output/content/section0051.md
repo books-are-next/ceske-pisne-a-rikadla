@@ -1,6 +1,8 @@
 ---
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 ## Příjezd nevěstin.
 
@@ -20,6 +22,10 @@ vezem vám nevěstu
 
 vod stříbra, zlata.
 
+</section>
+
+<section>
+
 Vodevírejte se 2)
 
 ty váše dvířce:
@@ -27,6 +33,10 @@ ty váše dvířce:
 vezem vám nevěsta,
 
 má novy tříce.
+
+</section>
+
+<section>
 
 Sundávejte se
 
@@ -36,6 +46,10 @@ vezem vám nevěstu
 
 samy fábory.
 
+</section>
+
+<section>
+
 Poneste žedličku
 
 vaší nevěstě:
@@ -43,6 +57,10 @@ vaší nevěstě:
 vezem vám nábytek,
 
 stojí za dvě stě.
+
+</section>
+
+<section>
 
 Poneste žedličku, 3)
 
@@ -52,6 +70,10 @@ ať sobě nezláme
 
 nevěsta nohu.
 
+</section>
+
+<section>
+
 Slízej, ty nevěsto,
 
 slízej ty s vozu,
@@ -59,6 +81,10 @@ slízej ty s vozu,
 jdi se tam podívat
 
 do svýho domu.
+
+</section>
+
+<section>
 
 Do svýho tam domu,
 
@@ -68,6 +94,10 @@ jdi se tam podívat
 
 ke svý mamičce.
 
+</section>
+
+<section>
+
 Dyž přídeš do senci,
 
 dej pozdravení:
@@ -75,6 +105,10 @@ dej pozdravení:
 „Ste-li pak tu všichni, 4)
 
 moji přáteli?“
+
+</section>
+
+<section>
 
 Postavte halmárku,
 
@@ -84,6 +118,10 @@ ať se nám nevěsta
 
 demů nevrátí.
 
+</section>
+
+<section>
+
 Pote ji, mamičko,
 
 pote ji vítat:
@@ -91,6 +129,10 @@ pote ji vítat:
 bude vás Hančička
 
 pěkně poslúchat.
+
+</section>
+
+<section>
 
 Pote ji, tatíčku,
 
@@ -100,6 +142,10 @@ bude vás Hančička
 
 dobře poslúchat.
 
+</section>
+
+<section>
+
 Bude vás poslúchat
 
 v pátek, v sobotu,
@@ -107,6 +153,10 @@ v pátek, v sobotu,
 bude vám dělávat
 
 všechnu robotu
+
+</section>
+
+<section>
 
 Pote ji huvílat,
 
@@ -156,6 +206,10 @@ ať si nepolámu
 
 na kloboučku zlata.
 
+</section>
+
+<section>
+
 Panímámo zlatá!
 
 otevřete dvířka:
@@ -165,6 +219,10 @@ ať si nepolámu
 na kloboučku pírka.
 
 Z Táborska.
+
+</section>
+
+<section>
 
 (Nápěv 497.)
 
@@ -202,6 +260,10 @@ nevyjdete-li ven,
 
 zas pojedem pryč.
 
+</section>
+
+<section>
+
 Panímámo Jersouc!
 
 zameťte cestu:
@@ -217,6 +279,10 @@ samy dukáty,
 strakatý peřiny,
 
 halmaru taky.
+
+</section>
+
+<section>
 
 Panímámo Jersouc!
 
@@ -270,6 +336,10 @@ budeš-li hupřímná,
 
 budeme taky.
 
+</section>
+
+<section>
+
 My máme hupřimnost,
 
 my ti ji dáme:
@@ -279,6 +349,10 @@ za naši dcerušku
 té přijímáme.
 
 Z Domažlicka.
+
+</section>
+
+<section>
 
 Po té uvede družba nevěstu s ženichem do světnice a odevzdá ji rodičům ženichovým, řka:
 
@@ -336,6 +410,10 @@ když jsem se dostala
 
 daleko od mámy.
 
+</section>
+
+<section>
+
 Daleko od mámy,
 
 od zlatý mamičky:
@@ -346,6 +424,10 @@ mý černý očičky!
 
 Z Berounska.
 
+</section>
+
+<section>
+
 Vdala jsem se, vdala!
 
 co je po mém vdaní,
@@ -353,6 +435,10 @@ co je po mém vdaní,
 když jsem se dostala,
 
 kde chleba nemají.
+
+</section>
+
+<section>
 
 Kde chleba nemají,
 
@@ -384,6 +470,10 @@ ach té naší louže,
 
 z rozkoše do nouze.
 
+</section>
+
+<section>
+
 Kde chleba nemají,
 
 nikdy ho nepečou;
@@ -393,3 +483,5 @@ nikdy ho nepečou;
 bezděčnou nevěstou!
 
 Z Bydžovska.
+
+</section>

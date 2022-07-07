@@ -1,6 +1,8 @@
 ---
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 ## Poděkování.
 
@@ -19,6 +21,10 @@ Též za odpuštění žádají páni muzikanti, kdyby jich muzika někomu k lib
 Posledně pak my služebníci svatby také za odpuštění žádáme, jest-li žeby naše služba někomu příjemná nebyla, by nám bylo laskavě odpuštěnou
 
 Místem hudebníci sami takto se omlouvají:
+
+</section>
+
+<section>
 
 My co partesy nosíme,
 
@@ -56,6 +62,10 @@ Tak budem veseli zase,
 
 posloužíme naší kase.
 
+</section>
+
+<section>
+
 Konečně vezme řečník hni nějakou a zatluče ve světnici třikráte do trámu stropního, volaje silným hlasem:
 
 „Hola! páni hosti, hola!
@@ -63,3 +73,5 @@ Konečně vezme řečník hni nějakou a zatluče ve světnici třikráte do tr�
 pan hospodský na nás volá,
 
 a zve nás, že má doma ve sklepě černou krávu, kteráž ač jen na jeden struk dojí, přece tolik mu nadojí, že může mnoho hostů poctiti. A protož žádá pan hospodský, abysme jej navštívili, že chce od té černé krávy nás všechny podělili, napojili a nás obveselili.“
+
+</section>

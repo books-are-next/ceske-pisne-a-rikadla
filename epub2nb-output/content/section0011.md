@@ -1,6 +1,8 @@
 ---
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 ## Dětské hry.
 
@@ -232,13 +234,17 @@ Tancujte myši,
 
 kde kerá slyší.
 
-  
+</section>
+
+<section>
 
 Kerá je hluchá,
 
 ať neposlucha.
 
-  
+</section>
+
+<section>
 
 Kerá je chromá,
 
@@ -433,3 +439,5 @@ Na to zůstane kolo stati a děvče v něm stojící prostře svůj šáteček p
 Z Bydžovska.
 
 Z her výročních jsou společné: jarní: a) Žalman; podzimní: b) na vlka jedna i druhá, a umní: d) na Kuca-babu.
+
+</section>

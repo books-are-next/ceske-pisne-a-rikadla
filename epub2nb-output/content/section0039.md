@@ -1,6 +1,8 @@
 ---
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 ## Cesta do kostela.
 
@@ -25,6 +27,10 @@ děvče namluveny,
 pěkně přistrojeny,
 
 jen k oltáři kleknout.
+
+</section>
+
+<section>
 
 K oltáři ptiklekoou,
 
@@ -72,6 +78,10 @@ tenkrát jsi má!
 
 ještě jsem paňmámina.“
 
+</section>
+
+<section>
+
 Už mou milou k oltáři vedou:
 
 tenkrát jsi, má panenko,
@@ -106,6 +116,10 @@ vem si mě, vem si mě,
 
 uhlídáš!“
 
+</section>
+
+<section>
+
 Což se mně, má nula,
 
 hezká zdáš!
@@ -121,6 +135,10 @@ ovci s jehňátkem,
 strakatou slepičku
 
 s kuřátkem.“
+
+</section>
+
+<section>
 
 „Vem si mě, můj milej,
 
@@ -139,6 +157,10 @@ kuželíček každej den
 vypřádám.“
 
 Z Berounska. – Srov. Čel. II, 3.
+
+</section>
+
+<section>
 
 (Nápěv 990)
 
@@ -226,6 +248,10 @@ počkej, holka černooká,
 
 však ty budeš plakat!
 
+</section>
+
+<section>
+
 Počkej, holka černooká,
 
 však ty budeš plakat:
@@ -254,6 +280,10 @@ tam ti budou vyčítat,
 
 že není nic tvýho.
 
+</section>
+
+<section>
+
 Nedávej se, Bětuško,
 
 do cizího statku:
@@ -261,6 +291,10 @@ do cizího statku:
 tam ti budou vyčítat,
 
 že máš chudou matku.
+
+</section>
+
+<section>
 
 Jeden tebou postrčí,
 
@@ -312,6 +346,10 @@ na mú hlavu věnec
 
 položila.
 
+</section>
+
+<section>
+
 „To se tě, muj chlapče,
 
 nemůže stát,
@@ -344,6 +382,10 @@ on se mne ptáti bude,
 
 je-li to z dobré, vůle?
 
+</section>
+
+<section>
+
 Z dobré vůle je to málo:
 
 z přinuceni se to dálo,
@@ -353,3 +395,5 @@ táta mě s mámou nutí,
 já nemám žádné chuti!
 
 Z Klatovska.
+
+</section>

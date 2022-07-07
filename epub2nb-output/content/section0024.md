@@ -1,6 +1,8 @@
 ---
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 ## Píseň obžínková.
 
@@ -50,7 +52,9 @@ Na podzim lžíce deště
 
 a konev bláta.
 
-  
+</section>
+
+<section>
 
 Na podzim zapraž
 
@@ -58,14 +62,20 @@ Na podzim zapraž
 
 Srov. Jaro, str. 53.
 
-  
+</section>
+
+<section>
 
 Jest-li na podzim mnoho trnek,
 
 bude příštího roku mnoho žít.
 
-  
+</section>
+
+<section>
 
 Na podzim jabloňový květ
 
 kazí mladým lidem svět.
+
+</section>

@@ -1,6 +1,8 @@
 ---
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 ## Podzimní hry.
 
@@ -92,7 +94,9 @@ Mezi tím vlk se přiloudí a vskoči mezi ovce, ježto se rozutíkají; kterou 
 
 Z Bydžovska.
 
-  
+</section>
+
+<section>
 
 V některých místech hrají tuto hru bez ovčáka a bez psíka. Ovečky pasouce se zpívají:
 
@@ -114,7 +118,9 @@ V tom vlček vyskočí a ovce dají se na útěk, trávu natrhanou za hodíce a 
 
 Sr. Krolm. II, 456.
 
-  
+</section>
+
+<section>
 
 V lese vlk, ovce na pastvě a hospodář.
 
@@ -134,7 +140,9 @@ Na to vlk vyběhne a jednu ovci sobě chytí.
 
 Z Berounska.
 
-  
+</section>
+
+<section>
 
 II.
 
@@ -250,7 +258,9 @@ Tu se Žid se země rychle zchopí a děti sc na vše strany rozutíkají; koho 
 
 Z Berounska.
 
-  
+</section>
+
+<section>
 
 V Klatovsku při hře této zpívají:
 
@@ -294,7 +304,9 @@ Teplý Říjen,
 
 studený Únor.
 
-  
+</section>
+
+<section>
 
 Není-li vida ti čečetek,
 
@@ -314,7 +326,9 @@ Svatý Havel
 
 do zelí zajel.
 
-  
+</section>
+
+<section>
 
 Havlovo žito,
 
@@ -335,3 +349,5 @@ hojnost chleba i kaše.
 Svatá Voršila
 
 jíní našila.
+
+</section>

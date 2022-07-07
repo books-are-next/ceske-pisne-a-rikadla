@@ -1,6 +1,8 @@
 ---
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 ## Uvádění nevěsty.
 
@@ -40,6 +42,10 @@ on jí to poví –
 
 jsouť oba sví.
 
+</section>
+
+<section>
+
 Andulka spí,
 
 Jeníček s ní:
@@ -66,6 +72,10 @@ nikdy jsem nenašel,
 
 kde má milá leží.
 
+</section>
+
+<section>
+
 Našel jsem malé okýnko,
 
 tadyadyadum – okýnko:
@@ -74,35 +84,67 @@ spíš-li, má panenko,
 
 spíš-li, má panenko? 
 
+</section>
+
+<section>
+
 „Nynčko jsem jenom usnula,
 
 stýblem zastrčila.
+
+</section>
+
+<section>
 
 Vylez, Jeníčku, nahoru,
 
 odstrč tu závoru.
 
+</section>
+
+<section>
+
 Máš-li košilku kmentovou,
 
 zůstaň tady se mnou.“
+
+</section>
+
+<section>
 
 Pověz mi, má milá, rozmilá,
 
 kdo nás ráno zvolá?
 
+</section>
+
+<section>
+
 „Vlaštovička sedí na lati,
 
 bude štěbetati:
 
+</section>
+
+<section>
+
 Vstávej, Jeníčku! od milej,
 
 už bude den bílej.“
+
+</section>
+
+<section>
 
 Ještě jsem nezačal trochu spát,
 
 už musím zas odtad.
 
 Z Bydžovska. – Srov. H. Luž. 36.
+
+</section>
+
+<section>
 
 (Nápěv 728.)
 
@@ -114,49 +156,97 @@ ničehož jsem nenašel,
 
 nena– nenašel.
 
+</section>
+
+<section>
+
 Jen dost maly vokýnko –
 
 kde ty líháš, hubinko?
+
+</section>
+
+<section>
 
 A já líbám na hůře,
 
 ke mně žádnej nemůže.
 
+</section>
+
+<section>
+
 A já jsem tam zavřena,
 
 stýblem jsem zastrčena.
+
+</section>
+
+<section>
 
 Odstrč ty tu závoru,
 
 a pojď ke mně nahoru.
 
+</section>
+
+<section>
+
 Vlaštovička, černej pták,
 
 ten nás bude budívať.
+
+</section>
+
+<section>
 
 Sedne ráno na lati,
 
 počne si štěbetati:
 
+</section>
+
+<section>
+
 Naše paní dceru má
 
 takovou jak je sama.
+
+</section>
+
+<section>
 
 Má na hlavě čepeček
 
 a na krčku šáteček.
 
+</section>
+
+<section>
+
 Pod šátečkem koraly,
 
 mezi nima toraly.
+
+</section>
+
+<section>
 
 Šněrovačku z batistu:
 
 takovou já holku chcu.
 
+</section>
+
+<section>
+
 Punčošky má Hambursky,
 
 to je děvče dost hezky.
+
+</section>
+
+<section>
 
 Střevíčky má klapy klap!
 
@@ -168,25 +258,49 @@ laky, taky tak.
 
 Z Plzeňska.
 
+</section>
+
+<section>
+
 Spíš, panenko, neb nespíš?
 
 nebo mne neslyšíš?
+
+</section>
+
+<section>
 
 „Nechť si já spím neb nespím,
 
 přec tě sem nepustím.
 
+</section>
+
+<section>
+
 Já jsem silně zavřena,
 
 stýblem zastrčena.
+
+</section>
+
+<section>
 
 Mám košilku kmentovou,
 
 stříbrem krumplovanou.“
 
+</section>
+
+<section>
+
 Vlašťovička malej pták,
 
 ten bude štěbetat.
+
+</section>
+
+<section>
 
 „Vstávej, milej od milý,
 
@@ -208,6 +322,10 @@ svítá svítaníčko:
 
 vstaň, má Anduličko!
 
+</section>
+
+<section>
+
 Kdybych měla klíče
 
 od toho svítání,
@@ -215,6 +333,10 @@ od toho svítání,
 nedala bych svítat
 
 zejtra do snídaní.
+
+</section>
+
+<section>
 
 Kdybych měla klíče
 
@@ -264,6 +386,10 @@ aby se povedla
 
 míšeňská jablíčka.
 
+</section>
+
+<section>
+
 Kdyby to pán Bůh dal,
 
 všickni boží světí:
@@ -288,6 +414,10 @@ jen jedna nespala,
 
 milého čekala.
 
+</section>
+
+<section>
+
 Čekala na něj s muzikou
 
 a s toužebnosti velikou;
@@ -295,6 +425,10 @@ a s toužebnosti velikou;
 když se bo dočkala,
 
 radostí zplesala.
+
+</section>
+
+<section>
 
 Jak promluvil k ní slovíčko:
 
@@ -304,6 +438,10 @@ hoed jeho poznala,
 
 hned se mu ozvala.
 
+</section>
+
+<section>
+
 „Jdu k tobě, mé potěšení,
 
 jdu pro tvé obveselení;
@@ -311,6 +449,10 @@ jdu pro tvé obveselení;
 máš mne služebníka
 
 svého milovníka.
+
+</section>
+
+<section>
 
 Budem se spolu radovat,
 
@@ -321,6 +463,10 @@ a to každou dobu
 až právě do hrobu.“
 
 Z Bydžovska. Píseň městská.
+
+</section>
+
+<section>
 
 V hospodě baví se mladá chasa tancem a zpěvem až do rána. Ráno pak vezmouce hudebníky, jdou zbudit nevěstu; postavivše se pod oknem, hraji a zpívají:
 
@@ -341,6 +487,10 @@ Vstávej, Ančičko!
 stroj snidaníčko,
 
 už je den bílý.
+
+</section>
+
+<section>
 
 „Co pak mě voláte,
 
@@ -369,6 +519,10 @@ už je den:
 zapřáhnem koníčky,
 
 pojedem.
+
+</section>
+
+<section>
 
 Jen ty mne, koníčku,
 
@@ -400,6 +554,10 @@ zapřáhnem koníčky,
 
 pojedem.
 
+</section>
+
+<section>
+
 Až tady pojedu,
 
 dám si hrát,
@@ -416,6 +574,10 @@ Ančičku.
 
 Z Budějovicka.
 
+</section>
+
+<section>
+
 (Nápěv 720.)
 
 Vesele zpívejte,
@@ -423,6 +585,10 @@ Vesele zpívejte,
 kohouti: ať se mé srdéčko
 
 nermoutí!
+
+</section>
+
+<section>
 
 Zpívejte, kohouti,
 
@@ -456,4 +622,10 @@ pojedeme.
 
 Z Budějovicka.
 
+</section>
+
+<section>
+
 Odtud pak jdou s hudbou po celé vsi, dům od domu, a každému pod okny píseň nějakou, nejraději satyrickou, zahrají a zazpívají, což obyčejně až do poledne trvá. Potom zase jdou všickni do příbytku nevěstina k obědu.
+
+</section>

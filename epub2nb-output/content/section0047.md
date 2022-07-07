@@ -1,6 +1,8 @@
 ---
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 ## V hospodě.
 
@@ -26,6 +28,10 @@ nemysli si, má zlatá panenko,
 
 že já budu tvůj.
 
+</section>
+
+<section>
+
 Straka skáče po zahrádce,
 
 hledá zrnéčko:
@@ -33,6 +39,10 @@ hledá zrnéčko:
 nemysli si, má zlatá panenko,
 
 na mé srdéčko.
+
+</section>
+
+<section>
 
 Straka skáče po zahrádce,
 
@@ -42,6 +52,10 @@ nemysli si, má zlatá panenko,
 
 že k vám přijdu zas.
 
+</section>
+
+<section>
+
 Svět měsíčku polehoučku
 
 přes ten panskej les:
@@ -49,6 +63,10 @@ přes ten panskej les:
 nemysli si, má zlatá panenko,
 
 že k vám přijdu dnes.
+
+</section>
+
+<section>
 
 Co ten ptáček s cliocholickou
 
@@ -58,6 +76,10 @@ co nám nese za novino,
 
 že nic neříká?
 
+</section>
+
+<section>
+
 Nese, nese ti novina,
 
 nese takovou:
@@ -65,6 +87,10 @@ nese takovou:
 že tvůj ze všech nejmilejši
 
 chodí za jinou.
+
+</section>
+
+<section>
 
 Co ten ptáček s cliocholickou
 
@@ -74,6 +100,10 @@ co nám nese za novinu,
 
 že tak štěbetá?
 
+</section>
+
+<section>
+
 Nese, nese ti novinu,
 
 nese takovou:
@@ -82,6 +112,10 @@ nese takovou:
 
 čepiti budou.
 
+</section>
+
+<section>
+
 Milá sedí za stolečkem
 
 jako růžička,
@@ -89,6 +123,10 @@ jako růžička,
 nedá sobě rozplítati
 
 svého věnečka.
+
+</section>
+
+<section>
 
 Nežel, nežel, má panenko,
 
@@ -156,6 +194,10 @@ snídani přistrojím,
 
 ty jen se budeš dívat.
 
+</section>
+
+<section>
+
 Dělejte, truhláři, postýlku
 
 dubovou s nebesama:
@@ -182,6 +224,10 @@ když si ustelete,
 
 nestejská se vám.
 
+</section>
+
+<section>
+
 A já ubožátko
 
 sama na peci:
@@ -191,6 +237,10 @@ obrátím se v pravo,
 obrátím se v levo,
 
 všude mě tlačí.
+
+</section>
+
+<section>
 
 Dá-li pán Bůh zdraví,
 
@@ -238,6 +288,10 @@ dvanáct mládenců mé
 
 loudilo.
 
+</section>
+
+<section>
+
 Trubte mně trubači
 
 vesele,
@@ -245,6 +299,10 @@ vesele,
 dokud mám věneček
 
 na čele.
+
+</section>
+
+<section>
 
 Až toho věnečku
 
@@ -255,3 +313,5 @@ do roka veselá
 nebudu!
 
 Z Prachenska.– Srov. str. 286. p. 25; Čel. II, 19; Suš. 434.
+
+</section>
