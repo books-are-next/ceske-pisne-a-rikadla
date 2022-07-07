@@ -5,6 +5,7 @@ contentType: prose
 languageCode: cs
 meta:
   languageCode: cs
+  author: ...
   contentType: poetry
   title: Prostonárodní české písně a říkadla
   identifier: urn:uuid:2b67e203-0d83-408a-adc0-ef62ac4b8d25
