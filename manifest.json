@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "prostonarodni-ceske-pisne-a-rikadla-cd4634a",
-  "revision": "cd4634a",
+  "identifier": "prostonarodni-ceske-pisne-a-rikadla-c549dd2",
+  "revision": "c549dd2",
   "readingOrder": [
     "promo.html",
     "section0001.html",
@@ -83,8 +83,8 @@
     "section0069.html"
   ],
   "generatedAt": {
-    "date": "Mon Oct 10 2022 16:04:39 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665417879442
+    "date": "Fri Oct 21 2022 11:30:37 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1666351837724
   },
   "documents": [
     {
